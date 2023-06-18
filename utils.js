@@ -3,6 +3,7 @@ let { studentSchema } = require("./model/student");
 // let { studentSchema } = require("./model/test");
 let mongoose = require("mongoose");
 let model = mongoose.model;
+let d = require("./tools");
 
 async function connect(database) {
   return new Promise((resolve, resject) => {
@@ -52,10 +53,15 @@ function groupBranches(list) {
   return groups;
 }
 
-async function addAll(groups) {
+async function addAll(groups, isAys) {
   Object.entries(groups).map(async ([schemaName, data]) => {
-    await model(schemaName, studentSchema).insertMany(data);
-    console.log(schemaName + "is Added to DataBase");
+    await model(
+      (isAys ? "analysis" : "") + schemaName,
+      studentSchema
+    ).insertMany(data);
+    console.log(
+      (isAys ? "analysis" : "") + schemaName + " is Added to DataBase"
+    );
   });
 
   console.log("Finished");
@@ -67,9 +73,9 @@ async function getCollectionNames(filter) {
   let collections = await db.listCollections().toArray();
   collections = collections.map((col) => col.name);
   if (filter?.length === 2)
-    return collections.filter((col) => col.endsWith(filter));
-  else if (filter?.length === 3)
     return collections.filter((col) => col.startsWith(filter));
+  else if (filter?.length === 3)
+    return collections.filter((col) => col.endsWith(filter));
   else if (filter?.length === 5)
     return collections.filter((col) => col === filter);
   else return collections;
@@ -85,7 +91,7 @@ async function getAll(filter) {
   });
   await Promise.all(fetchPromise);
   console.log("finished");
-  saveToJson("temp", groups);
+  saveToJson(d.dbFile, groups);
 }
 
 function getSchema(id) {
@@ -94,7 +100,7 @@ function getSchema(id) {
   let isLe = id.substring(4, 6);
   startYear = isLe == "5A" ? startYear - 1 : startYear;
 
-  return model(getBranch[branchId] + startYear, studentSchema);
+  return model(startYear + getBranch[branchId], studentSchema);
 }
 
 function tempSchema(id) {
@@ -103,16 +109,20 @@ function tempSchema(id) {
   let isLe = id.substring(4, 6);
   startYear = isLe == "5A" ? startYear - 1 : startYear;
 
-  return getBranch[branchId] + startYear;
+  return startYear + getBranch[branchId];
 }
-
+async function fromJson(file) {
+  let data = await fs.readFile(file + ".json", "utf-8");
+  data = JSON.parse(data);
+  return data;
+}
 let getBranch = {
-  "01": "CIVIL",
-  "02": "EEE",
-  "04": "ECE",
-  "05": "CSE",
-  42: "CSM",
-  44: "CSD",
+  "01": "civil",
+  "02": "eee",
+  "04": "ece",
+  "05": "cse",
+  42: "csm",
+  44: "csd",
 };
 
 module.exports = {
@@ -126,4 +136,5 @@ module.exports = {
   getAll,
   addAll,
   getCollectionNames,
+  fromJson,
 };
