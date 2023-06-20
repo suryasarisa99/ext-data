@@ -27,16 +27,16 @@ async function* extractData(file, groupBy, autoGroup) {
       }
 
       start = false;
-      if (match.groups.subjectType === "subject")
-        // if (match.groups.credits == "3" || match.groups.credits == "0")
+      // if (match.groups.subjectType === "subject")
+      if (match.groups.credits == "3" || match.groups.credits == "0")
         obj[sem].subjects[match.groups.subject] = {
           grade: match.groups.grade,
-          credits: match.groups.credits,
+          credits: +match.groups.credits || 3,
           internals: match.groups.internals,
           // points: match.groups.points,
         };
-      if (match.groups.subjectType === "lab")
-        // if (match.groups.credits == "1.5" || match.groups.credits == "2")
+      // if (match.groups.subjectType === "lab")
+      if (match.groups.credits == "1.5" || match.groups.credits == "2")
         obj[sem].labs[match.groups.subject] = {
           grade: match.groups.grade,
           credits: match.groups.credits,

@@ -1,16 +1,16 @@
 {
-   "21cse": [
+   "21cses": [
       {
          "total_backlogs": [
             "PROGRAMMING FOR PROBLEM SOLVING USING C",
             "SOFTWARE ENGINEERING"
          ],
          "total_backlogs_cnt": 2,
-         "total_credits": 59.5,
-         "total_points": 20.082874572236275,
+         "total_credits": 62.5,
+         "total_points": 18.963993453355158,
          "_id": "21U41A0501",
          "1-1": {
-            "points": 7.2727272727272725,
+            "points": 6.153846153846154,
             "backlogs": [
                "PROGRAMMING FOR PROBLEM SOLVING USING C"
             ],
@@ -64,11 +64,11 @@
             "MATHEMATICAL FOUNDATIONS OF COMPUTER SCI"
          ],
          "total_backlogs_cnt": 7,
-         "total_credits": 56.5,
-         "total_points": 17.205310056373886,
+         "total_credits": 62.5,
+         "total_points": 14.880523731587562,
          "_id": "21U41A0503",
          "1-1": {
-            "points": 7.555555555555555,
+            "points": 5.230769230769231,
             "backlogs": [
                "MATHEMATICS - I",
                "PROGRAMMING FOR PROBLEM SOLVING USING C"
@@ -135,11 +135,11 @@
             "MATHEMATICAL FOUNDATIONS OF COMPUTER SCI"
          ],
          "total_backlogs_cnt": 14,
-         "total_credits": 50.5,
-         "total_points": 14.830114566284777,
+         "total_credits": 62.5,
+         "total_points": 9.168576104746318,
          "_id": "21U41A0505",
          "1-1": {
-            "points": 9.2,
+            "points": 3.5384615384615383,
             "backlogs": [
                "MATHEMATICS - I",
                "COMMUNICATIVE ENGLISH",
@@ -181,11 +181,11 @@
             "OPERATING SYSTEMS"
          ],
          "total_backlogs_cnt": 5,
-         "total_credits": 56.5,
-         "total_points": 18.962720494635388,
+         "total_credits": 62.5,
+         "total_points": 16.569558101472996,
          "_id": "21U41A0506",
          "1-1": {
-            "points": 7.777777777777778,
+            "points": 5.384615384615385,
             "backlogs": [
                "MATHEMATICS - I",
                "APPLIED PHYSICS"
@@ -246,11 +246,11 @@
             "SOFTWARE ENGINEERING"
          ],
          "total_backlogs_cnt": 6,
-         "total_credits": 56.5,
-         "total_points": 18.573013275140937,
+         "total_credits": 62.5,
+         "total_points": 16.145662847790508,
          "_id": "21U41A0508",
          "1-1": {
-            "points": 7.888888888888889,
+            "points": 5.461538461538462,
             "backlogs": [
                "MATHEMATICS - I",
                "APPLIED PHYSICS"
@@ -280,11 +280,11 @@
             "PROGRAMMING FOR PROBLEM SOLVING USING C"
          ],
          "total_backlogs_cnt": 1,
-         "total_credits": 59.5,
-         "total_points": 23.95744680851064,
+         "total_credits": 62.5,
+         "total_points": 22.72667757774141,
          "_id": "21U41A0509",
          "1-1": {
-            "points": 8,
+            "points": 6.769230769230769,
             "backlogs": [
                "PROGRAMMING FOR PROBLEM SOLVING USING C"
             ],
@@ -331,11 +331,11 @@
             "MATHEMATICS-III"
          ],
          "total_backlogs_cnt": 2,
-         "total_credits": 59.5,
-         "total_points": 23.016812974259782,
+         "total_credits": 62.5,
+         "total_points": 21.855973813420622,
          "_id": "21U41A0511",
          "1-1": {
-            "points": 7.545454545454546,
+            "points": 6.384615384615385,
             "backlogs": [
                "PROGRAMMING FOR PROBLEM SOLVING USING C"
             ],
@@ -386,11 +386,11 @@
             "MATHEMATICS-III"
          ],
          "total_backlogs_cnt": 4,
-         "total_credits": 56.5,
-         "total_points": 20.57774140752864,
+         "total_credits": 62.5,
+         "total_points": 18.116202945990178,
          "_id": "21U41A0513",
          "1-1": {
-            "points": 8,
+            "points": 5.538461538461538,
             "backlogs": [
                "MATHEMATICS - I",
                "PROGRAMMING FOR PROBLEM SOLVING USING C"
@@ -491,11 +491,11 @@
             "MATHEMATICS-III"
          ],
          "total_backlogs_cnt": 5,
-         "total_credits": 56.5,
-         "total_points": 19.861429350791052,
+         "total_credits": 62.5,
+         "total_points": 17.194762684124388,
          "_id": "21U41A0517",
          "1-1": {
-            "points": 8.666666666666666,
+            "points": 6,
             "backlogs": [
                "PROGRAMMING FOR PROBLEM SOLVING USING C",
                "APPLIED PHYSICS"
@@ -580,11 +580,11 @@
             "MATHEMATICAL FOUNDATIONS OF COMPUTER SCI"
          ],
          "total_backlogs_cnt": 11,
-         "total_credits": 53.5,
-         "total_points": 15.190320317979891,
+         "total_credits": 62.5,
+         "total_points": 11.432078559738134,
          "_id": "21U41A0520",
          "1-1": {
-            "points": 8.142857142857142,
+            "points": 4.384615384615385,
             "backlogs": [
                "MATHEMATICS - I",
                "PROGRAMMING FOR PROBLEM SOLVING USING C",
@@ -621,11 +621,11 @@
             "MATHEMATICAL FOUNDATIONS OF COMPUTER SCI"
          ],
          "total_backlogs_cnt": 3,
-         "total_credits": 59.5,
-         "total_points": 20.58012200565392,
+         "total_credits": 62.5,
+         "total_points": 19.363338788870706,
          "_id": "21U41A0521",
          "1-1": {
-            "points": 7.909090909090909,
+            "points": 6.6923076923076925,
             "backlogs": [
                "PROGRAMMING FOR PROBLEM SOLVING USING C"
             ],
@@ -730,11 +730,11 @@
             "MATHEMATICAL FOUNDATIONS OF COMPUTER SCI"
          ],
          "total_backlogs_cnt": 11,
-         "total_credits": 50.5,
-         "total_points": 17.537806873977086,
+         "total_credits": 62.5,
+         "total_points": 11.630114566284778,
          "_id": "21U41A0525",
          "1-1": {
-            "points": 9.6,
+            "points": 3.6923076923076925,
             "backlogs": [
                "MATHEMATICS - I",
                "COMMUNICATIVE ENGLISH",
@@ -794,11 +794,11 @@
             "OPERATING SYSTEMS"
          ],
          "total_backlogs_cnt": 3,
-         "total_credits": 59.5,
-         "total_points": 20.575807171551855,
+         "total_credits": 62.5,
+         "total_points": 19.400981996726678,
          "_id": "21U41A0527",
          "1-1": {
-            "points": 7.636363636363637,
+            "points": 6.461538461538462,
             "backlogs": [
                "PROGRAMMING FOR PROBLEM SOLVING USING C"
             ],
@@ -847,11 +847,11 @@
             "PROGRAMMING FOR PROBLEM SOLVING USING C"
          ],
          "total_backlogs_cnt": 1,
-         "total_credits": 59.5,
-         "total_points": 24.530873381937212,
+         "total_credits": 62.5,
+         "total_points": 23.18821603927987,
          "_id": "21U41A0529",
          "1-1": {
-            "points": 8.727272727272727,
+            "points": 7.384615384615385,
             "backlogs": [
                "PROGRAMMING FOR PROBLEM SOLVING USING C"
             ],
@@ -897,11 +897,11 @@
             "PROGRAMMING FOR PROBLEM SOLVING USING C"
          ],
          "total_backlogs_cnt": 1,
-         "total_credits": 59.5,
-         "total_points": 21.81565243267371,
+         "total_credits": 62.5,
+         "total_points": 20.62684124386252,
          "_id": "21U41A0531",
          "1-1": {
-            "points": 7.7272727272727275,
+            "points": 6.538461538461538,
             "backlogs": [
                "PROGRAMMING FOR PROBLEM SOLVING USING C"
             ],
@@ -947,11 +947,11 @@
             "PROGRAMMING FOR PROBLEM SOLVING USING C"
          ],
          "total_backlogs_cnt": 1,
-         "total_credits": 59.5,
-         "total_points": 23.294747805386102,
+         "total_credits": 62.5,
+         "total_points": 22.036006546644845,
          "_id": "21U41A0533",
          "1-1": {
-            "points": 8.181818181818182,
+            "points": 6.923076923076923,
             "backlogs": [
                "PROGRAMMING FOR PROBLEM SOLVING USING C"
             ],
@@ -976,11 +976,11 @@
             "APPLIED CHEMISTRY"
          ],
          "total_backlogs_cnt": 3,
-         "total_credits": 52,
-         "total_points": 18.895253682487727,
+         "total_credits": 55,
+         "total_points": 17.395253682487727,
          "_id": "21U41A0534",
          "1-1": {
-            "points": 6,
+            "points": 4.5,
             "backlogs": [
                "MATHEMATICS - I"
             ],
@@ -1032,11 +1032,11 @@
             "SOFTWARE ENGINEERING"
          ],
          "total_backlogs_cnt": 4,
-         "total_credits": 59.5,
-         "total_points": 18.703317958637108,
+         "total_credits": 62.5,
+         "total_points": 17.55646481178396,
          "_id": "21U41A0536",
          "1-1": {
-            "points": 7.454545454545454,
+            "points": 6.3076923076923075,
             "backlogs": [
                "PROGRAMMING FOR PROBLEM SOLVING USING C"
             ],
@@ -1069,11 +1069,11 @@
             "MATHEMATICAL FOUNDATIONS OF COMPUTER SCI"
          ],
          "total_backlogs_cnt": 6,
-         "total_credits": 59.5,
-         "total_points": 17.75092992114269,
+         "total_credits": 62.5,
+         "total_points": 16.57610474631751,
          "_id": "21U41A0537",
          "1-1": {
-            "points": 7.636363636363637,
+            "points": 6.461538461538462,
             "backlogs": [
                "PROGRAMMING FOR PROBLEM SOLVING USING C"
             ],
@@ -1132,11 +1132,11 @@
             "MATHEMATICAL FOUNDATIONS OF COMPUTER SCI"
          ],
          "total_backlogs_cnt": 7,
-         "total_credits": 56.5,
-         "total_points": 17.52100381887616,
+         "total_credits": 62.5,
+         "total_points": 15.162029459901799,
          "_id": "21U41A0539",
          "1-1": {
-            "points": 7.666666666666667,
+            "points": 5.3076923076923075,
             "backlogs": [
                "MATHEMATICS - I",
                "PROGRAMMING FOR PROBLEM SOLVING USING C"
@@ -1191,11 +1191,11 @@
             "MATHEMATICS-III"
          ],
          "total_backlogs_cnt": 2,
-         "total_credits": 59.5,
-         "total_points": 23.441452164856422,
+         "total_credits": 62.5,
+         "total_points": 22.14075286415712,
          "_id": "21U41A0541",
          "1-1": {
-            "points": 8.454545454545455,
+            "points": 7.153846153846154,
             "backlogs": [
                "PROGRAMMING FOR PROBLEM SOLVING USING C"
             ],
@@ -1220,11 +1220,11 @@
             "MATHEMATICS - I"
          ],
          "total_backlogs_cnt": 1,
-         "total_credits": 59.5,
-         "total_points": 23.00639785746169,
+         "total_credits": 62.5,
+         "total_points": 21.803600654664486,
          "_id": "21U41A0542",
          "1-1": {
-            "points": 7.818181818181818,
+            "points": 6.615384615384615,
             "backlogs": [
                "MATHEMATICS - I"
             ],
@@ -1302,11 +1302,11 @@
             "COMPUTER ORGANIZATION"
          ],
          "total_backlogs_cnt": 2,
-         "total_credits": 59.5,
-         "total_points": 22.32629073054605,
+         "total_credits": 62.5,
+         "total_points": 21.13747954173486,
          "_id": "21U41A0545",
          "1-1": {
-            "points": 7.7272727272727275,
+            "points": 6.538461538461538,
             "backlogs": [
                "PROGRAMMING FOR PROBLEM SOLVING USING C"
             ],
@@ -1409,11 +1409,11 @@
             "MATHEMATICS-III"
          ],
          "total_backlogs_cnt": 3,
-         "total_credits": 59.5,
-         "total_points": 21.04448742746615,
+         "total_credits": 62.5,
+         "total_points": 19.757774140752865,
          "_id": "21U41A0549",
          "1-1": {
-            "points": 8.363636363636363,
+            "points": 7.076923076923077,
             "backlogs": [
                "PROGRAMMING FOR PROBLEM SOLVING USING C"
             ],
@@ -1487,11 +1487,11 @@
             "APPLIED CHEMISTRY"
          ],
          "total_backlogs_cnt": 2,
-         "total_credits": 59.5,
-         "total_points": 20.402172295789317,
+         "total_credits": 62.5,
+         "total_points": 19.25531914893617,
          "_id": "21U41A0552",
          "1-1": {
-            "points": 7.454545454545454,
+            "points": 6.3076923076923075,
             "backlogs": [
                "MATHEMATICS - I"
             ],
@@ -1541,11 +1541,11 @@
             "SOFTWARE ENGINEERING"
          ],
          "total_backlogs_cnt": 3,
-         "total_credits": 59.5,
-         "total_points": 20.74468085106383,
+         "total_credits": 62.5,
+         "total_points": 19.5139116202946,
          "_id": "21U41A0554",
          "1-1": {
-            "points": 8,
+            "points": 6.769230769230769,
             "backlogs": [
                "MATHEMATICS - I"
             ],
@@ -1576,11 +1576,11 @@
             "MATHEMATICS-III"
          ],
          "total_backlogs_cnt": 5,
-         "total_credits": 56.5,
-         "total_points": 19.479723586106566,
+         "total_credits": 62.5,
+         "total_points": 17.052373158756136,
          "_id": "21U41A0555",
          "1-1": {
-            "points": 7.888888888888889,
+            "points": 5.461538461538462,
             "backlogs": [
                "MATHEMATICS - I",
                "PROGRAMMING FOR PROBLEM SOLVING USING C"
@@ -1615,11 +1615,11 @@
             "MATHEMATICS-III"
          ],
          "total_backlogs_cnt": 7,
-         "total_credits": 56.5,
-         "total_points": 17.31896708492453,
+         "total_credits": 62.5,
+         "total_points": 14.823240589198036,
          "_id": "21U41A0556",
          "1-1": {
-            "points": 8.11111111111111,
+            "points": 5.615384615384615,
             "backlogs": [
                "MATHEMATICS - I",
                "APPLIED PHYSICS"
@@ -1661,11 +1661,11 @@
             "MATHEMATICAL FOUNDATIONS OF COMPUTER SCI"
          ],
          "total_backlogs_cnt": 12,
-         "total_credits": 53.5,
-         "total_points": 14.827916764086979,
+         "total_credits": 62.5,
+         "total_points": 10.937806873977088,
          "_id": "21U41A0557",
          "1-1": {
-            "points": 8.428571428571429,
+            "points": 4.538461538461538,
             "backlogs": [
                "MATHEMATICS - I",
                "PROGRAMMING FOR PROBLEM SOLVING USING C",
@@ -1706,11 +1706,11 @@
             "OPERATING SYSTEMS"
          ],
          "total_backlogs_cnt": 6,
-         "total_credits": 56.5,
-         "total_points": 18.777595926532097,
+         "total_credits": 62.5,
+         "total_points": 16.350245499181668,
          "_id": "21U41A0558",
          "1-1": {
-            "points": 7.888888888888889,
+            "points": 5.461538461538462,
             "backlogs": [
                "MATHEMATICS - I",
                "APPLIED PHYSICS"
@@ -1773,11 +1773,11 @@
             "MATHEMATICAL FOUNDATIONS OF COMPUTER SCI"
          ],
          "total_backlogs_cnt": 7,
-         "total_credits": 56.5,
-         "total_points": 16.97235861065648,
+         "total_credits": 62.5,
+         "total_points": 14.545008183306056,
          "_id": "21U41A0560",
          "1-1": {
-            "points": 7.888888888888889,
+            "points": 5.461538461538462,
             "backlogs": [
                "MATHEMATICS - I",
                "APPLIED PHYSICS"
@@ -1811,11 +1811,11 @@
             "MATHEMATICS-III"
          ],
          "total_backlogs_cnt": 4,
-         "total_credits": 56.5,
-         "total_points": 21.1936715766503,
+         "total_credits": 62.5,
+         "total_points": 18.527004909983635,
          "_id": "21U41A0561",
          "1-1": {
-            "points": 8.666666666666666,
+            "points": 6,
             "backlogs": [
                "MATHEMATICS - I",
                "PROGRAMMING FOR PROBLEM SOLVING USING C"
@@ -1914,11 +1914,11 @@
             "SOFTWARE ENGINEERING"
          ],
          "total_backlogs_cnt": 3,
-         "total_credits": 59.5,
-         "total_points": 21.9970242523434,
+         "total_credits": 62.5,
+         "total_points": 20.710310965630114,
          "_id": "21U41A0565",
          "1-1": {
-            "points": 8.363636363636363,
+            "points": 7.076923076923077,
             "backlogs": [
                "PROGRAMMING FOR PROBLEM SOLVING USING C"
             ],
@@ -1944,11 +1944,11 @@
             "MATHEMATICS - I"
          ],
          "total_backlogs_cnt": 1,
-         "total_credits": 59.5,
-         "total_points": 23.034369885433716,
+         "total_credits": 62.5,
+         "total_points": 21.803600654664486,
          "_id": "21U41A0566",
          "1-1": {
-            "points": 8,
+            "points": 6.769230769230769,
             "backlogs": [
                "MATHEMATICS - I"
             ],
@@ -1971,11 +1971,11 @@
             "PROGRAMMING FOR PROBLEM SOLVING USING C"
          ],
          "total_backlogs_cnt": 1,
-         "total_credits": 59.5,
-         "total_points": 22.391013242077072,
+         "total_credits": 62.5,
+         "total_points": 21.18821603927987,
          "_id": "21U41A0567",
          "1-1": {
-            "points": 7.818181818181818,
+            "points": 6.615384615384615,
             "backlogs": [
                "PROGRAMMING FOR PROBLEM SOLVING USING C"
             ],
@@ -2023,11 +2023,11 @@
             "MATHEMATICS-III"
          ],
          "total_backlogs_cnt": 3,
-         "total_credits": 59.5,
-         "total_points": 20.65377176015474,
+         "total_credits": 62.5,
+         "total_points": 19.436988543371523,
          "_id": "21U41A0569",
          "1-1": {
-            "points": 7.909090909090909,
+            "points": 6.6923076923076925,
             "backlogs": [
                "PROGRAMMING FOR PROBLEM SOLVING USING C"
             ],
@@ -2083,11 +2083,11 @@
             "MATHEMATICS-III"
          ],
          "total_backlogs_cnt": 3,
-         "total_credits": 56.5,
-         "total_points": 23.029096199308963,
+         "total_credits": 62.5,
+         "total_points": 20.499181669394435,
          "_id": "21U41A0571",
          "1-1": {
-            "points": 8.222222222222221,
+            "points": 5.6923076923076925,
             "backlogs": [
                "MATHEMATICS - I",
                "PROGRAMMING FOR PROBLEM SOLVING USING C"
@@ -2113,11 +2113,11 @@
             "MATHEMATICS - I"
          ],
          "total_backlogs_cnt": 1,
-         "total_credits": 59.5,
-         "total_points": 23.009819967266775,
+         "total_credits": 62.5,
+         "total_points": 21.779050736497545,
          "_id": "21U41A0572",
          "1-1": {
-            "points": 8,
+            "points": 6.769230769230769,
             "backlogs": [
                "MATHEMATICS - I"
             ],
@@ -2145,11 +2145,11 @@
             "SOFTWARE ENGINEERING"
          ],
          "total_backlogs_cnt": 6,
-         "total_credits": 56.5,
-         "total_points": 18.731405710129117,
+         "total_credits": 62.5,
+         "total_points": 16.235679214402616,
          "_id": "21U41A0573",
          "1-1": {
-            "points": 8.11111111111111,
+            "points": 5.615384615384615,
             "backlogs": [
                "PROGRAMMING FOR PROBLEM SOLVING USING C",
                "APPLIED PHYSICS"
@@ -2252,11 +2252,11 @@
             "MATHEMATICS-III"
          ],
          "total_backlogs_cnt": 5,
-         "total_credits": 53.5,
-         "total_points": 21.527004909983635,
+         "total_credits": 62.5,
+         "total_points": 17.373158756137478,
          "_id": "21U41A0577",
          "1-1": {
-            "points": 9,
+            "points": 4.846153846153846,
             "backlogs": [
                "MATHEMATICS - I",
                "PROGRAMMING FOR PROBLEM SOLVING USING C",
@@ -2285,11 +2285,11 @@
             "MATHEMATICS - I"
          ],
          "total_backlogs_cnt": 1,
-         "total_credits": 59.5,
-         "total_points": 24.57818776967713,
+         "total_credits": 62.5,
+         "total_points": 23.263502454991816,
          "_id": "21U41A0578",
          "1-1": {
-            "points": 8.545454545454545,
+            "points": 7.230769230769231,
             "backlogs": [
                "MATHEMATICS - I"
             ],
@@ -2315,11 +2315,11 @@
             "PYTHON PROGRAMMING"
          ],
          "total_backlogs_cnt": 4,
-         "total_credits": 33,
-         "total_points": 12.512820512820513,
+         "total_credits": 39,
+         "total_points": 10.153846153846153,
          "_id": "21U41A0579",
          "1-1": {
-            "points": 7.666666666666667,
+            "points": 5.3076923076923075,
             "backlogs": [
                "MATHEMATICS - I",
                "PROGRAMMING FOR PROBLEM SOLVING USING C"
@@ -2355,11 +2355,11 @@
             "OBJECT ORIENTED PROGRAMMING THROUGH C++"
          ],
          "total_backlogs_cnt": 10,
-         "total_credits": 53.5,
-         "total_points": 15.815524900631283,
+         "total_credits": 62.5,
+         "total_points": 12.057283142389526,
          "_id": "21U41A0580",
          "1-1": {
-            "points": 8.142857142857142,
+            "points": 4.384615384615385,
             "backlogs": [
                "MATHEMATICS - I",
                "PROGRAMMING FOR PROBLEM SOLVING USING C",
@@ -2397,11 +2397,11 @@
             "MATHEMATICAL FOUNDATIONS OF COMPUTER SCI"
          ],
          "total_backlogs_cnt": 5,
-         "total_credits": 59.5,
-         "total_points": 18.269751525070674,
+         "total_credits": 62.5,
+         "total_points": 17.094926350245498,
          "_id": "21U41A0581",
          "1-1": {
-            "points": 7.636363636363637,
+            "points": 6.461538461538462,
             "backlogs": [
                "PROGRAMMING FOR PROBLEM SOLVING USING C"
             ],
@@ -2481,11 +2481,11 @@
             "MATHEMATICS-III"
          ],
          "total_backlogs_cnt": 6,
-         "total_credits": 53.5,
-         "total_points": 19.986439092822074,
+         "total_credits": 62.5,
+         "total_points": 15.898527004909983,
          "_id": "21U41A0584",
          "1-1": {
-            "points": 8.857142857142858,
+            "points": 4.769230769230769,
             "backlogs": [
                "MATHEMATICS - I",
                "PROGRAMMING FOR PROBLEM SOLVING USING C",
@@ -2521,11 +2521,11 @@
             "MATHEMATICAL FOUNDATIONS OF COMPUTER SCI"
          ],
          "total_backlogs_cnt": 7,
-         "total_credits": 56.5,
-         "total_points": 17.147299509001638,
+         "total_credits": 62.5,
+         "total_points": 14.685761047463174,
          "_id": "21U41A0585",
          "1-1": {
-            "points": 8,
+            "points": 5.538461538461538,
             "backlogs": [
                "PROGRAMMING FOR PROBLEM SOLVING USING C",
                "APPLIED PHYSICS"
@@ -2561,11 +2561,11 @@
             "MATHEMATICAL FOUNDATIONS OF COMPUTER SCI"
          ],
          "total_backlogs_cnt": 6,
-         "total_credits": 56.5,
-         "total_points": 18.13747954173486,
+         "total_credits": 62.5,
+         "total_points": 15.675941080196399,
          "_id": "21U41A0586",
          "1-1": {
-            "points": 8,
+            "points": 5.538461538461538,
             "backlogs": [
                "MATHEMATICS - I",
                "PROGRAMMING FOR PROBLEM SOLVING USING C"
@@ -2596,11 +2596,11 @@
             "MATHEMATICS-III"
          ],
          "total_backlogs_cnt": 2,
-         "total_credits": 59.5,
-         "total_points": 22.707186430590685,
+         "total_credits": 62.5,
+         "total_points": 21.44844517184943,
          "_id": "21U41A0587",
          "1-1": {
-            "points": 8.181818181818182,
+            "points": 6.923076923076923,
             "backlogs": [
                "PROGRAMMING FOR PROBLEM SOLVING USING C"
             ],
@@ -2631,11 +2631,11 @@
             "OPERATING SYSTEMS"
          ],
          "total_backlogs_cnt": 7,
-         "total_credits": 53.5,
-         "total_points": 19.594108019639933,
+         "total_credits": 62.5,
+         "total_points": 15.44026186579378,
          "_id": "21U41A0588",
          "1-1": {
-            "points": 9,
+            "points": 4.846153846153846,
             "backlogs": [
                "MATHEMATICS - I",
                "PROGRAMMING FOR PROBLEM SOLVING USING C",
@@ -2666,11 +2666,11 @@
             "PROGRAMMING FOR PROBLEM SOLVING USING C"
          ],
          "total_backlogs_cnt": 1,
-         "total_credits": 59.5,
-         "total_points": 23.994197292069632,
+         "total_credits": 62.5,
+         "total_points": 22.623567921440262,
          "_id": "21U41A0589",
          "1-1": {
-            "points": 8.909090909090908,
+            "points": 7.538461538461538,
             "backlogs": [
                "PROGRAMMING FOR PROBLEM SOLVING USING C"
             ],
@@ -2717,11 +2717,11 @@
             "PROGRAMMING FOR PROBLEM SOLVING USING C"
          ],
          "total_backlogs_cnt": 2,
-         "total_credits": 56.5,
-         "total_points": 22.94198945262775,
+         "total_credits": 62.5,
+         "total_points": 20.343698854337152,
          "_id": "21U41A0591",
          "1-1": {
-            "points": 8.444444444444445,
+            "points": 5.846153846153846,
             "backlogs": [
                "MATHEMATICS - I",
                "PROGRAMMING FOR PROBLEM SOLVING USING C"
@@ -2756,11 +2756,11 @@
             "MATHEMATICAL FOUNDATIONS OF COMPUTER SCI"
          ],
          "total_backlogs_cnt": 12,
-         "total_credits": 53.5,
-         "total_points": 14.474164133738602,
+         "total_credits": 62.5,
+         "total_points": 10.847790507364977,
          "_id": "21U41A0592",
          "1-1": {
-            "points": 7.857142857142857,
+            "points": 4.230769230769231,
             "backlogs": [
                "MATHEMATICS - I",
                "PROGRAMMING FOR PROBLEM SOLVING USING C",
@@ -2808,11 +2808,11 @@
             "MATHEMATICAL FOUNDATIONS OF COMPUTER SCI"
          ],
          "total_backlogs_cnt": 13,
-         "total_credits": 50.5,
-         "total_points": 15.99934533551555,
+         "total_credits": 62.5,
+         "total_points": 10.091653027823241,
          "_id": "21U41A0593",
          "1-1": {
-            "points": 9.6,
+            "points": 3.6923076923076925,
             "backlogs": [
                "MATHEMATICS - I",
                "COMMUNICATIVE ENGLISH",
@@ -2872,11 +2872,11 @@
             "PROGRAMMING FOR PROBLEM SOLVING USING C"
          ],
          "total_backlogs_cnt": 1,
-         "total_credits": 59.5,
-         "total_points": 23.906859098348463,
+         "total_credits": 62.5,
+         "total_points": 22.648117839607202,
          "_id": "21U41A0595",
          "1-1": {
-            "points": 8.181818181818182,
+            "points": 6.923076923076923,
             "backlogs": [
                "PROGRAMMING FOR PROBLEM SOLVING USING C"
             ],
@@ -2901,11 +2901,11 @@
             "MATHEMATICS-III"
          ],
          "total_backlogs_cnt": 3,
-         "total_credits": 59.5,
-         "total_points": 20.36973664633239,
+         "total_credits": 62.5,
+         "total_points": 19.16693944353519,
          "_id": "21U41A0596",
          "1-1": {
-            "points": 7.818181818181818,
+            "points": 6.615384615384615,
             "backlogs": [
                "MATHEMATICS - I"
             ],
@@ -2987,11 +2987,11 @@
             "APPLIED CHEMISTRY"
          ],
          "total_backlogs_cnt": 3,
-         "total_credits": 56.5,
-         "total_points": 21.92434988179669,
+         "total_credits": 62.5,
+         "total_points": 19.394435351882162,
          "_id": "21U41A0599",
          "1-1": {
-            "points": 8.222222222222221,
+            "points": 5.6923076923076925,
             "backlogs": [
                "MATHEMATICS - I",
                "PROGRAMMING FOR PROBLEM SOLVING USING C"
@@ -3049,11 +3049,11 @@
             "OBJECT ORIENTED PROGRAMMING THROUGH C++"
          ],
          "total_backlogs_cnt": 6,
-         "total_credits": 56.5,
-         "total_points": 17.864702673213312,
+         "total_credits": 62.5,
+         "total_points": 15.505728314238954,
          "_id": "21U41A05A1",
          "1-1": {
-            "points": 7.666666666666667,
+            "points": 5.3076923076923075,
             "backlogs": [
                "PROGRAMMING FOR PROBLEM SOLVING USING C",
                "APPLIED PHYSICS"
@@ -3088,11 +3088,11 @@
             "MATHEMATICS-III"
          ],
          "total_backlogs_cnt": 6,
-         "total_credits": 53.5,
-         "total_points": 19.39677343932663,
+         "total_credits": 62.5,
+         "total_points": 15.374795417348608,
          "_id": "21U41A05A3",
          "1-1": {
-            "points": 8.714285714285714,
+            "points": 4.6923076923076925,
             "backlogs": [
                "MATHEMATICS - I",
                "PROGRAMMING FOR PROBLEM SOLVING USING C",
@@ -3124,11 +3124,11 @@
             "MATHEMATICS-III"
          ],
          "total_backlogs_cnt": 3,
-         "total_credits": 59.5,
-         "total_points": 22.196696920101175,
+         "total_credits": 62.5,
+         "total_points": 20.90998363338789,
          "_id": "21U41A05A4",
          "1-1": {
-            "points": 8.363636363636363,
+            "points": 7.076923076923077,
             "backlogs": [
                "APPLIED PHYSICS"
             ],
@@ -3164,11 +3164,11 @@
             "MATHEMATICAL FOUNDATIONS OF COMPUTER SCI"
          ],
          "total_backlogs_cnt": 10,
-         "total_credits": 53.5,
-         "total_points": 16.865326163198503,
+         "total_credits": 62.5,
+         "total_points": 12.777414075286416,
          "_id": "21U41A05A5",
          "1-1": {
-            "points": 8.857142857142858,
+            "points": 4.769230769230769,
             "backlogs": [
                "COMMUNICATIVE ENGLISH",
                "PROGRAMMING FOR PROBLEM SOLVING USING C",
@@ -3229,11 +3229,11 @@
             "MATHEMATICS-III"
          ],
          "total_backlogs_cnt": 5,
-         "total_credits": 56.5,
-         "total_points": 19.60392798690671,
+         "total_credits": 62.5,
+         "total_points": 17.142389525368248,
          "_id": "21U41A05A7",
          "1-1": {
-            "points": 8,
+            "points": 5.538461538461538,
             "backlogs": [
                "MATHEMATICS - I",
                "PROGRAMMING FOR PROBLEM SOLVING USING C"
@@ -3264,11 +3264,11 @@
             "MATHEMATICS-III"
          ],
          "total_backlogs_cnt": 3,
-         "total_credits": 56.5,
-         "total_points": 23.268957992362246,
+         "total_credits": 62.5,
+         "total_points": 20.60229132569558,
          "_id": "21U41A05A8",
          "1-1": {
-            "points": 8.666666666666666,
+            "points": 6,
             "backlogs": [
                "MATHEMATICS - I",
                "APPLIED PHYSICS"
@@ -3301,11 +3301,11 @@
             "PYTHON PROGRAMMING"
          ],
          "total_backlogs_cnt": 8,
-         "total_credits": 30,
-         "total_points": 10.934065934065934,
+         "total_credits": 39,
+         "total_points": 6.846153846153847,
          "_id": "21U41A05A9",
          "1-1": {
-            "points": 8.857142857142858,
+            "points": 4.769230769230769,
             "backlogs": [
                "MATHEMATICS - I",
                "PROGRAMMING FOR PROBLEM SOLVING USING C",
@@ -3341,11 +3341,11 @@
             "MATHEMATICAL FOUNDATIONS OF COMPUTER SCI"
          ],
          "total_backlogs_cnt": 6,
-         "total_credits": 56.5,
-         "total_points": 18.227677759592652,
+         "total_credits": 62.5,
+         "total_points": 15.800327332242226,
          "_id": "21U41A05B0",
          "1-1": {
-            "points": 7.888888888888889,
+            "points": 5.461538461538462,
             "backlogs": [
                "MATHEMATICS - I",
                "APPLIED PHYSICS"
@@ -3403,11 +3403,11 @@
             "MATHEMATICS-III"
          ],
          "total_backlogs_cnt": 2,
-         "total_credits": 59.5,
-         "total_points": 21.81565243267371,
+         "total_credits": 62.5,
+         "total_points": 20.62684124386252,
          "_id": "21U41A05B3",
          "1-1": {
-            "points": 7.7272727272727275,
+            "points": 6.538461538461538,
             "backlogs": [
                "PROGRAMMING FOR PROBLEM SOLVING USING C"
             ],
@@ -3461,11 +3461,11 @@
             "MATHEMATICS-III"
          ],
          "total_backlogs_cnt": 3,
-         "total_credits": 59.5,
-         "total_points": 21.263204880226155,
+         "total_credits": 62.5,
+         "total_points": 20.088379705400982,
          "_id": "21U41A05B5",
          "1-1": {
-            "points": 7.636363636363637,
+            "points": 6.461538461538462,
             "backlogs": [
                "PROGRAMMING FOR PROBLEM SOLVING USING C"
             ],
@@ -3497,11 +3497,11 @@
             "MATHEMATICS-III"
          ],
          "total_backlogs_cnt": 6,
-         "total_credits": 53.5,
-         "total_points": 20.564180500350712,
+         "total_credits": 62.5,
+         "total_points": 16.476268412438625,
          "_id": "21U41A05B6",
          "1-1": {
-            "points": 8.857142857142858,
+            "points": 4.769230769230769,
             "backlogs": [
                "MATHEMATICS - I",
                "PROGRAMMING FOR PROBLEM SOLVING USING C",
@@ -3603,11 +3603,11 @@
             "APPLIED CHEMISTRY"
          ],
          "total_backlogs_cnt": 4,
-         "total_credits": 56.5,
-         "total_points": 21.163120567375888,
+         "total_credits": 62.5,
+         "total_points": 18.599018003273322,
          "_id": "21U41A05C0",
          "1-1": {
-            "points": 8.333333333333334,
+            "points": 5.769230769230769,
             "backlogs": [
                "PROGRAMMING FOR PROBLEM SOLVING USING C",
                "APPLIED PHYSICS"
@@ -3639,11 +3639,11 @@
             "MATHEMATICS-III"
          ],
          "total_backlogs_cnt": 6,
-         "total_credits": 50.5,
-         "total_points": 21.337806873977087,
+         "total_credits": 62.5,
+         "total_points": 15.553191489361701,
          "_id": "21U41A05C1",
          "1-1": {
-            "points": 9.4,
+            "points": 3.6153846153846154,
             "backlogs": [
                "MATHEMATICS - I",
                "COMMUNICATIVE ENGLISH",
@@ -3732,11 +3732,11 @@
             "PROGRAMMING FOR PROBLEM SOLVING USING C"
          ],
          "total_backlogs_cnt": 1,
-         "total_credits": 59.5,
-         "total_points": 24.856122600803452,
+         "total_credits": 62.5,
+         "total_points": 23.597381342062192,
          "_id": "21U41A05C5",
          "1-1": {
-            "points": 8.181818181818182,
+            "points": 6.923076923076923,
             "backlogs": [
                "PROGRAMMING FOR PROBLEM SOLVING USING C"
             ],
@@ -3762,11 +3762,11 @@
             "MATHEMATICS-III"
          ],
          "total_backlogs_cnt": 4,
-         "total_credits": 59.5,
-         "total_points": 19.36795119773843,
+         "total_credits": 62.5,
+         "total_points": 18.19312602291326,
          "_id": "21U41A05C6",
          "1-1": {
-            "points": 7.636363636363637,
+            "points": 6.461538461538462,
             "backlogs": [
                "MATHEMATICS - I"
             ],
@@ -3803,11 +3803,11 @@
             "OBJECT ORIENTED PROGRAMMING THROUGH C++"
          ],
          "total_backlogs_cnt": 10,
-         "total_credits": 50.5,
-         "total_points": 17.541080196399346,
+         "total_credits": 62.5,
+         "total_points": 11.633387888707038,
          "_id": "21U41A05C7",
          "1-1": {
-            "points": 9.6,
+            "points": 3.6923076923076925,
             "backlogs": [
                "MATHEMATICS - I",
                "COMMUNICATIVE ENGLISH",
@@ -3879,11 +3879,11 @@
             "MATHEMATICAL FOUNDATIONS OF COMPUTER SCI"
          ],
          "total_backlogs_cnt": 10,
-         "total_credits": 50.5,
-         "total_points": 18.701472995090015,
+         "total_credits": 62.5,
+         "total_points": 12.793780687397708,
          "_id": "21U41A05C9",
          "1-1": {
-            "points": 9.6,
+            "points": 3.6923076923076925,
             "backlogs": [
                "MATHEMATICS - I",
                "COMMUNICATIVE ENGLISH",
@@ -3922,11 +3922,11 @@
             "OBJECT ORIENTED PROGRAMMING THROUGH C++"
          ],
          "total_backlogs_cnt": 6,
-         "total_credits": 59.5,
-         "total_points": 17.23389376580866,
+         "total_credits": 62.5,
+         "total_points": 16.031096563011456,
          "_id": "21U41A05D0",
          "1-1": {
-            "points": 7.818181818181818,
+            "points": 6.615384615384615,
             "backlogs": [
                "MATHEMATICS - I"
             ],
@@ -3957,11 +3957,11 @@
             "APPLIED PHYSICS"
          ],
          "total_backlogs_cnt": 2,
-         "total_credits": 56.5,
-         "total_points": 24.05837424986361,
+         "total_credits": 62.5,
+         "total_points": 21.49427168576105,
          "_id": "21U41A05D1",
          "1-1": {
-            "points": 8.333333333333334,
+            "points": 5.769230769230769,
             "backlogs": [
                "PROGRAMMING FOR PROBLEM SOLVING USING C",
                "APPLIED PHYSICS"
@@ -4036,11 +4036,11 @@
             "MATHEMATICS-III"
          ],
          "total_backlogs_cnt": 6,
-         "total_credits": 56.5,
-         "total_points": 19.354973631569376,
+         "total_credits": 62.5,
+         "total_points": 16.85924713584288,
          "_id": "21U41A05D4",
          "1-1": {
-            "points": 8.11111111111111,
+            "points": 5.615384615384615,
             "backlogs": [
                "MATHEMATICS - I",
                "APPLIED PHYSICS"
@@ -4079,11 +4079,11 @@
             "MATHEMATICAL FOUNDATIONS OF COMPUTER SCI"
          ],
          "total_backlogs_cnt": 10,
-         "total_credits": 53.5,
-         "total_points": 16.82768295534253,
+         "total_credits": 62.5,
+         "total_points": 12.739770867430442,
          "_id": "21U41A05D5",
          "1-1": {
-            "points": 8.857142857142858,
+            "points": 4.769230769230769,
             "backlogs": [
                "MATHEMATICS - I",
                "PROGRAMMING FOR PROBLEM SOLVING USING C",
@@ -4144,11 +4144,11 @@
             "MATHEMATICS-III"
          ],
          "total_backlogs_cnt": 5,
-         "total_credits": 56.5,
-         "total_points": 18.993635206401166,
+         "total_credits": 62.5,
+         "total_points": 16.566284779050736,
          "_id": "21U41A05D7",
          "1-1": {
-            "points": 7.888888888888889,
+            "points": 5.461538461538462,
             "backlogs": [
                "MATHEMATICS - I",
                "PROGRAMMING FOR PROBLEM SOLVING USING C"
@@ -4180,11 +4180,11 @@
             "MATHEMATICS-III"
          ],
          "total_backlogs_cnt": 4,
-         "total_credits": 59.5,
-         "total_points": 20.0760303526261,
+         "total_credits": 62.5,
+         "total_points": 18.85924713584288,
          "_id": "21U41A05D8",
          "1-1": {
-            "points": 7.909090909090909,
+            "points": 6.6923076923076925,
             "backlogs": [
                "MATHEMATICS - I"
             ],
@@ -4241,11 +4241,11 @@
             "MATHEMATICAL FOUNDATIONS OF COMPUTER SCI"
          ],
          "total_backlogs_cnt": 7,
-         "total_credits": 53.5,
-         "total_points": 19.078793546878654,
+         "total_credits": 62.5,
+         "total_points": 15.122749590834697,
          "_id": "21U41A05E0",
          "1-1": {
-            "points": 8.571428571428571,
+            "points": 4.615384615384615,
             "backlogs": [
                "MATHEMATICS - I",
                "PROGRAMMING FOR PROBLEM SOLVING USING C",
@@ -4312,11 +4312,11 @@
             "MATHEMATICAL FOUNDATIONS OF COMPUTER SCI"
          ],
          "total_backlogs_cnt": 10,
-         "total_credits": 53.5,
-         "total_points": 15.332242225859247,
+         "total_credits": 62.5,
+         "total_points": 11.639934533551555,
          "_id": "21U41A05E2",
          "1-1": {
-            "points": 8,
+            "points": 4.3076923076923075,
             "backlogs": [
                "MATHEMATICS - I",
                "COMMUNICATIVE ENGLISH",
@@ -4358,11 +4358,11 @@
             "MATHEMATICS-III"
          ],
          "total_backlogs_cnt": 9,
-         "total_credits": 53.5,
-         "total_points": 16.992751928922143,
+         "total_credits": 62.5,
+         "total_points": 13.168576104746318,
          "_id": "21U41A05E3",
          "1-1": {
-            "points": 8.285714285714286,
+            "points": 4.461538461538462,
             "backlogs": [
                "MATHEMATICS - I",
                "PROGRAMMING FOR PROBLEM SOLVING USING C",
@@ -4421,11 +4421,11 @@
             "MATHEMATICS-III"
          ],
          "total_backlogs_cnt": 4,
-         "total_credits": 59.5,
-         "total_points": 19.50781133759857,
+         "total_credits": 62.5,
+         "total_points": 18.34697217675941,
          "_id": "21U41A05E5",
          "1-1": {
-            "points": 7.545454545454546,
+            "points": 6.384615384615385,
             "backlogs": [
                "PROGRAMMING FOR PROBLEM SOLVING USING C"
             ],
@@ -4457,11 +4457,11 @@
             "MATHEMATICS-III"
          ],
          "total_backlogs_cnt": 5,
-         "total_credits": 56.5,
-         "total_points": 20.586833969812695,
+         "total_credits": 62.5,
+         "total_points": 17.988543371522095,
          "_id": "21U41A05E6",
          "1-1": {
-            "points": 8.444444444444445,
+            "points": 5.846153846153846,
             "backlogs": [
                "MATHEMATICS - I",
                "PROGRAMMING FOR PROBLEM SOLVING USING C"
@@ -4500,11 +4500,11 @@
             "MATHEMATICAL FOUNDATIONS OF COMPUTER SCI"
          ],
          "total_backlogs_cnt": 11,
-         "total_credits": 53.5,
-         "total_points": 15.904606032265606,
+         "total_credits": 62.5,
+         "total_points": 11.816693944353519,
          "_id": "21U41A05E7",
          "1-1": {
-            "points": 8.857142857142858,
+            "points": 4.769230769230769,
             "backlogs": [
                "MATHEMATICS - I",
                "PROGRAMMING FOR PROBLEM SOLVING USING C",
@@ -4565,11 +4565,11 @@
             "APPLIED CHEMISTRY"
          ],
          "total_backlogs_cnt": 4,
-         "total_credits": 56.5,
-         "total_points": 21.479359883615203,
+         "total_credits": 62.5,
+         "total_points": 18.983633387888705,
          "_id": "21U41A05E9",
          "1-1": {
-            "points": 8.11111111111111,
+            "points": 5.615384615384615,
             "backlogs": [
                "PROGRAMMING FOR PROBLEM SOLVING USING C",
                "APPLIED PHYSICS"
@@ -4597,11 +4597,11 @@
             "MATHEMATICS-III"
          ],
          "total_backlogs_cnt": 2,
-         "total_credits": 59.5,
-         "total_points": 23.45543817884243,
+         "total_credits": 62.5,
+         "total_points": 22.14075286415712,
          "_id": "21U41A05F0",
          "1-1": {
-            "points": 8.545454545454545,
+            "points": 7.230769230769231,
             "backlogs": [
                "MATHEMATICS - I"
             ],
@@ -4635,11 +4635,11 @@
             "MATHEMATICAL FOUNDATIONS OF COMPUTER SCI"
          ],
          "total_backlogs_cnt": 10,
-         "total_credits": 56.5,
-         "total_points": 15.348790689216221,
+         "total_credits": 62.5,
+         "total_points": 12.921440261865794,
          "_id": "21U41A05F1",
          "1-1": {
-            "points": 7.888888888888889,
+            "points": 5.461538461538462,
             "backlogs": [
                "MATHEMATICS - I",
                "PROGRAMMING FOR PROBLEM SOLVING USING C"
@@ -4673,11 +4673,11 @@
             "PROGRAMMING FOR PROBLEM SOLVING USING C"
          ],
          "total_backlogs_cnt": 1,
-         "total_credits": 59.5,
-         "total_points": 25.760154738878143,
+         "total_credits": 62.5,
+         "total_points": 24.389525368248773,
          "_id": "21U41A05F2",
          "1-1": {
-            "points": 8.909090909090908,
+            "points": 7.538461538461538,
             "backlogs": [
                "PROGRAMMING FOR PROBLEM SOLVING USING C"
             ],
@@ -4702,11 +4702,11 @@
             "MATHEMATICS-III"
          ],
          "total_backlogs_cnt": 3,
-         "total_credits": 59.5,
-         "total_points": 20.189555125725338,
+         "total_credits": 62.5,
+         "total_points": 19.014729950900165,
          "_id": "21U41A05F3",
          "1-1": {
-            "points": 7.636363636363637,
+            "points": 6.461538461538462,
             "backlogs": [
                "PROGRAMMING FOR PROBLEM SOLVING USING C"
             ],
@@ -4734,11 +4734,11 @@
             "SOFTWARE ENGINEERING"
          ],
          "total_backlogs_cnt": 2,
-         "total_credits": 59.5,
-         "total_points": 22.016515399494125,
+         "total_credits": 62.5,
+         "total_points": 20.757774140752865,
          "_id": "21U41A05F4",
          "1-1": {
-            "points": 8.181818181818182,
+            "points": 6.923076923076923,
             "backlogs": [
                "MATHEMATICS - I"
             ],
@@ -4764,11 +4764,11 @@
             "APPLIED CHEMISTRY"
          ],
          "total_backlogs_cnt": 2,
-         "total_credits": 59.5,
-         "total_points": 21.44502306204434,
+         "total_credits": 62.5,
+         "total_points": 20.242225859247135,
          "_id": "21U41A05F5",
          "1-1": {
-            "points": 7.818181818181818,
+            "points": 6.615384615384615,
             "backlogs": [
                "PROGRAMMING FOR PROBLEM SOLVING USING C"
             ],
@@ -4794,11 +4794,11 @@
             "APPLIED PHYSICS"
          ],
          "total_backlogs_cnt": 2,
-         "total_credits": 56.5,
-         "total_points": 23.450991089288962,
+         "total_credits": 62.5,
+         "total_points": 20.852700490998362,
          "_id": "21U41A05F6",
          "1-1": {
-            "points": 8.444444444444445,
+            "points": 5.846153846153846,
             "backlogs": [
                "PROGRAMMING FOR PROBLEM SOLVING USING C",
                "APPLIED PHYSICS"
@@ -4829,11 +4829,11 @@
             "SOFTWARE ENGINEERING"
          ],
          "total_backlogs_cnt": 8,
-         "total_credits": 50.5,
-         "total_points": 19.3518821603928,
+         "total_credits": 62.5,
+         "total_points": 13.813420621931261,
          "_id": "21U41A05F7",
          "1-1": {
-            "points": 9,
+            "points": 3.4615384615384617,
             "backlogs": [
                "MATHEMATICS - I",
                "COMMUNICATIVE ENGLISH",
@@ -4865,11 +4865,11 @@
             "MATHEMATICS - I"
          ],
          "total_backlogs_cnt": 1,
-         "total_credits": 59.5,
-         "total_points": 23.476565987204285,
+         "total_credits": 62.5,
+         "total_points": 22.189852700491,
          "_id": "21U41A05F8",
          "1-1": {
-            "points": 8.363636363636363,
+            "points": 7.076923076923077,
             "backlogs": [
                "MATHEMATICS - I"
             ],
@@ -5246,7 +5246,7 @@
          "2-2": {}
       }
    ],
-   "21civil": [
+   "21civils": [
       {
          "total_backlogs": [
             "MATHEMATICS - I",
@@ -5260,11 +5260,11 @@
             "FLUID MECHANICS"
          ],
          "total_backlogs_cnt": 9,
-         "total_credits": 56.5,
-         "total_points": 16.01985815602837,
+         "total_credits": 46,
+         "total_points": 9.01985815602837,
          "_id": "21U41A0101",
          "1-1": {
-            "points": 7,
+            "points": null,
             "backlogs": [
                "MATHEMATICS - I",
                "ENGINEERING DRAWING",
@@ -5873,17 +5873,17 @@
          "2-2": {}
       }
    ],
-   "21eee": [
+   "21eees": [
       {
          "total_backlogs": [
             "MATHEMATICS - I"
          ],
          "total_backlogs_cnt": 1,
-         "total_credits": 64,
-         "total_points": 20.8656914893617,
+         "total_credits": 67,
+         "total_points": 19.63492225859247,
          "_id": "21U41A0201",
          "1-1": {
-            "points": 8,
+            "points": 6.769230769230769,
             "backlogs": [
                "MATHEMATICS - I"
             ],
@@ -5910,11 +5910,11 @@
             "ELECTRICAL CIRCUIT ANALYSIS-II"
          ],
          "total_backlogs_cnt": 5,
-         "total_credits": 64,
-         "total_points": 17.08740328820116,
+         "total_credits": 67,
+         "total_points": 15.982508183306056,
          "_id": "21U41A0202",
          "1-1": {
-            "points": 7.181818181818182,
+            "points": 6.076923076923077,
             "backlogs": [
                "PROGRAMMING FOR PROBLEM SOLVING USING C"
             ],
@@ -5969,11 +5969,11 @@
             "DC MACHINES AND TRANSFORMERS"
          ],
          "total_backlogs_cnt": 4,
-         "total_credits": 64,
-         "total_points": 17.42142166344294,
+         "total_credits": 67,
+         "total_points": 16.232610474631752,
          "_id": "21U41A0204",
          "1-1": {
-            "points": 7.7272727272727275,
+            "points": 6.538461538461538,
             "backlogs": [
                "MATHEMATICS - I"
             ],
@@ -6002,11 +6002,11 @@
             "MATHEMATICS-III"
          ],
          "total_backlogs_cnt": 2,
-         "total_credits": 64,
-         "total_points": 20.95309477756286,
+         "total_credits": 67,
+         "total_points": 19.694353518821604,
          "_id": "21U41A0205",
          "1-1": {
-            "points": 8.181818181818182,
+            "points": 6.923076923076923,
             "backlogs": [
                "MATHEMATICS - I"
             ],
@@ -6037,11 +6037,11 @@
             "ELECTRO MAGNETIC FIELDS"
          ],
          "total_backlogs_cnt": 7,
-         "total_credits": 61,
-         "total_points": 15.905437352245864,
+         "total_credits": 67,
+         "total_points": 13.51227495908347,
          "_id": "21U41A0206",
          "1-1": {
-            "points": 7.777777777777778,
+            "points": 5.384615384615385,
             "backlogs": [
                "MATHEMATICS - I",
                "PROGRAMMING FOR PROBLEM SOLVING USING C"
@@ -7236,7 +7236,7 @@
          "2-2": {}
       }
    ],
-   "21ece": [
+   "21eces": [
       {
          "total_backlogs": [
             "APPLIED CHEMISTRY",
@@ -7244,11 +7244,11 @@
             "RANDOM VARIABLES AND STOCHASTIC PROCESSE"
          ],
          "total_backlogs_cnt": 3,
-         "total_credits": 64,
-         "total_points": 18.843810444874276,
+         "total_credits": 67,
+         "total_points": 17.6689852700491,
          "_id": "21U41A0401",
          "1-1": {
-            "points": 7.636363636363637,
+            "points": 6.461538461538462,
             "backlogs": [
                "APPLIED CHEMISTRY"
             ],
@@ -7277,11 +7277,11 @@
             "NETWORK ANALYSIS"
          ],
          "total_backlogs_cnt": 4,
-         "total_credits": 58,
-         "total_points": 19.857712765957448,
+         "total_credits": 67,
+         "total_points": 16.165405073649755,
          "_id": "21U41A0402",
          "1-1": {
-            "points": 8,
+            "points": 4.3076923076923075,
             "backlogs": [
                "MATHEMATICS - I",
                "ENGINEERING DRAWING",
@@ -7341,11 +7341,11 @@
             "RANDOM VARIABLES AND STOCHASTIC PROCESSE"
          ],
          "total_backlogs_cnt": 7,
-         "total_credits": 64,
-         "total_points": 14.788080270793039,
+         "total_credits": 67,
+         "total_points": 13.725143207855975,
          "_id": "21U41A0404",
          "1-1": {
-            "points": 6.909090909090909,
+            "points": 5.846153846153846,
             "backlogs": [
                "PROGRAMMING FOR PROBLEM SOLVING USING C"
             ],
@@ -7379,11 +7379,11 @@
             "ELECTRONIC DEVICES AND CIRCUITS"
          ],
          "total_backlogs_cnt": 4,
-         "total_credits": 64,
-         "total_points": 16.94257736943907,
+         "total_credits": 67,
+         "total_points": 15.795724222585925,
          "_id": "21U41A0405",
          "1-1": {
-            "points": 7.454545454545454,
+            "points": 6.3076923076923075,
             "backlogs": [
                "APPLIED CHEMISTRY"
             ],
@@ -7474,11 +7474,11 @@
             "RANDOM VARIABLES AND STOCHASTIC PROCESSE"
          ],
          "total_backlogs_cnt": 12,
-         "total_credits": 56,
-         "total_points": 14.144387755102041,
+         "total_credits": 68,
+         "total_points": 8.729003139717426,
          "_id": "21U41A0408",
          "1-1": {
-            "points": 8.8,
+            "points": 3.3846153846153846,
             "backlogs": [
                "MATHEMATICS - I",
                "ENGINEERING DRAWING",
@@ -7607,11 +7607,11 @@
             "RANDOM VARIABLES AND STOCHASTIC PROCESSE"
          ],
          "total_backlogs_cnt": 10,
-         "total_credits": 58,
-         "total_points": 14.958206686930092,
+         "total_credits": 67,
+         "total_points": 11.331833060556464,
          "_id": "21U41A0412",
          "1-1": {
-            "points": 7.857142857142857,
+            "points": 4.230769230769231,
             "backlogs": [
                "MATHEMATICS - I",
                "ENGINEERING DRAWING",
@@ -7645,11 +7645,11 @@
             "PROGRAMMING FOR PROBLEM SOLVING USING C"
          ],
          "total_backlogs_cnt": 1,
-         "total_credits": 64,
-         "total_points": 21.72159090909091,
+         "total_credits": 67,
+         "total_points": 20.504807692307693,
          "_id": "21U41A0413",
          "1-1": {
-            "points": 7.909090909090909,
+            "points": 6.6923076923076925,
             "backlogs": [
                "PROGRAMMING FOR PROBLEM SOLVING USING C"
             ],
@@ -7672,11 +7672,11 @@
             "PROGRAMMING FOR PROBLEM SOLVING USING C"
          ],
          "total_backlogs_cnt": 1,
-         "total_credits": 64,
-         "total_points": 20.189917794970984,
+         "total_credits": 67,
+         "total_points": 19.043064648117838,
          "_id": "21U41A0414",
          "1-1": {
-            "points": 7.454545454545454,
+            "points": 6.3076923076923075,
             "backlogs": [
                "PROGRAMMING FOR PROBLEM SOLVING USING C"
             ],
@@ -7751,11 +7751,11 @@
             "RANDOM VARIABLES AND STOCHASTIC PROCESSE"
          ],
          "total_backlogs_cnt": 7,
-         "total_credits": 58,
-         "total_points": 17.856003039513677,
+         "total_credits": 67,
+         "total_points": 13.89995908346972,
          "_id": "21U41A0417",
          "1-1": {
-            "points": 8.571428571428571,
+            "points": 4.615384615384615,
             "backlogs": [
                "MATHEMATICS - I",
                "PROGRAMMING FOR PROBLEM SOLVING USING C",
@@ -7796,11 +7796,11 @@
             "RANDOM VARIABLES AND STOCHASTIC PROCESSE"
          ],
          "total_backlogs_cnt": 11,
-         "total_credits": 55,
-         "total_points": 15.040425531914893,
+         "total_credits": 67,
+         "total_points": 9.994271685761047,
          "_id": "21U41A0418",
          "1-1": {
-            "points": 8.2,
+            "points": 3.1538461538461537,
             "backlogs": [
                "MATHEMATICS - I",
                "ENGINEERING DRAWING",
@@ -7868,11 +7868,11 @@
             "SWITCHING THEORY AND LOGIC DESIGN"
          ],
          "total_backlogs_cnt": 5,
-         "total_credits": 64,
-         "total_points": 15.781794003868471,
+         "total_credits": 67,
+         "total_points": 14.746828968903438,
          "_id": "21U41A0420",
          "1-1": {
-            "points": 6.7272727272727275,
+            "points": 5.6923076923076925,
             "backlogs": [
                "PROGRAMMING FOR PROBLEM SOLVING USING C"
             ],
@@ -7901,11 +7901,11 @@
             "APPLIED CHEMISTRY"
          ],
          "total_backlogs_cnt": 1,
-         "total_credits": 64,
-         "total_points": 20.83389748549323,
+         "total_credits": 67,
+         "total_points": 19.71501636661211,
          "_id": "21U41A0421",
          "1-1": {
-            "points": 7.2727272727272725,
+            "points": 6.153846153846154,
             "backlogs": [
                "APPLIED CHEMISTRY"
             ],
@@ -7977,11 +7977,11 @@
             "RANDOM VARIABLES AND STOCHASTIC PROCESSE"
          ],
          "total_backlogs_cnt": 4,
-         "total_credits": 59.5,
-         "total_points": 18.480732033923523,
+         "total_credits": 62.5,
+         "total_points": 17.333878887070377,
          "_id": "21U41A0424",
          "1-1": {
-            "points": 7.454545454545454,
+            "points": 6.3076923076923075,
             "backlogs": [
                "MATHEMATICS - I"
             ],
@@ -8010,11 +8010,11 @@
             "MATHEMATICS-II"
          ],
          "total_backlogs_cnt": 3,
-         "total_credits": 56.5,
-         "total_points": 20.954537188579742,
+         "total_credits": 62.5,
+         "total_points": 18.56137479541735,
          "_id": "21U41A0425",
          "1-1": {
-            "points": 7.777777777777778,
+            "points": 5.384615384615385,
             "backlogs": [
                "PROGRAMMING FOR PROBLEM SOLVING USING C",
                "APPLIED CHEMISTRY"
@@ -8041,11 +8041,11 @@
             "ENGINEERING DRAWING"
          ],
          "total_backlogs_cnt": 2,
-         "total_credits": 34.5,
-         "total_points": 7.428571428571429,
+         "total_credits": 40.5,
+         "total_points": 4.7272727272727275,
          "_id": "21U41A0426",
          "1-1": {
-            "points": 7.428571428571429,
+            "points": 4.7272727272727275,
             "backlogs": [
                "MATHEMATICS - I",
                "ENGINEERING DRAWING"
@@ -8081,11 +8081,11 @@
             "RANDOM VARIABLES AND STOCHASTIC PROCESSE"
          ],
          "total_backlogs_cnt": 13,
-         "total_credits": 50.5,
-         "total_points": 14.568903436988542,
+         "total_credits": 62.5,
+         "total_points": 9.27659574468085,
          "_id": "21U41A0427",
          "1-1": {
-            "points": 8.6,
+            "points": 3.3076923076923075,
             "backlogs": [
                "MATHEMATICS - I",
                "ENGINEERING DRAWING",
@@ -8155,11 +8155,11 @@
             "RANDOM VARIABLES AND STOCHASTIC PROCESSE"
          ],
          "total_backlogs_cnt": 11,
-         "total_credits": 53.5,
-         "total_points": 15.160392798690673,
+         "total_credits": 62.5,
+         "total_points": 11.46808510638298,
          "_id": "21U41A0429",
          "1-1": {
-            "points": 8,
+            "points": 4.3076923076923075,
             "backlogs": [
                "MATHEMATICS - I",
                "PROGRAMMING FOR PROBLEM SOLVING USING C",
@@ -8194,11 +8194,11 @@
             "PROGRAMMING FOR PROBLEM SOLVING USING C"
          ],
          "total_backlogs_cnt": 1,
-         "total_credits": 59.5,
-         "total_points": 20.95342954917423,
+         "total_credits": 62.5,
+         "total_points": 19.86252045826514,
          "_id": "21U41A0430",
          "1-1": {
-            "points": 7.090909090909091,
+            "points": 6,
             "backlogs": [
                "PROGRAMMING FOR PROBLEM SOLVING USING C"
             ],
@@ -8222,11 +8222,11 @@
             "APPLIED PHYSICS"
          ],
          "total_backlogs_cnt": 2,
-         "total_credits": 59.5,
-         "total_points": 19.90879333432525,
+         "total_credits": 62.5,
+         "total_points": 18.74795417348609,
          "_id": "21U41A0431",
          "1-1": {
-            "points": 7.545454545454546,
+            "points": 6.384615384615385,
             "backlogs": [
                "MATHEMATICS - I"
             ],
@@ -8254,11 +8254,11 @@
             "APPLIED CHEMISTRY"
          ],
          "total_backlogs_cnt": 4,
-         "total_credits": 31.5,
-         "total_points": 8.4,
+         "total_credits": 43.5,
+         "total_points": 3.230769230769231,
          "_id": "21U41A0432",
          "1-1": {
-            "points": 8.4,
+            "points": 3.230769230769231,
             "backlogs": [
                "MATHEMATICS - I",
                "ENGINEERING DRAWING",
@@ -8307,11 +8307,11 @@
             "APPLIED CHEMISTRY"
          ],
          "total_backlogs_cnt": 1,
-         "total_credits": 59.5,
-         "total_points": 21.287457223627435,
+         "total_credits": 62.5,
+         "total_points": 20.168576104746318,
          "_id": "21U41A0434",
          "1-1": {
-            "points": 7.2727272727272725,
+            "points": 6.153846153846154,
             "backlogs": [
                "APPLIED CHEMISTRY"
             ],
@@ -8342,11 +8342,11 @@
             "RANDOM VARIABLES AND STOCHASTIC PROCESSE"
          ],
          "total_backlogs_cnt": 9,
-         "total_credits": 56.5,
-         "total_points": 15.074922713220587,
+         "total_credits": 62.5,
+         "total_points": 12.852700490998364,
          "_id": "21U41A0435",
          "1-1": {
-            "points": 7.222222222222222,
+            "points": 5,
             "backlogs": [
                "MATHEMATICS - I",
                "ENGINEERING DRAWING"
@@ -8385,11 +8385,11 @@
             "ELECTRONIC DEVICES AND CIRCUITS"
          ],
          "total_backlogs_cnt": 7,
-         "total_credits": 50.5,
-         "total_points": 19.776759410801965,
+         "total_credits": 62.5,
+         "total_points": 14.484451718494272,
          "_id": "21U41A0436",
          "1-1": {
-            "points": 8.6,
+            "points": 3.3076923076923075,
             "backlogs": [
                "MATHEMATICS - I",
                "ENGINEERING DRAWING",
@@ -8430,11 +8430,11 @@
             "SIGNALS AND SYSTEMS"
          ],
          "total_backlogs_cnt": 11,
-         "total_credits": 50.5,
-         "total_points": 15.968903436988544,
+         "total_credits": 62.5,
+         "total_points": 11.04582651391162,
          "_id": "21U41A0437",
          "1-1": {
-            "points": 8,
+            "points": 3.076923076923077,
             "backlogs": [
                "MATHEMATICS - I",
                "COMMUNICATIVE ENGLISH",
@@ -8522,11 +8522,11 @@
             "PROGRAMMING FOR PROBLEM SOLVING USING C"
          ],
          "total_backlogs_cnt": 1,
-         "total_credits": 59.5,
-         "total_points": 22.08808213063532,
+         "total_credits": 62.5,
+         "total_points": 20.913256955810148,
          "_id": "21U41A0440",
          "1-1": {
-            "points": 7.636363636363637,
+            "points": 6.461538461538462,
             "backlogs": [
                "PROGRAMMING FOR PROBLEM SOLVING USING C"
             ],
@@ -8616,11 +8616,11 @@
             "RANDOM VARIABLES AND STOCHASTIC PROCESSE"
          ],
          "total_backlogs_cnt": 9,
-         "total_credits": 59.5,
-         "total_points": 14.71804790953727,
+         "total_credits": 62.5,
+         "total_points": 13.571194762684124,
          "_id": "21U41A0443",
          "1-1": {
-            "points": 7.454545454545454,
+            "points": 6.3076923076923075,
             "backlogs": [
                "MATHEMATICS - I"
             ],
@@ -8653,11 +8653,11 @@
             "MATHEMATICS - I"
          ],
          "total_backlogs_cnt": 1,
-         "total_credits": 59.5,
-         "total_points": 22.076774289540246,
+         "total_credits": 62.5,
+         "total_points": 20.873977086743043,
          "_id": "21U41A0444",
          "1-1": {
-            "points": 7.818181818181818,
+            "points": 6.615384615384615,
             "backlogs": [
                "MATHEMATICS - I"
             ],
@@ -8683,11 +8683,11 @@
             "SWITCHING THEORY AND LOGIC DESIGN"
          ],
          "total_backlogs_cnt": 4,
-         "total_credits": 56.5,
-         "total_points": 19.113111474813604,
+         "total_credits": 62.5,
+         "total_points": 16.993453355155484,
          "_id": "21U41A0445",
          "1-1": {
-            "points": 6.888888888888889,
+            "points": 4.769230769230769,
             "backlogs": [
                "PROGRAMMING FOR PROBLEM SOLVING USING C",
                "APPLIED CHEMISTRY"
@@ -8717,11 +8717,11 @@
             "MATHEMATICS-III"
          ],
          "total_backlogs_cnt": 3,
-         "total_credits": 59.5,
-         "total_points": 19.57729504538015,
+         "total_credits": 62.5,
+         "total_points": 18.430441898527004,
          "_id": "21U41A0446",
          "1-1": {
-            "points": 7.454545454545454,
+            "points": 6.3076923076923075,
             "backlogs": [
                "PROGRAMMING FOR PROBLEM SOLVING USING C"
             ],
@@ -8750,11 +8750,11 @@
             "APPLIED CHEMISTRY"
          ],
          "total_backlogs_cnt": 3,
-         "total_credits": 34.5,
-         "total_points": 7.714285714285714,
+         "total_credits": 43.5,
+         "total_points": 4.153846153846154,
          "_id": "21U41A0447",
          "1-1": {
-            "points": 7.714285714285714,
+            "points": 4.153846153846154,
             "backlogs": [
                "MATHEMATICS - I",
                "PROGRAMMING FOR PROBLEM SOLVING USING C",
@@ -8780,11 +8780,11 @@
             "RANDOM VARIABLES AND STOCHASTIC PROCESSE"
          ],
          "total_backlogs_cnt": 2,
-         "total_credits": 59.5,
-         "total_points": 20.166493081386697,
+         "total_credits": 62.5,
+         "total_points": 19.01963993453355,
          "_id": "21U41A0448",
          "1-1": {
-            "points": 7.454545454545454,
+            "points": 6.3076923076923075,
             "backlogs": [
                "PROGRAMMING FOR PROBLEM SOLVING USING C"
             ],
@@ -8809,11 +8809,11 @@
             "APPLIED CHEMISTRY"
          ],
          "total_backlogs_cnt": 1,
-         "total_credits": 59.5,
-         "total_points": 21.475673262907307,
+         "total_credits": 62.5,
+         "total_points": 20.356792144026187,
          "_id": "21U41A0449",
          "1-1": {
-            "points": 7.2727272727272725,
+            "points": 6.153846153846154,
             "backlogs": [
                "APPLIED CHEMISTRY"
             ],
@@ -8902,11 +8902,11 @@
             "RANDOM VARIABLES AND STOCHASTIC PROCESSE"
          ],
          "total_backlogs_cnt": 3,
-         "total_credits": 59.5,
-         "total_points": 18.83782175271537,
+         "total_credits": 62.5,
+         "total_points": 17.788870703764317,
          "_id": "21U41A0452",
          "1-1": {
-            "points": 6.818181818181818,
+            "points": 5.769230769230769,
             "backlogs": [
                "MATHEMATICS - I"
             ],
@@ -8988,11 +8988,11 @@
             "APPLIED CHEMISTRY"
          ],
          "total_backlogs_cnt": 4,
-         "total_credits": 31.5,
-         "total_points": 7.8,
+         "total_credits": 43.5,
+         "total_points": 3,
          "_id": "21U41A0455",
          "1-1": {
-            "points": 7.8,
+            "points": 3,
             "backlogs": [
                "MATHEMATICS - I",
                "ENGINEERING DRAWING",
@@ -9053,11 +9053,11 @@
             "APPLIED CHEMISTRY"
          ],
          "total_backlogs_cnt": 4,
-         "total_credits": 31.5,
-         "total_points": 7.4,
+         "total_credits": 43.5,
+         "total_points": 2.8461538461538463,
          "_id": "21U41A0457",
          "1-1": {
-            "points": 7.4,
+            "points": 2.8461538461538463,
             "backlogs": [
                "MATHEMATICS - I",
                "ENGINEERING DRAWING",
@@ -9085,11 +9085,11 @@
             "MATHEMATICS-III"
          ],
          "total_backlogs_cnt": 3,
-         "total_credits": 59.5,
-         "total_points": 20.122303228686206,
+         "total_credits": 62.5,
+         "total_points": 18.97545008183306,
          "_id": "21U41A0458",
          "1-1": {
-            "points": 7.454545454545454,
+            "points": 6.3076923076923075,
             "backlogs": [
                "MATHEMATICS - I"
             ],
@@ -9148,11 +9148,11 @@
             "RANDOM VARIABLES AND STOCHASTIC PROCESSE"
          ],
          "total_backlogs_cnt": 6,
-         "total_credits": 59.5,
-         "total_points": 16.909388483856567,
+         "total_credits": 62.5,
+         "total_points": 15.79050736497545,
          "_id": "21U41A0460",
          "1-1": {
-            "points": 7.2727272727272725,
+            "points": 6.153846153846154,
             "backlogs": [
                "MATHEMATICS - I"
             ],
@@ -9183,11 +9183,11 @@
             "ELECTRONIC DEVICES AND CIRCUITS"
          ],
          "total_backlogs_cnt": 2,
-         "total_credits": 59.5,
-         "total_points": 19.74349055200119,
+         "total_credits": 62.5,
+         "total_points": 18.736497545008184,
          "_id": "21U41A0462",
          "1-1": {
-            "points": 6.545454545454546,
+            "points": 5.538461538461538,
             "backlogs": [
                "APPLIED CHEMISTRY"
             ],
@@ -9213,11 +9213,11 @@
             "OBJECT ORIENTED PROGRAMMING THROUGH JAVA"
          ],
          "total_backlogs_cnt": 2,
-         "total_credits": 59.5,
-         "total_points": 20.06963249516441,
+         "total_credits": 62.5,
+         "total_points": 18.97872340425532,
          "_id": "21U41A0463",
          "1-1": {
-            "points": 7.090909090909091,
+            "points": 6,
             "backlogs": [
                "PROGRAMMING FOR PROBLEM SOLVING USING C"
             ],
@@ -9251,11 +9251,11 @@
             "RANDOM VARIABLES AND STOCHASTIC PROCESSE"
          ],
          "total_backlogs_cnt": 10,
-         "total_credits": 56.5,
-         "total_points": 14.029096199308967,
+         "total_credits": 62.5,
+         "total_points": 11.806873977086742,
          "_id": "21U41A0464",
          "1-1": {
-            "points": 7.222222222222222,
+            "points": 5,
             "backlogs": [
                "MATHEMATICS - I",
                "PROGRAMMING FOR PROBLEM SOLVING USING C"
@@ -9294,11 +9294,11 @@
             "ELECTRONIC DEVICES AND CIRCUITS"
          ],
          "total_backlogs_cnt": 6,
-         "total_credits": 56.5,
-         "total_points": 17.50209128932533,
+         "total_credits": 62.5,
+         "total_points": 15.27986906710311,
          "_id": "21U41A0465",
          "1-1": {
-            "points": 7.222222222222222,
+            "points": 5,
             "backlogs": [
                "MATHEMATICS - I",
                "APPLIED CHEMISTRY"
@@ -9360,11 +9360,11 @@
             "RANDOM VARIABLES AND STOCHASTIC PROCESSE"
          ],
          "total_backlogs_cnt": 10,
-         "total_credits": 56.5,
-         "total_points": 13.643571558465174,
+         "total_credits": 62.5,
+         "total_points": 11.558101472995089,
          "_id": "21U41A0467",
          "1-1": {
-            "points": 6.777777777777778,
+            "points": 4.6923076923076925,
             "backlogs": [
                "PROGRAMMING FOR PROBLEM SOLVING USING C",
                "APPLIED CHEMISTRY"
@@ -9426,11 +9426,11 @@
             "RANDOM VARIABLES AND STOCHASTIC PROCESSE"
          ],
          "total_backlogs_cnt": 6,
-         "total_credits": 56.5,
-         "total_points": 16.945808328787052,
+         "total_credits": 62.5,
+         "total_points": 14.757774140752865,
          "_id": "21U41A0469",
          "1-1": {
-            "points": 7.111111111111111,
+            "points": 4.923076923076923,
             "backlogs": [
                "MATHEMATICS - I",
                "PROGRAMMING FOR PROBLEM SOLVING USING C"
@@ -9521,11 +9521,11 @@
             "RANDOM VARIABLES AND STOCHASTIC PROCESSE"
          ],
          "total_backlogs_cnt": 12,
-         "total_credits": 50.5,
-         "total_points": 15.244844517184942,
+         "total_credits": 62.5,
+         "total_points": 9.95253682487725,
          "_id": "21U41A0472",
          "1-1": {
-            "points": 8.6,
+            "points": 3.3076923076923075,
             "backlogs": [
                "MATHEMATICS - I",
                "ENGINEERING DRAWING",
@@ -9574,11 +9574,11 @@
             "RANDOM VARIABLES AND STOCHASTIC PROCESSE"
          ],
          "total_backlogs_cnt": 14,
-         "total_credits": 50.5,
-         "total_points": 13.119148936170212,
+         "total_credits": 62.5,
+         "total_points": 8.319148936170212,
          "_id": "21U41A0473",
          "1-1": {
-            "points": 7.8,
+            "points": 3,
             "backlogs": [
                "MATHEMATICS - I",
                "ENGINEERING DRAWING",
@@ -9617,11 +9617,11 @@
             "BASIC ELECTRICAL ENGINEERING"
          ],
          "total_backlogs_cnt": 2,
-         "total_credits": 59.5,
-         "total_points": 20.634726975152507,
+         "total_credits": 62.5,
+         "total_points": 19.45990180032733,
          "_id": "21U41A0474",
          "1-1": {
-            "points": 7.636363636363637,
+            "points": 6.461538461538462,
             "backlogs": [
                "APPLIED CHEMISTRY"
             ],
@@ -9659,11 +9659,11 @@
             "RANDOM VARIABLES AND STOCHASTIC PROCESSE"
          ],
          "total_backlogs_cnt": 14,
-         "total_credits": 50.5,
-         "total_points": 12.586579378068741,
+         "total_credits": 62.5,
+         "total_points": 8.032733224222586,
          "_id": "21U41A0475",
          "1-1": {
-            "points": 7.4,
+            "points": 2.8461538461538463,
             "backlogs": [
                "MATHEMATICS - I",
                "ENGINEERING DRAWING",
@@ -9706,11 +9706,11 @@
             "RANDOM VARIABLES AND STOCHASTIC PROCESSE"
          ],
          "total_backlogs_cnt": 6,
-         "total_credits": 59.5,
-         "total_points": 16.632792739175716,
+         "total_credits": 62.5,
+         "total_points": 15.5139116202946,
          "_id": "21U41A0476",
          "1-1": {
-            "points": 7.2727272727272725,
+            "points": 6.153846153846154,
             "backlogs": [
                "MATHEMATICS - I"
             ],
@@ -9742,11 +9742,11 @@
             "OBJECT ORIENTED PROGRAMMING THROUGH JAVA"
          ],
          "total_backlogs_cnt": 3,
-         "total_credits": 56.5,
-         "total_points": 20.218039643571558,
+         "total_credits": 62.5,
+         "total_points": 17.824877250409166,
          "_id": "21U41A0477",
          "1-1": {
-            "points": 7.777777777777778,
+            "points": 5.384615384615385,
             "backlogs": [
                "MATHEMATICS - I",
                "PROGRAMMING FOR PROBLEM SOLVING USING C"
@@ -9772,11 +9772,11 @@
             "APPLIED CHEMISTRY"
          ],
          "total_backlogs_cnt": 1,
-         "total_credits": 59.5,
-         "total_points": 22.422109805088528,
+         "total_credits": 62.5,
+         "total_points": 21.219312602291325,
          "_id": "21U41A0478",
          "1-1": {
-            "points": 7.818181818181818,
+            "points": 6.615384615384615,
             "backlogs": [
                "APPLIED CHEMISTRY"
             ],
@@ -9801,11 +9801,11 @@
             "APPLIED CHEMISTRY"
          ],
          "total_backlogs_cnt": 3,
-         "total_credits": 34.5,
-         "total_points": 7.428571428571429,
+         "total_credits": 43.5,
+         "total_points": 4,
          "_id": "21U41A0479",
          "1-1": {
-            "points": 7.428571428571429,
+            "points": 4,
             "backlogs": [
                "MATHEMATICS - I",
                "PROGRAMMING FOR PROBLEM SOLVING USING C",
@@ -9830,11 +9830,11 @@
             "MATHEMATICS - I"
          ],
          "total_backlogs_cnt": 1,
-         "total_credits": 40.5,
-         "total_points": 7.363636363636363,
+         "total_credits": 43.5,
+         "total_points": 6.230769230769231,
          "_id": "21U41A0480",
          "1-1": {
-            "points": 7.363636363636363,
+            "points": 6.230769230769231,
             "backlogs": [
                "MATHEMATICS - I"
             ],
@@ -9859,11 +9859,11 @@
             "MATHEMATICS-III"
          ],
          "total_backlogs_cnt": 3,
-         "total_credits": 59.5,
-         "total_points": 20.680553489064128,
+         "total_credits": 62.5,
+         "total_points": 19.505728314238954,
          "_id": "21U41A0481",
          "1-1": {
-            "points": 7.636363636363637,
+            "points": 6.461538461538462,
             "backlogs": [
                "MATHEMATICS - I"
             ],
@@ -9892,11 +9892,11 @@
             "SWITCHING THEORY AND LOGIC DESIGN"
          ],
          "total_backlogs_cnt": 3,
-         "total_credits": 59.5,
-         "total_points": 19.938997173039724,
+         "total_credits": 62.5,
+         "total_points": 18.792144026186577,
          "_id": "21U41A0482",
          "1-1": {
-            "points": 7.454545454545454,
+            "points": 6.3076923076923075,
             "backlogs": [
                "APPLIED CHEMISTRY"
             ],
@@ -9986,11 +9986,11 @@
             "RANDOM VARIABLES AND STOCHASTIC PROCESSE"
          ],
          "total_backlogs_cnt": 7,
-         "total_credits": 53.5,
-         "total_points": 18.141220481646013,
+         "total_credits": 62.5,
+         "total_points": 14.382978723404255,
          "_id": "21U41A0485",
          "1-1": {
-            "points": 8.142857142857142,
+            "points": 4.384615384615385,
             "backlogs": [
                "MATHEMATICS - I",
                "ENGINEERING DRAWING",
@@ -10562,7 +10562,7 @@
          "2-2": {}
       }
    ],
-   "21csm": [
+   "21csms": [
       {
          "total_backlogs": [
             "PROGRAMMING FOR PROBLEM SOLVING USING C",
@@ -10571,11 +10571,11 @@
             "DATABASE MANAGEMENT SYSTEMS"
          ],
          "total_backlogs_cnt": 4,
-         "total_credits": 59.5,
-         "total_points": 19.189406338342508,
+         "total_credits": 62.5,
+         "total_points": 18.04255319148936,
          "_id": "21U41A4201",
          "1-1": {
-            "points": 7.454545454545454,
+            "points": 6.3076923076923075,
             "backlogs": [
                "PROGRAMMING FOR PROBLEM SOLVING USING C"
             ],
@@ -10626,11 +10626,11 @@
             "APPLIED CHEMISTRY"
          ],
          "total_backlogs_cnt": 1,
-         "total_credits": 59.5,
-         "total_points": 23.431185835441156,
+         "total_credits": 62.5,
+         "total_points": 22.21440261865794,
          "_id": "21U41A4203",
          "1-1": {
-            "points": 7.909090909090909,
+            "points": 6.6923076923076925,
             "backlogs": [
                "APPLIED CHEMISTRY"
             ],
@@ -10653,11 +10653,11 @@
             "MATHEMATICS - I"
          ],
          "total_backlogs_cnt": 1,
-         "total_credits": 59.5,
-         "total_points": 23.529683082874573,
+         "total_credits": 62.5,
+         "total_points": 22.2569558101473,
          "_id": "21U41A4204",
          "1-1": {
-            "points": 8.272727272727273,
+            "points": 7,
             "backlogs": [
                "MATHEMATICS - I"
             ],
@@ -10685,11 +10685,11 @@
             "OBJECT ORIENTED PROGRAMMING WITH JAVA"
          ],
          "total_backlogs_cnt": 6,
-         "total_credits": 59.5,
-         "total_points": 17.245945543817882,
+         "total_credits": 62.5,
+         "total_points": 16.085106382978722,
          "_id": "21U41A4205",
          "1-1": {
-            "points": 7.545454545454546,
+            "points": 6.384615384615385,
             "backlogs": [
                "MATHEMATICS - I"
             ],
@@ -10767,11 +10767,11 @@
             "MATHEMATICS-III"
          ],
          "total_backlogs_cnt": 3,
-         "total_credits": 59.5,
-         "total_points": 21.84183901205178,
+         "total_credits": 62.5,
+         "total_points": 20.499181669394435,
          "_id": "21U41A4208",
          "1-1": {
-            "points": 8.727272727272727,
+            "points": 7.384615384615385,
             "backlogs": [
                "MATHEMATICS - I"
             ],
@@ -10848,11 +10848,11 @@
             "MATHEMATICS - I"
          ],
          "total_backlogs_cnt": 1,
-         "total_credits": 59.5,
-         "total_points": 22.356792144026187,
+         "total_credits": 62.5,
+         "total_points": 21.126022913256953,
          "_id": "21U41A4211",
          "1-1": {
-            "points": 8,
+            "points": 6.769230769230769,
             "backlogs": [
                "MATHEMATICS - I"
             ],
@@ -10880,11 +10880,11 @@
             "MATHEMATICS-III"
          ],
          "total_backlogs_cnt": 6,
-         "total_credits": 53.5,
-         "total_points": 20.17956511573533,
+         "total_credits": 62.5,
+         "total_points": 16.09165302782324,
          "_id": "21U41A4212",
          "1-1": {
-            "points": 8.857142857142858,
+            "points": 4.769230769230769,
             "backlogs": [
                "MATHEMATICS - I",
                "PROGRAMMING FOR PROBLEM SOLVING USING C",
@@ -11041,11 +11041,11 @@
             "OBJECT ORIENTED PROGRAMMING WITH JAVA"
          ],
          "total_backlogs_cnt": 5,
-         "total_credits": 59.5,
-         "total_points": 17.778455586966224,
+         "total_credits": 62.5,
+         "total_points": 16.659574468085108,
          "_id": "21U41A4218",
          "1-1": {
-            "points": 7.2727272727272725,
+            "points": 6.153846153846154,
             "backlogs": [
                "APPLIED CHEMISTRY"
             ],
@@ -11076,11 +11076,11 @@
             "DATABASE MANAGEMENT SYSTEMS"
          ],
          "total_backlogs_cnt": 3,
-         "total_credits": 59.5,
-         "total_points": 21.62297277190894,
+         "total_credits": 62.5,
+         "total_points": 20.350245499181668,
          "_id": "21U41A4219",
          "1-1": {
-            "points": 8.272727272727273,
+            "points": 7,
             "backlogs": [
                "MATHEMATICS - I"
             ],
@@ -11106,11 +11106,11 @@
             "MATHEMATICS - I"
          ],
          "total_backlogs_cnt": 1,
-         "total_credits": 59.5,
-         "total_points": 21.4860883797054,
+         "total_credits": 62.5,
+         "total_points": 20.25531914893617,
          "_id": "21U41A4220",
          "1-1": {
-            "points": 8,
+            "points": 6.769230769230769,
             "backlogs": [
                "MATHEMATICS - I"
             ],
@@ -11295,11 +11295,11 @@
             "DATABASE MANAGEMENT SYSTEMS"
          ],
          "total_backlogs_cnt": 6,
-         "total_credits": 56.5,
-         "total_points": 19.22185851973086,
+         "total_credits": 62.5,
+         "total_points": 16.623567921440262,
          "_id": "21U41A4228",
          "1-1": {
-            "points": 8.444444444444445,
+            "points": 5.846153846153846,
             "backlogs": [
                "MATHEMATICS - I",
                "APPLIED CHEMISTRY"
@@ -11355,11 +11355,11 @@
             "OBJECT ORIENTED PROGRAMMING WITH JAVA"
          ],
          "total_backlogs_cnt": 4,
-         "total_credits": 59.5,
-         "total_points": 19.62297277190894,
+         "total_credits": 62.5,
+         "total_points": 18.504091653027825,
          "_id": "21U41A4230",
          "1-1": {
-            "points": 7.2727272727272725,
+            "points": 6.153846153846154,
             "backlogs": [
                "MATHEMATICS - I"
             ],
@@ -11509,11 +11509,11 @@
             "MATHEMATICS-III"
          ],
          "total_backlogs_cnt": 4,
-         "total_credits": 59.5,
-         "total_points": 19.565392054753758,
+         "total_credits": 62.5,
+         "total_points": 18.34860883797054,
          "_id": "21U41A4236",
          "1-1": {
-            "points": 7.909090909090909,
+            "points": 6.6923076923076925,
             "backlogs": [
                "MATHEMATICS - I"
             ],
@@ -11588,11 +11588,11 @@
             "DIGITAL LOGIC DESIGN"
          ],
          "total_backlogs_cnt": 2,
-         "total_credits": 59.5,
-         "total_points": 21.392649903288202,
+         "total_credits": 62.5,
+         "total_points": 20.189852700491,
          "_id": "21U41A4239",
          "1-1": {
-            "points": 7.818181818181818,
+            "points": 6.615384615384615,
             "backlogs": [
                "MATHEMATICS - I"
             ],
@@ -11618,11 +11618,11 @@
             "PROGRAMMING FOR PROBLEM SOLVING USING C"
          ],
          "total_backlogs_cnt": 2,
-         "total_credits": 56.5,
-         "total_points": 24.05310056373886,
+         "total_credits": 62.5,
+         "total_points": 21.42062193126023,
          "_id": "21U41A4240",
          "1-1": {
-            "points": 8.555555555555555,
+            "points": 5.923076923076923,
             "backlogs": [
                "MATHEMATICS - I",
                "PROGRAMMING FOR PROBLEM SOLVING USING C"
@@ -11669,11 +11669,11 @@
             "MATHEMATICS - I"
          ],
          "total_backlogs_cnt": 1,
-         "total_credits": 59.5,
-         "total_points": 24.77220651688737,
+         "total_credits": 62.5,
+         "total_points": 23.44353518821604,
          "_id": "21U41A4242",
          "1-1": {
-            "points": 8.636363636363637,
+            "points": 7.3076923076923075,
             "backlogs": [
                "MATHEMATICS - I"
             ],
@@ -11827,11 +11827,11 @@
             "OBJECT ORIENTED PROGRAMMING WITH JAVA"
          ],
          "total_backlogs_cnt": 5,
-         "total_credits": 56.5,
-         "total_points": 19.052373158756136,
+         "total_credits": 62.5,
+         "total_points": 16.590834697217677,
          "_id": "21U41A4248",
          "1-1": {
-            "points": 8,
+            "points": 5.538461538461538,
             "backlogs": [
                "MATHEMATICS - I",
                "APPLIED CHEMISTRY"
@@ -11889,11 +11889,11 @@
             "OBJECT ORIENTED PROGRAMMING WITH JAVA"
          ],
          "total_backlogs_cnt": 8,
-         "total_credits": 53.5,
-         "total_points": 17.59667991582885,
+         "total_credits": 62.5,
+         "total_points": 13.772504091653028,
          "_id": "21U41A4250",
          "1-1": {
-            "points": 8.285714285714286,
+            "points": 4.461538461538462,
             "backlogs": [
                "MATHEMATICS - I",
                "PROGRAMMING FOR PROBLEM SOLVING USING C",
@@ -11929,11 +11929,11 @@
             "DATABASE MANAGEMENT SYSTEMS"
          ],
          "total_backlogs_cnt": 5,
-         "total_credits": 59.5,
-         "total_points": 18.23389376580866,
+         "total_credits": 62.5,
+         "total_points": 17.031096563011456,
          "_id": "21U41A4251",
          "1-1": {
-            "points": 7.818181818181818,
+            "points": 6.615384615384615,
             "backlogs": [
                "MATHEMATICS - I"
             ],
@@ -11972,11 +11972,11 @@
             "OBJECT ORIENTED PROGRAMMING WITH JAVA"
          ],
          "total_backlogs_cnt": 11,
-         "total_credits": 56.5,
-         "total_points": 14.234224404437171,
+         "total_credits": 62.5,
+         "total_points": 11.806873977086742,
          "_id": "21U41A4252",
          "1-1": {
-            "points": 7.888888888888889,
+            "points": 5.461538461538462,
             "backlogs": [
                "MATHEMATICS - I",
                "PROGRAMMING FOR PROBLEM SOLVING USING C"
@@ -12067,11 +12067,11 @@
             "OBJECT ORIENTED PROGRAMMING WITH JAVA"
          ],
          "total_backlogs_cnt": 7,
-         "total_credits": 56.5,
-         "total_points": 18.115657392253137,
+         "total_credits": 62.5,
+         "total_points": 15.551554828150572,
          "_id": "21U41A4255",
          "1-1": {
-            "points": 8.333333333333334,
+            "points": 5.769230769230769,
             "backlogs": [
                "MATHEMATICS - I",
                "APPLIED CHEMISTRY"
@@ -12113,11 +12113,11 @@
             "OBJECT ORIENTED PROGRAMMING WITH JAVA"
          ],
          "total_backlogs_cnt": 12,
-         "total_credits": 53.5,
-         "total_points": 15.104278700023382,
+         "total_credits": 62.5,
+         "total_points": 11.016366612111295,
          "_id": "21U41A4256",
          "1-1": {
-            "points": 8.857142857142858,
+            "points": 4.769230769230769,
             "backlogs": [
                "MATHEMATICS - I",
                "PROGRAMMING FOR PROBLEM SOLVING USING C",
@@ -12155,11 +12155,11 @@
             "MATHEMATICS-III"
          ],
          "total_backlogs_cnt": 3,
-         "total_credits": 59.5,
-         "total_points": 20.270049099836335,
+         "total_credits": 62.5,
+         "total_points": 19.0392798690671,
          "_id": "21U41A4257",
          "1-1": {
-            "points": 8,
+            "points": 6.769230769230769,
             "backlogs": [
                "MATHEMATICS - I"
             ],
@@ -12192,11 +12192,11 @@
             "MATHEMATICAL FOUNDATIONS OF COMPUTER SCI"
          ],
          "total_backlogs_cnt": 7,
-         "total_credits": 53.5,
-         "total_points": 19.360766892681788,
+         "total_credits": 62.5,
+         "total_points": 15.338788870703766,
          "_id": "21U41A4258",
          "1-1": {
-            "points": 8.714285714285714,
+            "points": 4.6923076923076925,
             "backlogs": [
                "MATHEMATICS - I",
                "PROGRAMMING FOR PROBLEM SOLVING USING C",
@@ -12229,11 +12229,11 @@
             "INTRODUCTION TO ARTIFICIAL INTELLIGENCE"
          ],
          "total_backlogs_cnt": 3,
-         "total_credits": 59.5,
-         "total_points": 21.30709715816099,
+         "total_credits": 62.5,
+         "total_points": 20.034369885433716,
          "_id": "21U41A4259",
          "1-1": {
-            "points": 8.272727272727273,
+            "points": 7,
             "backlogs": [
                "PROGRAMMING FOR PROBLEM SOLVING USING C"
             ],
@@ -12309,11 +12309,11 @@
             "OBJECT ORIENTED PROGRAMMING WITH JAVA"
          ],
          "total_backlogs_cnt": 5,
-         "total_credits": 56.5,
-         "total_points": 18.90707401345699,
+         "total_credits": 62.5,
+         "total_points": 16.5139116202946,
          "_id": "21U41A4262",
          "1-1": {
-            "points": 7.777777777777778,
+            "points": 5.384615384615385,
             "backlogs": [
                "MATHEMATICS - I",
                "APPLIED CHEMISTRY"
@@ -12350,11 +12350,11 @@
             "OBJECT ORIENTED PROGRAMMING WITH JAVA"
          ],
          "total_backlogs_cnt": 10,
-         "total_credits": 56.5,
-         "total_points": 14.651209310783779,
+         "total_credits": 62.5,
+         "total_points": 12.155482815057283,
          "_id": "21U41A4263",
          "1-1": {
-            "points": 8.11111111111111,
+            "points": 5.615384615384615,
             "backlogs": [
                "MATHEMATICS - I",
                "PROGRAMMING FOR PROBLEM SOLVING USING C"
@@ -12394,11 +12394,11 @@
             "PYTHON PROGRAMMING"
          ],
          "total_backlogs_cnt": 7,
-         "total_credits": 53.5,
-         "total_points": 18.12789338321253,
+         "total_credits": 62.5,
+         "total_points": 14.171849427168576,
          "_id": "21U41A4264",
          "1-1": {
-            "points": 8.571428571428571,
+            "points": 4.615384615384615,
             "backlogs": [
                "MATHEMATICS - I",
                "PROGRAMMING FOR PROBLEM SOLVING USING C",
@@ -12429,11 +12429,11 @@
             "MATHEMATICS-III"
          ],
          "total_backlogs_cnt": 2,
-         "total_credits": 59.5,
-         "total_points": 21.9095372712394,
+         "total_credits": 62.5,
+         "total_points": 20.608837970540097,
          "_id": "21U41A4265",
          "1-1": {
-            "points": 8.454545454545455,
+            "points": 7.153846153846154,
             "backlogs": [
                "MATHEMATICS - I"
             ],
@@ -12483,11 +12483,11 @@
             "OBJECT ORIENTED PROGRAMMING WITH JAVA"
          ],
          "total_backlogs_cnt": 3,
-         "total_credits": 59.5,
-         "total_points": 20.335961910429994,
+         "total_credits": 62.5,
+         "total_points": 19.175122749590834,
          "_id": "21U41A4267",
          "1-1": {
-            "points": 7.545454545454546,
+            "points": 6.384615384615385,
             "backlogs": [
                "MATHEMATICS - I"
             ],
@@ -12513,11 +12513,11 @@
             "MATHEMATICS - I"
          ],
          "total_backlogs_cnt": 1,
-         "total_credits": 59.5,
-         "total_points": 22.203838714477012,
+         "total_credits": 62.5,
+         "total_points": 20.959083469721765,
          "_id": "21U41A4268",
          "1-1": {
-            "points": 8.090909090909092,
+            "points": 6.846153846153846,
             "backlogs": [
                "MATHEMATICS - I"
             ],
@@ -12566,11 +12566,11 @@
             "MATHEMATICAL FOUNDATIONS OF COMPUTER SCI"
          ],
          "total_backlogs_cnt": 4,
-         "total_credits": 59.5,
-         "total_points": 19.678916827852998,
+         "total_credits": 62.5,
+         "total_points": 18.504091653027825,
          "_id": "21U41A4270",
          "1-1": {
-            "points": 7.636363636363637,
+            "points": 6.461538461538462,
             "backlogs": [
                "MATHEMATICS - I"
             ],
@@ -12660,11 +12660,11 @@
             "MATHEMATICS-III"
          ],
          "total_backlogs_cnt": 2,
-         "total_credits": 59.5,
-         "total_points": 21.917720577295043,
+         "total_credits": 62.5,
+         "total_points": 20.617021276595743,
          "_id": "21U41A4273",
          "1-1": {
-            "points": 8.454545454545455,
+            "points": 7.153846153846154,
             "backlogs": [
                "MATHEMATICS - I"
             ],
@@ -12738,11 +12738,11 @@
             "DATABASE MANAGEMENT SYSTEMS"
          ],
          "total_backlogs_cnt": 4,
-         "total_credits": 59.5,
-         "total_points": 19.381044487427467,
+         "total_credits": 62.5,
+         "total_points": 18.206219312602293,
          "_id": "21U41A4276",
          "1-1": {
-            "points": 7.636363636363637,
+            "points": 6.461538461538462,
             "backlogs": [
                "MATHEMATICS - I"
             ],
@@ -12820,11 +12820,11 @@
             "MATHEMATICS - I"
          ],
          "total_backlogs_cnt": 1,
-         "total_credits": 59.5,
-         "total_points": 22.525517036155332,
+         "total_credits": 62.5,
+         "total_points": 21.266775777414075,
          "_id": "21U41A4279",
          "1-1": {
-            "points": 8.181818181818182,
+            "points": 6.923076923076923,
             "backlogs": [
                "MATHEMATICS - I"
             ],
@@ -12847,11 +12847,11 @@
             "MATHEMATICS - I"
          ],
          "total_backlogs_cnt": 1,
-         "total_credits": 59.5,
-         "total_points": 21.356494569260526,
+         "total_credits": 62.5,
+         "total_points": 20.0278232405892,
          "_id": "21U41A4280",
          "1-1": {
-            "points": 8.636363636363637,
+            "points": 7.3076923076923075,
             "backlogs": [
                "MATHEMATICS - I"
             ],
@@ -12877,11 +12877,11 @@
             "MATHEMATICS-III"
          ],
          "total_backlogs_cnt": 4,
-         "total_credits": 56.5,
-         "total_points": 21.227859610838337,
+         "total_credits": 62.5,
+         "total_points": 18.527004909983635,
          "_id": "21U41A4281",
          "1-1": {
-            "points": 8.777777777777779,
+            "points": 6.076923076923077,
             "backlogs": [
                "MATHEMATICS - I",
                "APPLIED CHEMISTRY"
@@ -12910,11 +12910,11 @@
             "APPLIED PHYSICS"
          ],
          "total_backlogs_cnt": 2,
-         "total_credits": 59.5,
-         "total_points": 22.688141645588455,
+         "total_credits": 62.5,
+         "total_points": 21.47135842880524,
          "_id": "21U41A4282",
          "1-1": {
-            "points": 7.909090909090909,
+            "points": 6.6923076923076925,
             "backlogs": [
                "MATHEMATICS - I"
             ],
@@ -12963,11 +12963,11 @@
             "APPLIED PHYSICS"
          ],
          "total_backlogs_cnt": 2,
-         "total_credits": 59.5,
-         "total_points": 22.042106829340874,
+         "total_credits": 62.5,
+         "total_points": 20.74140752864157,
          "_id": "21U41A4284",
          "1-1": {
-            "points": 8.454545454545455,
+            "points": 7.153846153846154,
             "backlogs": [
                "MATHEMATICS - I"
             ],
@@ -12995,11 +12995,11 @@
             "MATHEMATICS-III"
          ],
          "total_backlogs_cnt": 4,
-         "total_credits": 56.5,
-         "total_points": 19.873977086743047,
+         "total_credits": 62.5,
+         "total_points": 17.412438625204583,
          "_id": "21U41A4285",
          "1-1": {
-            "points": 8,
+            "points": 5.538461538461538,
             "backlogs": [
                "MATHEMATICS - I",
                "PROGRAMMING FOR PROBLEM SOLVING USING C"
@@ -13656,7 +13656,7 @@
          "2-2": {}
       }
    ],
-   "21csd": [
+   "21csds": [
       {
          "total_backlogs": [],
          "total_backlogs_cnt": 0,
@@ -13686,11 +13686,11 @@
             "DIGITAL LOGIC DESIGN"
          ],
          "total_backlogs_cnt": 2,
-         "total_credits": 59.5,
-         "total_points": 21.485939592322573,
+         "total_credits": 62.5,
+         "total_points": 20.283142389525366,
          "_id": "21U41A4402",
          "1-1": {
-            "points": 7.818181818181818,
+            "points": 6.615384615384615,
             "backlogs": [
                "APPLIED CHEMISTRY"
             ],
@@ -13717,11 +13717,11 @@
             "MATHEMATICS-III"
          ],
          "total_backlogs_cnt": 3,
-         "total_credits": 59.5,
-         "total_points": 20.21112929623568,
+         "total_credits": 62.5,
+         "total_points": 18.98036006546645,
          "_id": "21U41A4403",
          "1-1": {
-            "points": 8,
+            "points": 6.769230769230769,
             "backlogs": [
                "MATHEMATICS - I"
             ],
@@ -13751,11 +13751,11 @@
             "DIGITAL LOGIC DESIGN"
          ],
          "total_backlogs_cnt": 4,
-         "total_credits": 56.5,
-         "total_points": 20.518457901436623,
+         "total_credits": 62.5,
+         "total_points": 17.988543371522095,
          "_id": "21U41A4404",
          "1-1": {
-            "points": 8.222222222222221,
+            "points": 5.6923076923076925,
             "backlogs": [
                "MATHEMATICS - I",
                "APPLIED CHEMISTRY"
@@ -13805,11 +13805,11 @@
             "MATHEMATICS - I"
          ],
          "total_backlogs_cnt": 1,
-         "total_credits": 59.5,
-         "total_points": 23.774438327629817,
+         "total_credits": 62.5,
+         "total_points": 22.48772504091653,
          "_id": "21U41A4406",
          "1-1": {
-            "points": 8.363636363636363,
+            "points": 7.076923076923077,
             "backlogs": [
                "MATHEMATICS - I"
             ],
@@ -13855,11 +13855,11 @@
             "APPLIED CHEMISTRY"
          ],
          "total_backlogs_cnt": 1,
-         "total_credits": 59.5,
-         "total_points": 22.07335217973516,
+         "total_credits": 62.5,
+         "total_points": 20.898527004909983,
          "_id": "21U41A4408",
          "1-1": {
-            "points": 7.636363636363637,
+            "points": 6.461538461538462,
             "backlogs": [
                "APPLIED CHEMISTRY"
             ],
@@ -13883,11 +13883,11 @@
             "OBJECT ORIENTED PROGRAMMING WITH JAVA"
          ],
          "total_backlogs_cnt": 2,
-         "total_credits": 59.5,
-         "total_points": 22.213807469126618,
+         "total_credits": 62.5,
+         "total_points": 20.941080196399344,
          "_id": "21U41A4409",
          "1-1": {
-            "points": 8.272727272727273,
+            "points": 7,
             "backlogs": [
                "MATHEMATICS - I"
             ],
@@ -13912,11 +13912,11 @@
             "MATHEMATICS - I"
          ],
          "total_backlogs_cnt": 1,
-         "total_credits": 59.5,
-         "total_points": 23.034816247582206,
+         "total_credits": 62.5,
+         "total_points": 21.72013093289689,
          "_id": "21U41A4410",
          "1-1": {
-            "points": 8.545454545454545,
+            "points": 7.230769230769231,
             "backlogs": [
                "MATHEMATICS - I"
             ],
@@ -13963,11 +13963,11 @@
             "DIGITAL LOGIC DESIGN"
          ],
          "total_backlogs_cnt": 2,
-         "total_credits": 59.5,
-         "total_points": 21.113524773099243,
+         "total_credits": 62.5,
+         "total_points": 19.92471358428805,
          "_id": "21U41A4412",
          "1-1": {
-            "points": 7.7272727272727275,
+            "points": 6.538461538461538,
             "backlogs": [
                "APPLIED CHEMISTRY"
             ],
@@ -14021,11 +14021,11 @@
             "MATHEMATICS-III"
          ],
          "total_backlogs_cnt": 3,
-         "total_credits": 59.5,
-         "total_points": 20.760154738878143,
+         "total_credits": 62.5,
+         "total_points": 19.54337152209493,
          "_id": "21U41A4414",
          "1-1": {
-            "points": 7.909090909090909,
+            "points": 6.6923076923076925,
             "backlogs": [
                "MATHEMATICS - I"
             ],
@@ -14126,11 +14126,11 @@
             "DIGITAL LOGIC DESIGN"
          ],
          "total_backlogs_cnt": 2,
-         "total_credits": 59.5,
-         "total_points": 23.552447552447553,
+         "total_credits": 62.5,
+         "total_points": 22.153846153846153,
          "_id": "21U41A4418",
          "1-1": {
-            "points": 9.090909090909092,
+            "points": 7.6923076923076925,
             "backlogs": [
                "MATHEMATICS - I"
             ],
@@ -14206,11 +14206,11 @@
             "OBJECT ORIENTED PROGRAMMING WITH JAVA"
          ],
          "total_backlogs_cnt": 2,
-         "total_credits": 59.5,
-         "total_points": 21.620592173783663,
+         "total_credits": 62.5,
+         "total_points": 20.333878887070377,
          "_id": "21U41A4421",
          "1-1": {
-            "points": 8.363636363636363,
+            "points": 7.076923076923077,
             "backlogs": [
                "PROGRAMMING FOR PROBLEM SOLVING USING C"
             ],
@@ -14237,11 +14237,11 @@
             "APPLIED PHYSICS"
          ],
          "total_backlogs_cnt": 3,
-         "total_credits": 56.5,
-         "total_points": 21.521003818876157,
+         "total_credits": 62.5,
+         "total_points": 18.854337152209492,
          "_id": "21U41A4422",
          "1-1": {
-            "points": 8.666666666666666,
+            "points": 6,
             "backlogs": [
                "PROGRAMMING FOR PROBLEM SOLVING USING C",
                "APPLIED CHEMISTRY"
@@ -14450,11 +14450,11 @@
             "DATABASE MANAGEMENT SYSTEMS"
          ],
          "total_backlogs_cnt": 5,
-         "total_credits": 56.5,
-         "total_points": 20.722313147845064,
+         "total_credits": 62.5,
+         "total_points": 18.055646481178396,
          "_id": "21U41A4430",
          "1-1": {
-            "points": 8.666666666666666,
+            "points": 6,
             "backlogs": [
                "MATHEMATICS - I",
                "PROGRAMMING FOR PROBLEM SOLVING USING C"
@@ -14509,11 +14509,11 @@
             "DIGITAL LOGIC DESIGN"
          ],
          "total_backlogs_cnt": 4,
-         "total_credits": 56.5,
-         "total_points": 20.515184579014367,
+         "total_credits": 62.5,
+         "total_points": 17.985270049099835,
          "_id": "21U41A4432",
          "1-1": {
-            "points": 8.222222222222221,
+            "points": 5.6923076923076925,
             "backlogs": [
                "PROGRAMMING FOR PROBLEM SOLVING USING C",
                "APPLIED CHEMISTRY"
@@ -14542,11 +14542,11 @@
             "DIGITAL LOGIC DESIGN"
          ],
          "total_backlogs_cnt": 3,
-         "total_credits": 56.5,
-         "total_points": 22.488452445899256,
+         "total_credits": 62.5,
+         "total_points": 19.548281505728315,
          "_id": "21U41A4433",
          "1-1": {
-            "points": 9.555555555555555,
+            "points": 6.615384615384615,
             "backlogs": [
                "MATHEMATICS - I",
                "PROGRAMMING FOR PROBLEM SOLVING USING C"
@@ -14612,11 +14612,11 @@
             "OBJECT ORIENTED PROGRAMMING WITH JAVA"
          ],
          "total_backlogs_cnt": 12,
-         "total_credits": 34,
-         "total_points": 13.167173252279635,
+         "total_credits": 43,
+         "total_points": 9.21112929623568,
          "_id": "21U41A4435",
          "1-1": {
-            "points": 8.571428571428571,
+            "points": 4.615384615384615,
             "backlogs": [
                "MATHEMATICS - I",
                "PROGRAMMING FOR PROBLEM SOLVING USING C",
@@ -14661,11 +14661,11 @@
             "DATABASE MANAGEMENT SYSTEMS"
          ],
          "total_backlogs_cnt": 10,
-         "total_credits": 53.5,
-         "total_points": 16.13677811550152,
+         "total_credits": 62.5,
+         "total_points": 12.312602291325696,
          "_id": "21U41A4436",
          "1-1": {
-            "points": 8.285714285714286,
+            "points": 4.461538461538462,
             "backlogs": [
                "MATHEMATICS - I",
                "PROGRAMMING FOR PROBLEM SOLVING USING C",
@@ -14722,11 +14722,11 @@
             "MATHEMATICS - I"
          ],
          "total_backlogs_cnt": 1,
-         "total_credits": 59.5,
-         "total_points": 22.108168427317363,
+         "total_credits": 62.5,
+         "total_points": 20.849427168576106,
          "_id": "21U41A4438",
          "1-1": {
-            "points": 8.181818181818182,
+            "points": 6.923076923076923,
             "backlogs": [
                "MATHEMATICS - I"
             ],
@@ -14779,11 +14779,11 @@
             "FUNDAMENTALS OF DATA SCIENCE"
          ],
          "total_backlogs_cnt": 8,
-         "total_credits": 53.5,
-         "total_points": 17.655599719429507,
+         "total_credits": 62.5,
+         "total_points": 13.831423895253682,
          "_id": "21U41A4440",
          "1-1": {
-            "points": 8.285714285714286,
+            "points": 4.461538461538462,
             "backlogs": [
                "MATHEMATICS - I",
                "PROGRAMMING FOR PROBLEM SOLVING USING C",
@@ -14845,11 +14845,11 @@
             "DATABASE MANAGEMENT SYSTEMS"
          ],
          "total_backlogs_cnt": 4,
-         "total_credits": 56.5,
-         "total_points": 20.37861429350791,
+         "total_credits": 62.5,
+         "total_points": 17.711947626841244,
          "_id": "21U41A4442",
          "1-1": {
-            "points": 8.666666666666666,
+            "points": 6,
             "backlogs": [
                "MATHEMATICS - I",
                "APPLIED CHEMISTRY"
@@ -14878,11 +14878,11 @@
             "PROGRAMMING FOR PROBLEM SOLVING USING C"
          ],
          "total_backlogs_cnt": 2,
-         "total_credits": 56.5,
-         "total_points": 24.042371340243683,
+         "total_credits": 62.5,
+         "total_points": 21.238952536824875,
          "_id": "21U41A4443",
          "1-1": {
-            "points": 9.11111111111111,
+            "points": 6.3076923076923075,
             "backlogs": [
                "MATHEMATICS - I",
                "PROGRAMMING FOR PROBLEM SOLVING USING C"

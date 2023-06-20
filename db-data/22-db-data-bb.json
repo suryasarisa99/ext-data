@@ -5,7 +5,7 @@
         "subjects": {
           "MATHEMATICS-I": {
             "grade": "F",
-            "credits": "3"
+            "credits": "0"
           },
           "COMMUNICATIVE ENGLISH": {
             "grade": "C",
@@ -13,15 +13,15 @@
           },
           "ENGINEERING PHYSICS": {
             "grade": "F",
-            "credits": "3"
+            "credits": "0"
           },
           "ENGINEERING DRAWING": {
             "grade": "F",
-            "credits": "3"
+            "credits": "0"
           },
           "ENGINEERING GEOLOGY INTEGRATED THEORY": {
             "grade": "F",
-            "credits": "3"
+            "credits": "0"
           }
         },
         "labs": {
@@ -76,7 +76,7 @@
         "subjects": {
           "MATHEMATICS-I": {
             "grade": "F",
-            "credits": "3"
+            "credits": "0"
           },
           "COMMUNICATIVE ENGLISH": {
             "grade": "C",
@@ -84,7 +84,7 @@
           },
           "ENGINEERING PHYSICS": {
             "grade": "F",
-            "credits": "3"
+            "credits": "0"
           },
           "ENGINEERING DRAWING": {
             "grade": "C",
@@ -137,7 +137,7 @@
         "subjects": {
           "MATHEMATICS-I": {
             "grade": "F",
-            "credits": "3"
+            "credits": "0"
           },
           "COMMUNICATIVE ENGLISH": {
             "grade": "C",
@@ -149,7 +149,7 @@
           },
           "ENGINEERING DRAWING": {
             "grade": "F",
-            "credits": "3"
+            "credits": "0"
           },
           "ENGINEERING GEOLOGY INTEGRATED THEORY": {
             "grade": "C",
@@ -201,7 +201,7 @@
         "subjects": {
           "MATHEMATICS-I(CALCULUS)": {
             "grade": "F",
-            "credits": "3"
+            "credits": "0"
           },
           "COMMUNICATIVE ENGLISH": {
             "grade": "C",
@@ -213,7 +213,7 @@
           },
           "PROGRAMMING FOR PROBLEM SOLVING USING C": {
             "grade": "F",
-            "credits": "3"
+            "credits": "0"
           },
           "APPLIED CHEMISTRY": {
             "grade": "E",
@@ -262,7 +262,7 @@
         "subjects": {
           "MATHEMATICS-I(CALCULUS)": {
             "grade": "F",
-            "credits": "3"
+            "credits": "0"
           },
           "COMMUNICATIVE ENGLISH": {
             "grade": "C",
@@ -317,7 +317,7 @@
         "subjects": {
           "MATHEMATICS-I(CALCULUS)": {
             "grade": "F",
-            "credits": "3"
+            "credits": "0"
           },
           "COMMUNICATIVE ENGLISH": {
             "grade": "B",
@@ -333,7 +333,7 @@
           },
           "APPLIED CHEMISTRY": {
             "grade": "F",
-            "credits": "3"
+            "credits": "0"
           }
         },
         "labs": {
@@ -380,11 +380,11 @@
           },
           "ENGINEERING DRAWING": {
             "grade": "F",
-            "credits": "3"
+            "credits": "0"
           },
           "PROGRAMMING FOR PROBLEM SOLVING USING C": {
             "grade": "F",
-            "credits": "3"
+            "credits": "0"
           },
           "APPLIED CHEMISTRY": {
             "grade": "D",
@@ -433,7 +433,7 @@
         "subjects": {
           "MATHEMATICS-I(CALCULUS)": {
             "grade": "F",
-            "credits": "3"
+            "credits": "0"
           },
           "COMMUNICATIVE ENGLISH": {
             "grade": "A",
@@ -449,7 +449,7 @@
           },
           "APPLIED CHEMISTRY": {
             "grade": "F",
-            "credits": "3"
+            "credits": "0"
           }
         },
         "labs": {
@@ -488,7 +488,7 @@
         "subjects": {
           "MATHEMATICS-I(CALCULUS)": {
             "grade": "F",
-            "credits": "3"
+            "credits": "0"
           },
           "COMMUNICATIVE ENGLISH": {
             "grade": "C",
@@ -543,7 +543,7 @@
         "subjects": {
           "MATHEMATICS-I(CALCULUS)": {
             "grade": "F",
-            "credits": "3"
+            "credits": "0"
           },
           "COMMUNICATIVE ENGLISH": {
             "grade": "C",
@@ -551,7 +551,7 @@
           },
           "ENGINEERING DRAWING": {
             "grade": "F",
-            "credits": "3"
+            "credits": "0"
           },
           "PROGRAMMING FOR PROBLEM SOLVING USING C": {
             "grade": "C",
@@ -559,7 +559,7 @@
           },
           "APPLIED CHEMISTRY": {
             "grade": "F",
-            "credits": "3"
+            "credits": "0"
           }
         },
         "labs": {
@@ -716,7 +716,7 @@
         "subjects": {
           "MATHEMATICS-I(CALCULUS)": {
             "grade": "F",
-            "credits": "3"
+            "credits": "0"
           },
           "COMMUNICATIVE ENGLISH": {
             "grade": "C",
@@ -724,7 +724,7 @@
           },
           "ENGINEERING DRAWING": {
             "grade": "F",
-            "credits": "3"
+            "credits": "0"
           },
           "PROGRAMMING FOR PROBLEM SOLVING USING C": {
             "grade": "D",
@@ -826,7 +826,7 @@
         "subjects": {
           "MATHEMATICS-I(CALCULUS)": {
             "grade": "F",
-            "credits": "3"
+            "credits": "0"
           },
           "COMMUNICATIVE ENGLISH": {
             "grade": "A",
@@ -881,7 +881,7 @@
         "subjects": {
           "MATHEMATICS-I(CALCULUS)": {
             "grade": "F",
-            "credits": "3"
+            "credits": "0"
           },
           "COMMUNICATIVE ENGLISH": {
             "grade": "C",
@@ -893,7 +893,7 @@
           },
           "PROGRAMMING FOR PROBLEM SOLVING USING C": {
             "grade": "F",
-            "credits": "3"
+            "credits": "0"
           },
           "APPLIED CHEMISTRY": {
             "grade": "D",
@@ -1005,7 +1005,7 @@
           },
           "ENGINEERING DRAWING": {
             "grade": "F",
-            "credits": "3"
+            "credits": "0"
           },
           "PROGRAMMING FOR PROBLEM SOLVING USING C": {
             "grade": "C",
@@ -1162,7 +1162,7 @@
         "subjects": {
           "MATHEMATICS-I(CALCULUS)": {
             "grade": "F",
-            "credits": "3"
+            "credits": "0"
           },
           "COMMUNICATIVE ENGLISH": {
             "grade": "B",
@@ -1170,7 +1170,7 @@
           },
           "ENGINEERING DRAWING": {
             "grade": "F",
-            "credits": "3"
+            "credits": "0"
           },
           "PROGRAMMING FOR PROBLEM SOLVING USING C": {
             "grade": "D",
@@ -1272,7 +1272,7 @@
         "subjects": {
           "MATHEMATICS-I(CALCULUS)": {
             "grade": "F",
-            "credits": "3"
+            "credits": "0"
           },
           "COMMUNICATIVE ENGLISH": {
             "grade": "A",
@@ -1280,7 +1280,7 @@
           },
           "ENGINEERING DRAWING": {
             "grade": "F",
-            "credits": "3"
+            "credits": "0"
           },
           "PROGRAMMING FOR PROBLEM SOLVING USING C": {
             "grade": "C",
@@ -1339,7 +1339,7 @@
           },
           "PROGRAMMING FOR PROBLEM SOLVING USING C": {
             "grade": "F",
-            "credits": "3"
+            "credits": "0"
           },
           "APPLIED CHEMISTRY": {
             "grade": "B",
@@ -1382,7 +1382,7 @@
         "subjects": {
           "MATHEMATICS-I(CALCULUS)": {
             "grade": "F",
-            "credits": "3"
+            "credits": "0"
           },
           "COMMUNICATIVE ENGLISH": {
             "grade": "B",
@@ -1437,7 +1437,7 @@
         "subjects": {
           "MATHEMATICS-I(CALCULUS)": {
             "grade": "F",
-            "credits": "3"
+            "credits": "0"
           },
           "COMMUNICATIVE ENGLISH": {
             "grade": "C",
@@ -1445,15 +1445,15 @@
           },
           "ENGINEERING DRAWING": {
             "grade": "F",
-            "credits": "3"
+            "credits": "0"
           },
           "PROGRAMMING FOR PROBLEM SOLVING USING C": {
             "grade": "F",
-            "credits": "3"
+            "credits": "0"
           },
           "APPLIED CHEMISTRY": {
             "grade": "F",
-            "credits": "3"
+            "credits": "0"
           }
         },
         "labs": {
@@ -1557,7 +1557,7 @@
         "subjects": {
           "MATHEMATICS-I(CALCULUS)": {
             "grade": "F",
-            "credits": "3"
+            "credits": "0"
           },
           "COMMUNICATIVE ENGLISH": {
             "grade": "C",
@@ -1612,7 +1612,7 @@
         "subjects": {
           "MATHEMATICS-I(CALCULUS)": {
             "grade": "F",
-            "credits": "3"
+            "credits": "0"
           },
           "COMMUNICATIVE ENGLISH": {
             "grade": "B",
@@ -1679,11 +1679,11 @@
           },
           "PROGRAMMING FOR PROBLEM SOLVING USING C": {
             "grade": "F",
-            "credits": "3"
+            "credits": "0"
           },
           "APPLIED CHEMISTRY": {
             "grade": "F",
-            "credits": "3"
+            "credits": "0"
           }
         },
         "labs": {
@@ -1728,7 +1728,7 @@
         "subjects": {
           "MATHEMATICS-I(CALCULUS)": {
             "grade": "F",
-            "credits": "3"
+            "credits": "0"
           },
           "COMMUNICATIVE ENGLISH": {
             "grade": "B",
@@ -1736,7 +1736,7 @@
           },
           "ENGINEERING DRAWING": {
             "grade": "F",
-            "credits": "3"
+            "credits": "0"
           },
           "PROGRAMMING FOR PROBLEM SOLVING USING C": {
             "grade": "E",
@@ -1893,7 +1893,7 @@
         "subjects": {
           "MATHEMATICS-I(CALCULUS)": {
             "grade": "F",
-            "credits": "3"
+            "credits": "0"
           },
           "COMMUNICATIVE ENGLISH": {
             "grade": "B",
@@ -1901,15 +1901,15 @@
           },
           "ENGINEERING DRAWING": {
             "grade": "F",
-            "credits": "3"
+            "credits": "0"
           },
           "PROGRAMMING FOR PROBLEM SOLVING USING C": {
             "grade": "F",
-            "credits": "3"
+            "credits": "0"
           },
           "APPLIED CHEMISTRY": {
             "grade": "F",
-            "credits": "3"
+            "credits": "0"
           }
         },
         "labs": {
@@ -1958,7 +1958,7 @@
         "subjects": {
           "MATHEMATICS-I(CALCULUS)": {
             "grade": "F",
-            "credits": "3"
+            "credits": "0"
           },
           "COMMUNICATIVE ENGLISH": {
             "grade": "A",
@@ -1966,15 +1966,15 @@
           },
           "ENGINEERING DRAWING": {
             "grade": "F",
-            "credits": "3"
+            "credits": "0"
           },
           "PROGRAMMING FOR PROBLEM SOLVING USING C": {
             "grade": "F",
-            "credits": "3"
+            "credits": "0"
           },
           "APPLIED CHEMISTRY": {
             "grade": "F",
-            "credits": "3"
+            "credits": "0"
           }
         },
         "labs": {
@@ -2023,7 +2023,7 @@
         "subjects": {
           "MATHEMATICS-I(CALCULUS)": {
             "grade": "F",
-            "credits": "3"
+            "credits": "0"
           },
           "COMMUNICATIVE ENGLISH": {
             "grade": "B",
@@ -2031,11 +2031,11 @@
           },
           "ENGINEERING DRAWING": {
             "grade": "F",
-            "credits": "3"
+            "credits": "0"
           },
           "PROGRAMMING FOR PROBLEM SOLVING USING C": {
             "grade": "F",
-            "credits": "3"
+            "credits": "0"
           },
           "APPLIED CHEMISTRY": {
             "grade": "E",
@@ -2086,7 +2086,7 @@
         "subjects": {
           "MATHEMATICS-I(CALCULUS)": {
             "grade": "F",
-            "credits": "3"
+            "credits": "0"
           },
           "COMMUNICATIVE ENGLISH": {
             "grade": "C",
@@ -2094,11 +2094,11 @@
           },
           "ENGINEERING DRAWING": {
             "grade": "F",
-            "credits": "3"
+            "credits": "0"
           },
           "PROGRAMMING FOR PROBLEM SOLVING USING C": {
             "grade": "F",
-            "credits": "3"
+            "credits": "0"
           },
           "APPLIED CHEMISTRY": {
             "grade": "D",
@@ -2149,7 +2149,7 @@
         "subjects": {
           "MATHEMATICS-I(CALCULUS)": {
             "grade": "F",
-            "credits": "3"
+            "credits": "0"
           },
           "COMMUNICATIVE ENGLISH": {
             "grade": "B",
@@ -2157,7 +2157,7 @@
           },
           "ENGINEERING DRAWING": {
             "grade": "F",
-            "credits": "3"
+            "credits": "0"
           },
           "PROGRAMMING FOR PROBLEM SOLVING USING C": {
             "grade": "D",
@@ -2165,7 +2165,7 @@
           },
           "APPLIED CHEMISTRY": {
             "grade": "F",
-            "credits": "3"
+            "credits": "0"
           }
         },
         "labs": {
@@ -2220,7 +2220,7 @@
           },
           "ENGINEERING DRAWING": {
             "grade": "F",
-            "credits": "3"
+            "credits": "0"
           },
           "PROGRAMMING FOR PROBLEM SOLVING USING C": {
             "grade": "D",
@@ -2322,7 +2322,7 @@
         "subjects": {
           "MATHEMATICS-I(CALCULUS)": {
             "grade": "F",
-            "credits": "3"
+            "credits": "0"
           },
           "COMMUNICATIVE ENGLISH": {
             "grade": "C",
@@ -2377,7 +2377,7 @@
         "subjects": {
           "MATHEMATICS-I(CALCULUS)": {
             "grade": "F",
-            "credits": "3"
+            "credits": "0"
           },
           "COMMUNICATIVE ENGLISH": {
             "grade": "C",
@@ -2385,15 +2385,15 @@
           },
           "ENGINEERING DRAWING": {
             "grade": "F",
-            "credits": "3"
+            "credits": "0"
           },
           "PROGRAMMING FOR PROBLEM SOLVING USING C": {
             "grade": "F",
-            "credits": "3"
+            "credits": "0"
           },
           "APPLIED CHEMISTRY": {
             "grade": "F",
-            "credits": "3"
+            "credits": "0"
           }
         },
         "labs": {
@@ -2442,7 +2442,7 @@
         "subjects": {
           "MATHEMATICS-I(CALCULUS)": {
             "grade": "F",
-            "credits": "3"
+            "credits": "0"
           },
           "COMMUNICATIVE ENGLISH": {
             "grade": "B",
@@ -2450,11 +2450,11 @@
           },
           "ENGINEERING DRAWING": {
             "grade": "F",
-            "credits": "3"
+            "credits": "0"
           },
           "PROGRAMMING FOR PROBLEM SOLVING USING C": {
             "grade": "F",
-            "credits": "3"
+            "credits": "0"
           },
           "APPLIED CHEMISTRY": {
             "grade": "E",
@@ -2517,11 +2517,11 @@
           },
           "PROGRAMMING FOR PROBLEM SOLVING USING C": {
             "grade": "F",
-            "credits": "3"
+            "credits": "0"
           },
           "APPLIED CHEMISTRY": {
             "grade": "F",
-            "credits": "3"
+            "credits": "0"
           }
         },
         "labs": {
@@ -2621,7 +2621,7 @@
         "subjects": {
           "MATHEMATICS-I(CALCULUS)": {
             "grade": "F",
-            "credits": "3"
+            "credits": "0"
           },
           "COMMUNICATIVE ENGLISH": {
             "grade": "C",
@@ -2637,7 +2637,7 @@
           },
           "APPLIED CHEMISTRY": {
             "grade": "F",
-            "credits": "3"
+            "credits": "0"
           }
         },
         "labs": {
@@ -2731,7 +2731,7 @@
         "subjects": {
           "MATHEMATICS-I(CALCULUS)": {
             "grade": "F",
-            "credits": "3"
+            "credits": "0"
           },
           "COMMUNICATIVE ENGLISH": {
             "grade": "B",
@@ -2739,15 +2739,15 @@
           },
           "ENGINEERING DRAWING": {
             "grade": "F",
-            "credits": "3"
+            "credits": "0"
           },
           "PROGRAMMING FOR PROBLEM SOLVING USING C": {
             "grade": "F",
-            "credits": "3"
+            "credits": "0"
           },
           "APPLIED CHEMISTRY": {
             "grade": "F",
-            "credits": "3"
+            "credits": "0"
           }
         },
         "labs": {
@@ -2796,7 +2796,7 @@
         "subjects": {
           "MATHEMATICS-I(CALCULUS)": {
             "grade": "F",
-            "credits": "3"
+            "credits": "0"
           },
           "COMMUNICATIVE ENGLISH": {
             "grade": "C",
@@ -2804,7 +2804,7 @@
           },
           "ENGINEERING DRAWING": {
             "grade": "F",
-            "credits": "3"
+            "credits": "0"
           },
           "PROGRAMMING FOR PROBLEM SOLVING USING C": {
             "grade": "D",
@@ -2851,7 +2851,7 @@
         "subjects": {
           "MATHEMATICS-I(CALCULUS)": {
             "grade": "F",
-            "credits": "3"
+            "credits": "0"
           },
           "COMMUNICATIVE ENGLISH": {
             "grade": "B",
@@ -2859,7 +2859,7 @@
           },
           "ENGINEERING DRAWING": {
             "grade": "F",
-            "credits": "3"
+            "credits": "0"
           },
           "PROGRAMMING FOR PROBLEM SOLVING USING C": {
             "grade": "E",
@@ -2867,7 +2867,7 @@
           },
           "APPLIED CHEMISTRY": {
             "grade": "F",
-            "credits": "3"
+            "credits": "0"
           }
         },
         "labs": {
@@ -2969,7 +2969,7 @@
         "subjects": {
           "MATHEMATICS-I(CALCULUS)": {
             "grade": "F",
-            "credits": "3"
+            "credits": "0"
           },
           "COMMUNICATIVE ENGLISH": {
             "grade": "D",
@@ -2977,15 +2977,15 @@
           },
           "ENGINEERING DRAWING": {
             "grade": "F",
-            "credits": "3"
+            "credits": "0"
           },
           "PROGRAMMING FOR PROBLEM SOLVING USING C": {
             "grade": "F",
-            "credits": "3"
+            "credits": "0"
           },
           "APPLIED CHEMISTRY": {
             "grade": "F",
-            "credits": "3"
+            "credits": "0"
           }
         },
         "labs": {
@@ -3089,7 +3089,7 @@
         "subjects": {
           "MATHEMATICS-I(CALCULUS)": {
             "grade": "F",
-            "credits": "3"
+            "credits": "0"
           },
           "COMMUNICATIVE ENGLISH": {
             "grade": "D",
@@ -3097,7 +3097,7 @@
           },
           "ENGINEERING DRAWING": {
             "grade": "F",
-            "credits": "3"
+            "credits": "0"
           },
           "PROGRAMMING FOR PROBLEM SOLVING USING C": {
             "grade": "E",
@@ -3105,7 +3105,7 @@
           },
           "APPLIED CHEMISTRY": {
             "grade": "F",
-            "credits": "3"
+            "credits": "0"
           }
         },
         "labs": {
@@ -3160,7 +3160,7 @@
           },
           "ENGINEERING DRAWING": {
             "grade": "F",
-            "credits": "3"
+            "credits": "0"
           },
           "PROGRAMMING FOR PROBLEM SOLVING USING C": {
             "grade": "E",
@@ -3317,7 +3317,7 @@
         "subjects": {
           "MATHEMATICS-I(CALCULUS)": {
             "grade": "F",
-            "credits": "3"
+            "credits": "0"
           },
           "COMMUNICATIVE ENGLISH": {
             "grade": "B",
@@ -3325,15 +3325,15 @@
           },
           "ENGINEERING DRAWING": {
             "grade": "F",
-            "credits": "3"
+            "credits": "0"
           },
           "PROGRAMMING FOR PROBLEM SOLVING USING C": {
             "grade": "F",
-            "credits": "3"
+            "credits": "0"
           },
           "APPLIED CHEMISTRY": {
             "grade": "F",
-            "credits": "3"
+            "credits": "0"
           }
         },
         "labs": {
@@ -3382,7 +3382,7 @@
         "subjects": {
           "MATHEMATICS-I(CALCULUS)": {
             "grade": "F",
-            "credits": "3"
+            "credits": "0"
           },
           "COMMUNICATIVE ENGLISH": {
             "grade": "A",
@@ -3390,11 +3390,11 @@
           },
           "ENGINEERING DRAWING": {
             "grade": "F",
-            "credits": "3"
+            "credits": "0"
           },
           "PROGRAMMING FOR PROBLEM SOLVING USING C": {
             "grade": "F",
-            "credits": "3"
+            "credits": "0"
           },
           "APPLIED CHEMISTRY": {
             "grade": "E",
@@ -3445,7 +3445,7 @@
         "subjects": {
           "MATHEMATICS-I(CALCULUS)": {
             "grade": "F",
-            "credits": "3"
+            "credits": "0"
           },
           "COMMUNICATIVE ENGLISH": {
             "grade": "B",
@@ -3453,7 +3453,7 @@
           },
           "ENGINEERING DRAWING": {
             "grade": "F",
-            "credits": "3"
+            "credits": "0"
           },
           "PROGRAMMING FOR PROBLEM SOLVING USING C": {
             "grade": "C",
@@ -3555,7 +3555,7 @@
         "subjects": {
           "MATHEMATICS-I(CALCULUS)": {
             "grade": "F",
-            "credits": "3"
+            "credits": "0"
           },
           "COMMUNICATIVE ENGLISH": {
             "grade": "C",
@@ -3563,15 +3563,15 @@
           },
           "ENGINEERING DRAWING": {
             "grade": "F",
-            "credits": "3"
+            "credits": "0"
           },
           "PROGRAMMING FOR PROBLEM SOLVING USING C": {
             "grade": "F",
-            "credits": "3"
+            "credits": "0"
           },
           "APPLIED CHEMISTRY": {
             "grade": "F",
-            "credits": "3"
+            "credits": "0"
           }
         },
         "labs": {
@@ -3620,7 +3620,7 @@
         "subjects": {
           "MATHEMATICS-I(CALCULUS)": {
             "grade": "F",
-            "credits": "3"
+            "credits": "0"
           },
           "COMMUNICATIVE ENGLISH": {
             "grade": "D",
@@ -3628,11 +3628,11 @@
           },
           "ENGINEERING DRAWING": {
             "grade": "F",
-            "credits": "3"
+            "credits": "0"
           },
           "PROGRAMMING FOR PROBLEM SOLVING USING C": {
             "grade": "F",
-            "credits": "3"
+            "credits": "0"
           },
           "APPLIED CHEMISTRY": {
             "grade": "E",
@@ -3683,7 +3683,7 @@
         "subjects": {
           "MATHEMATICS-I(CALCULUS)": {
             "grade": "F",
-            "credits": "3"
+            "credits": "0"
           },
           "COMMUNICATIVE ENGLISH": {
             "grade": "C",
@@ -3691,7 +3691,7 @@
           },
           "ENGINEERING DRAWING": {
             "grade": "F",
-            "credits": "3"
+            "credits": "0"
           },
           "PROGRAMMING FOR PROBLEM SOLVING USING C": {
             "grade": "E",
@@ -3738,7 +3738,7 @@
         "subjects": {
           "MATHEMATICS-I(CALCULUS)": {
             "grade": "F",
-            "credits": "3"
+            "credits": "0"
           },
           "COMMUNICATIVE ENGLISH": {
             "grade": "C",
@@ -3793,7 +3793,7 @@
         "subjects": {
           "MATHEMATICS-I(CALCULUS)": {
             "grade": "F",
-            "credits": "3"
+            "credits": "0"
           },
           "COMMUNICATIVE ENGLISH": {
             "grade": "C",
@@ -3805,7 +3805,7 @@
           },
           "PROGRAMMING FOR PROBLEM SOLVING USING C": {
             "grade": "F",
-            "credits": "3"
+            "credits": "0"
           },
           "APPLIED CHEMISTRY": {
             "grade": "E",
@@ -3854,7 +3854,7 @@
         "subjects": {
           "MATHEMATICS-I(CALCULUS)": {
             "grade": "F",
-            "credits": "3"
+            "credits": "0"
           },
           "COMMUNICATIVE ENGLISH": {
             "grade": "A",
@@ -3862,11 +3862,11 @@
           },
           "ENGINEERING DRAWING": {
             "grade": "F",
-            "credits": "3"
+            "credits": "0"
           },
           "PROGRAMMING FOR PROBLEM SOLVING USING C": {
             "grade": "F",
-            "credits": "3"
+            "credits": "0"
           },
           "APPLIED CHEMISTRY": {
             "grade": "D",
@@ -3917,7 +3917,7 @@
         "subjects": {
           "MATHEMATICS-I(CALCULUS)": {
             "grade": "F",
-            "credits": "3"
+            "credits": "0"
           },
           "COMMUNICATIVE ENGLISH": {
             "grade": "D",
@@ -3925,11 +3925,11 @@
           },
           "ENGINEERING DRAWING": {
             "grade": "F",
-            "credits": "3"
+            "credits": "0"
           },
           "PROGRAMMING FOR PROBLEM SOLVING USING C": {
             "grade": "F",
-            "credits": "3"
+            "credits": "0"
           },
           "APPLIED CHEMISTRY": {
             "grade": "D",
@@ -3980,7 +3980,7 @@
         "subjects": {
           "MATHEMATICS-I(CALCULUS)": {
             "grade": "F",
-            "credits": "3"
+            "credits": "0"
           },
           "COMMUNICATIVE ENGLISH": {
             "grade": "D",
@@ -3992,7 +3992,7 @@
           },
           "PROGRAMMING FOR PROBLEM SOLVING USING C": {
             "grade": "F",
-            "credits": "3"
+            "credits": "0"
           },
           "APPLIED CHEMISTRY": {
             "grade": "D",
@@ -4041,7 +4041,7 @@
         "subjects": {
           "MATHEMATICS-I(CALCULUS)": {
             "grade": "F",
-            "credits": "3"
+            "credits": "0"
           },
           "COMMUNICATIVE ENGLISH": {
             "grade": "C",
@@ -4049,15 +4049,15 @@
           },
           "ENGINEERING DRAWING": {
             "grade": "F",
-            "credits": "3"
+            "credits": "0"
           },
           "PROGRAMMING FOR PROBLEM SOLVING USING C": {
             "grade": "F",
-            "credits": "3"
+            "credits": "0"
           },
           "APPLIED CHEMISTRY": {
             "grade": "F",
-            "credits": "3"
+            "credits": "0"
           }
         },
         "labs": {
@@ -4106,7 +4106,7 @@
         "subjects": {
           "MATHEMATICS-I(CALCULUS)": {
             "grade": "F",
-            "credits": "3"
+            "credits": "0"
           },
           "COMMUNICATIVE ENGLISH": {
             "grade": "B",
@@ -4114,11 +4114,11 @@
           },
           "ENGINEERING DRAWING": {
             "grade": "F",
-            "credits": "3"
+            "credits": "0"
           },
           "PROGRAMMING FOR PROBLEM SOLVING USING C": {
             "grade": "F",
-            "credits": "3"
+            "credits": "0"
           },
           "APPLIED CHEMISTRY": {
             "grade": "D",
@@ -4169,7 +4169,7 @@
         "subjects": {
           "MATHEMATICS-I(CALCULUS)": {
             "grade": "F",
-            "credits": "3"
+            "credits": "0"
           },
           "COMMUNICATIVE ENGLISH": {
             "grade": "E",
@@ -4177,11 +4177,11 @@
           },
           "ENGINEERING DRAWING": {
             "grade": "F",
-            "credits": "3"
+            "credits": "0"
           },
           "PROGRAMMING FOR PROBLEM SOLVING USING C": {
             "grade": "F",
-            "credits": "3"
+            "credits": "0"
           },
           "APPLIED CHEMISTRY": {
             "grade": "D",
@@ -4232,7 +4232,7 @@
         "subjects": {
           "MATHEMATICS-I(CALCULUS)": {
             "grade": "F",
-            "credits": "3"
+            "credits": "0"
           },
           "COMMUNICATIVE ENGLISH": {
             "grade": "D",
@@ -4244,7 +4244,7 @@
           },
           "PROGRAMMING FOR PROBLEM SOLVING USING C": {
             "grade": "F",
-            "credits": "3"
+            "credits": "0"
           },
           "APPLIED CHEMISTRY": {
             "grade": "D",
@@ -4293,7 +4293,7 @@
         "subjects": {
           "MATHEMATICS-I(CALCULUS)": {
             "grade": "F",
-            "credits": "3"
+            "credits": "0"
           },
           "COMMUNICATIVE ENGLISH": {
             "grade": "C",
@@ -4301,15 +4301,15 @@
           },
           "ENGINEERING DRAWING": {
             "grade": "F",
-            "credits": "3"
+            "credits": "0"
           },
           "PROGRAMMING FOR PROBLEM SOLVING USING C": {
             "grade": "F",
-            "credits": "3"
+            "credits": "0"
           },
           "APPLIED CHEMISTRY": {
             "grade": "F",
-            "credits": "3"
+            "credits": "0"
           }
         },
         "labs": {
@@ -4358,7 +4358,7 @@
         "subjects": {
           "MATHEMATICS-I(CALCULUS)": {
             "grade": "F",
-            "credits": "3"
+            "credits": "0"
           },
           "COMMUNICATIVE ENGLISH": {
             "grade": "B",
@@ -4366,7 +4366,7 @@
           },
           "ENGINEERING DRAWING": {
             "grade": "F",
-            "credits": "3"
+            "credits": "0"
           },
           "PROGRAMMING FOR PROBLEM SOLVING USING C": {
             "grade": "E",
@@ -4421,11 +4421,11 @@
           },
           "ENGINEERING DRAWING": {
             "grade": "F",
-            "credits": "3"
+            "credits": "0"
           },
           "PROGRAMMING FOR PROBLEM SOLVING USING C": {
             "grade": "F",
-            "credits": "3"
+            "credits": "0"
           },
           "APPLIED CHEMISTRY": {
             "grade": "E",
@@ -4529,7 +4529,7 @@
         "subjects": {
           "MATHEMATICS-I(CALCULUS)": {
             "grade": "F",
-            "credits": "3"
+            "credits": "0"
           },
           "COMMUNICATIVE ENGLISH": {
             "grade": "C",
@@ -4537,15 +4537,15 @@
           },
           "ENGINEERING DRAWING": {
             "grade": "F",
-            "credits": "3"
+            "credits": "0"
           },
           "PROGRAMMING FOR PROBLEM SOLVING USING C": {
             "grade": "F",
-            "credits": "3"
+            "credits": "0"
           },
           "APPLIED CHEMISTRY": {
             "grade": "F",
-            "credits": "3"
+            "credits": "0"
           }
         },
         "labs": {
@@ -4594,7 +4594,7 @@
         "subjects": {
           "MATHEMATICS-I(CALCULUS)": {
             "grade": "F",
-            "credits": "3"
+            "credits": "0"
           },
           "COMMUNICATIVE ENGLISH": {
             "grade": "D",
@@ -4602,11 +4602,11 @@
           },
           "ENGINEERING DRAWING": {
             "grade": "F",
-            "credits": "3"
+            "credits": "0"
           },
           "PROGRAMMING FOR PROBLEM SOLVING USING C": {
             "grade": "F",
-            "credits": "3"
+            "credits": "0"
           },
           "APPLIED CHEMISTRY": {
             "grade": "E",
@@ -4665,15 +4665,15 @@
           },
           "ENGINEERING DRAWING": {
             "grade": "F",
-            "credits": "3"
+            "credits": "0"
           },
           "PROGRAMMING FOR PROBLEM SOLVING USING C": {
             "grade": "F",
-            "credits": "3"
+            "credits": "0"
           },
           "APPLIED CHEMISTRY": {
             "grade": "F",
-            "credits": "3"
+            "credits": "0"
           }
         },
         "labs": {
@@ -4720,7 +4720,7 @@
         "subjects": {
           "MATHEMATICS-I(CALCULUS)": {
             "grade": "F",
-            "credits": "3"
+            "credits": "0"
           },
           "COMMUNICATIVE ENGLISH": {
             "grade": "C",
@@ -4728,15 +4728,15 @@
           },
           "ENGINEERING DRAWING": {
             "grade": "F",
-            "credits": "3"
+            "credits": "0"
           },
           "PROGRAMMING FOR PROBLEM SOLVING USING C": {
             "grade": "F",
-            "credits": "3"
+            "credits": "0"
           },
           "APPLIED CHEMISTRY": {
             "grade": "F",
-            "credits": "3"
+            "credits": "0"
           }
         },
         "labs": {
@@ -4785,7 +4785,7 @@
         "subjects": {
           "MATHEMATICS-I(CALCULUS)": {
             "grade": "F",
-            "credits": "3"
+            "credits": "0"
           },
           "COMMUNICATIVE ENGLISH": {
             "grade": "C",
@@ -4793,15 +4793,15 @@
           },
           "ENGINEERING DRAWING": {
             "grade": "F",
-            "credits": "3"
+            "credits": "0"
           },
           "PROGRAMMING FOR PROBLEM SOLVING USING C": {
             "grade": "F",
-            "credits": "3"
+            "credits": "0"
           },
           "APPLIED CHEMISTRY": {
             "grade": "F",
-            "credits": "3"
+            "credits": "0"
           }
         },
         "labs": {
@@ -4850,7 +4850,7 @@
         "subjects": {
           "MATHEMATICS-I(CALCULUS)": {
             "grade": "F",
-            "credits": "3"
+            "credits": "0"
           },
           "COMMUNICATIVE ENGLISH": {
             "grade": "B",
@@ -4858,11 +4858,11 @@
           },
           "ENGINEERING DRAWING": {
             "grade": "F",
-            "credits": "3"
+            "credits": "0"
           },
           "PROGRAMMING FOR PROBLEM SOLVING USING C": {
             "grade": "F",
-            "credits": "3"
+            "credits": "0"
           },
           "APPLIED CHEMISTRY": {
             "grade": "E",
@@ -4968,7 +4968,7 @@
         "subjects": {
           "MATHEMATICS-I(CALCULUS)": {
             "grade": "F",
-            "credits": "3"
+            "credits": "0"
           },
           "COMMUNICATIVE ENGLISH": {
             "grade": "D",
@@ -5025,7 +5025,7 @@
         "subjects": {
           "MATHEMATICS-I": {
             "grade": "F",
-            "credits": "3"
+            "credits": "0"
           },
           "COMMUNICATIVE ENGLISH": {
             "grade": "B",
@@ -5300,7 +5300,7 @@
         "subjects": {
           "MATHEMATICS-I": {
             "grade": "F",
-            "credits": "3"
+            "credits": "0"
           },
           "COMMUNICATIVE ENGLISH": {
             "grade": "A",
@@ -5410,7 +5410,7 @@
         "subjects": {
           "MATHEMATICS-I": {
             "grade": "F",
-            "credits": "3"
+            "credits": "0"
           },
           "COMMUNICATIVE ENGLISH": {
             "grade": "C",
@@ -5418,7 +5418,7 @@
           },
           "PROGRAMMING FOR PROBLEM SOLVING USING C": {
             "grade": "F",
-            "credits": "3"
+            "credits": "0"
           },
           "APPLIED CHEMISTRY": {
             "grade": "C",
@@ -5526,7 +5526,7 @@
         "subjects": {
           "MATHEMATICS-I": {
             "grade": "F",
-            "credits": "3"
+            "credits": "0"
           },
           "COMMUNICATIVE ENGLISH": {
             "grade": "B",
@@ -5581,7 +5581,7 @@
         "subjects": {
           "MATHEMATICS-I": {
             "grade": "F",
-            "credits": "3"
+            "credits": "0"
           },
           "COMMUNICATIVE ENGLISH": {
             "grade": "B",
@@ -5636,7 +5636,7 @@
         "subjects": {
           "MATHEMATICS-I": {
             "grade": "F",
-            "credits": "3"
+            "credits": "0"
           },
           "COMMUNICATIVE ENGLISH": {
             "grade": "D",
@@ -5644,7 +5644,7 @@
           },
           "PROGRAMMING FOR PROBLEM SOLVING USING C": {
             "grade": "F",
-            "credits": "3"
+            "credits": "0"
           },
           "APPLIED CHEMISTRY": {
             "grade": "E",
@@ -5697,7 +5697,7 @@
         "subjects": {
           "MATHEMATICS-I": {
             "grade": "F",
-            "credits": "3"
+            "credits": "0"
           },
           "COMMUNICATIVE ENGLISH": {
             "grade": "C",
@@ -5752,7 +5752,7 @@
         "subjects": {
           "MATHEMATICS-I": {
             "grade": "F",
-            "credits": "3"
+            "credits": "0"
           },
           "COMMUNICATIVE ENGLISH": {
             "grade": "A",
@@ -5764,7 +5764,7 @@
           },
           "APPLIED CHEMISTRY": {
             "grade": "F",
-            "credits": "3"
+            "credits": "0"
           }
         },
         "labs": {
@@ -5807,7 +5807,7 @@
         "subjects": {
           "MATHEMATICS-I": {
             "grade": "F",
-            "credits": "3"
+            "credits": "0"
           },
           "COMMUNICATIVE ENGLISH": {
             "grade": "B",
@@ -5815,7 +5815,7 @@
           },
           "PROGRAMMING FOR PROBLEM SOLVING USING C": {
             "grade": "F",
-            "credits": "3"
+            "credits": "0"
           },
           "APPLIED CHEMISTRY": {
             "grade": "D",
@@ -5876,7 +5876,7 @@
           },
           "PROGRAMMING FOR PROBLEM SOLVING USING C": {
             "grade": "F",
-            "credits": "3"
+            "credits": "0"
           },
           "APPLIED CHEMISTRY": {
             "grade": "B",
@@ -5923,7 +5923,7 @@
         "subjects": {
           "MATHEMATICS-I": {
             "grade": "F",
-            "credits": "3"
+            "credits": "0"
           },
           "COMMUNICATIVE ENGLISH": {
             "grade": "B",
@@ -6033,7 +6033,7 @@
         "subjects": {
           "MATHEMATICS-I": {
             "grade": "F",
-            "credits": "3"
+            "credits": "0"
           },
           "COMMUNICATIVE ENGLISH": {
             "grade": "A",
@@ -6143,7 +6143,7 @@
         "subjects": {
           "MATHEMATICS-I": {
             "grade": "F",
-            "credits": "3"
+            "credits": "0"
           },
           "COMMUNICATIVE ENGLISH": {
             "grade": "D",
@@ -6198,7 +6198,7 @@
         "subjects": {
           "MATHEMATICS-I": {
             "grade": "F",
-            "credits": "3"
+            "credits": "0"
           },
           "COMMUNICATIVE ENGLISH": {
             "grade": "A",
@@ -6253,7 +6253,7 @@
         "subjects": {
           "MATHEMATICS-I": {
             "grade": "F",
-            "credits": "3"
+            "credits": "0"
           },
           "COMMUNICATIVE ENGLISH": {
             "grade": "A",
@@ -6316,7 +6316,7 @@
           },
           "PROGRAMMING FOR PROBLEM SOLVING USING C": {
             "grade": "F",
-            "credits": "3"
+            "credits": "0"
           },
           "APPLIED CHEMISTRY": {
             "grade": "C",
@@ -6363,7 +6363,7 @@
         "subjects": {
           "MATHEMATICS-I": {
             "grade": "F",
-            "credits": "3"
+            "credits": "0"
           },
           "COMMUNICATIVE ENGLISH": {
             "grade": "C",
@@ -6371,7 +6371,7 @@
           },
           "PROGRAMMING FOR PROBLEM SOLVING USING C": {
             "grade": "F",
-            "credits": "3"
+            "credits": "0"
           },
           "APPLIED CHEMISTRY": {
             "grade": "C",
@@ -6534,7 +6534,7 @@
         "subjects": {
           "MATHEMATICS-I": {
             "grade": "F",
-            "credits": "3"
+            "credits": "0"
           },
           "COMMUNICATIVE ENGLISH": {
             "grade": "A",
@@ -6542,7 +6542,7 @@
           },
           "PROGRAMMING FOR PROBLEM SOLVING USING C": {
             "grade": "F",
-            "credits": "3"
+            "credits": "0"
           },
           "APPLIED CHEMISTRY": {
             "grade": "E",
@@ -6595,7 +6595,7 @@
         "subjects": {
           "MATHEMATICS-I": {
             "grade": "F",
-            "credits": "3"
+            "credits": "0"
           },
           "COMMUNICATIVE ENGLISH": {
             "grade": "D",
@@ -6705,7 +6705,7 @@
         "subjects": {
           "MATHEMATICS-I": {
             "grade": "F",
-            "credits": "3"
+            "credits": "0"
           },
           "COMMUNICATIVE ENGLISH": {
             "grade": "C",
@@ -6815,7 +6815,7 @@
         "subjects": {
           "MATHEMATICS-I": {
             "grade": "F",
-            "credits": "3"
+            "credits": "0"
           },
           "COMMUNICATIVE ENGLISH": {
             "grade": "D",
@@ -6823,11 +6823,11 @@
           },
           "PROGRAMMING FOR PROBLEM SOLVING USING C": {
             "grade": "F",
-            "credits": "3"
+            "credits": "0"
           },
           "APPLIED CHEMISTRY": {
             "grade": "F",
-            "credits": "3"
+            "credits": "0"
           }
         },
         "labs": {
@@ -6878,7 +6878,7 @@
         "subjects": {
           "MATHEMATICS-I": {
             "grade": "F",
-            "credits": "3"
+            "credits": "0"
           },
           "COMMUNICATIVE ENGLISH": {
             "grade": "B",
@@ -6933,7 +6933,7 @@
         "subjects": {
           "MATHEMATICS-I": {
             "grade": "F",
-            "credits": "3"
+            "credits": "0"
           },
           "COMMUNICATIVE ENGLISH": {
             "grade": "D",
@@ -6996,11 +6996,11 @@
           },
           "PROGRAMMING FOR PROBLEM SOLVING USING C": {
             "grade": "F",
-            "credits": "3"
+            "credits": "0"
           },
           "APPLIED CHEMISTRY": {
             "grade": "F",
-            "credits": "3"
+            "credits": "0"
           }
         },
         "labs": {
@@ -7049,7 +7049,7 @@
         "subjects": {
           "MATHEMATICS-I": {
             "grade": "F",
-            "credits": "3"
+            "credits": "0"
           },
           "COMMUNICATIVE ENGLISH": {
             "grade": "B",
@@ -7116,7 +7116,7 @@
           },
           "APPLIED CHEMISTRY": {
             "grade": "F",
-            "credits": "3"
+            "credits": "0"
           }
         },
         "labs": {
@@ -7159,7 +7159,7 @@
         "subjects": {
           "MATHEMATICS-I": {
             "grade": "F",
-            "credits": "3"
+            "credits": "0"
           },
           "COMMUNICATIVE ENGLISH": {
             "grade": "C",
@@ -7269,7 +7269,7 @@
         "subjects": {
           "MATHEMATICS-I": {
             "grade": "F",
-            "credits": "3"
+            "credits": "0"
           },
           "COMMUNICATIVE ENGLISH": {
             "grade": "C",
@@ -7324,7 +7324,7 @@
         "subjects": {
           "MATHEMATICS-I": {
             "grade": "F",
-            "credits": "3"
+            "credits": "0"
           },
           "COMMUNICATIVE ENGLISH": {
             "grade": "B",
@@ -7379,7 +7379,7 @@
         "subjects": {
           "MATHEMATICS-I": {
             "grade": "F",
-            "credits": "3"
+            "credits": "0"
           },
           "COMMUNICATIVE ENGLISH": {
             "grade": "C",
@@ -7434,7 +7434,7 @@
         "subjects": {
           "MATHEMATICS-I": {
             "grade": "F",
-            "credits": "3"
+            "credits": "0"
           },
           "COMMUNICATIVE ENGLISH": {
             "grade": "B",
@@ -7442,7 +7442,7 @@
           },
           "PROGRAMMING FOR PROBLEM SOLVING USING C": {
             "grade": "F",
-            "credits": "3"
+            "credits": "0"
           },
           "APPLIED CHEMISTRY": {
             "grade": "C",
@@ -7495,7 +7495,7 @@
         "subjects": {
           "MATHEMATICS-I": {
             "grade": "F",
-            "credits": "3"
+            "credits": "0"
           },
           "COMMUNICATIVE ENGLISH": {
             "grade": "D",
@@ -7503,7 +7503,7 @@
           },
           "PROGRAMMING FOR PROBLEM SOLVING USING C": {
             "grade": "F",
-            "credits": "3"
+            "credits": "0"
           },
           "APPLIED CHEMISTRY": {
             "grade": "E",
@@ -7556,7 +7556,7 @@
         "subjects": {
           "MATHEMATICS-I": {
             "grade": "F",
-            "credits": "3"
+            "credits": "0"
           },
           "COMMUNICATIVE ENGLISH": {
             "grade": "A",
@@ -7568,7 +7568,7 @@
           },
           "APPLIED CHEMISTRY": {
             "grade": "F",
-            "credits": "3"
+            "credits": "0"
           }
         },
         "labs": {
@@ -7680,7 +7680,7 @@
           },
           "APPLIED PHYSICS": {
             "grade": "F",
-            "credits": "3"
+            "credits": "0"
           }
         },
         "labs": {
@@ -7833,7 +7833,7 @@
         "subjects": {
           "MATHEMATICS-I": {
             "grade": "F",
-            "credits": "3"
+            "credits": "0"
           },
           "COMMUNICATIVE ENGLISH": {
             "grade": "C",
@@ -8218,7 +8218,7 @@
         "subjects": {
           "MATHEMATICS-I": {
             "grade": "F",
-            "credits": "3"
+            "credits": "0"
           },
           "COMMUNICATIVE ENGLISH": {
             "grade": "B",
@@ -8230,7 +8230,7 @@
           },
           "APPLIED PHYSICS": {
             "grade": "F",
-            "credits": "3"
+            "credits": "0"
           }
         },
         "labs": {
@@ -8328,7 +8328,7 @@
         "subjects": {
           "MATHEMATICS-I": {
             "grade": "F",
-            "credits": "3"
+            "credits": "0"
           },
           "COMMUNICATIVE ENGLISH": {
             "grade": "B",
@@ -8340,7 +8340,7 @@
           },
           "APPLIED PHYSICS": {
             "grade": "F",
-            "credits": "3"
+            "credits": "0"
           }
         },
         "labs": {
@@ -8658,7 +8658,7 @@
         "subjects": {
           "MATHEMATICS-I": {
             "grade": "F",
-            "credits": "3"
+            "credits": "0"
           },
           "COMMUNICATIVE ENGLISH": {
             "grade": "B",
@@ -8670,7 +8670,7 @@
           },
           "APPLIED PHYSICS": {
             "grade": "F",
-            "credits": "3"
+            "credits": "0"
           }
         },
         "labs": {
@@ -8933,7 +8933,7 @@
         "subjects": {
           "MATHEMATICS-I": {
             "grade": "F",
-            "credits": "3"
+            "credits": "0"
           },
           "COMMUNICATIVE ENGLISH": {
             "grade": "B",
@@ -9000,7 +9000,7 @@
           },
           "APPLIED PHYSICS": {
             "grade": "F",
-            "credits": "3"
+            "credits": "0"
           }
         },
         "labs": {
@@ -9055,7 +9055,7 @@
           },
           "APPLIED PHYSICS": {
             "grade": "F",
-            "credits": "3"
+            "credits": "0"
           }
         },
         "labs": {
@@ -9153,7 +9153,7 @@
         "subjects": {
           "MATHEMATICS-I": {
             "grade": "F",
-            "credits": "3"
+            "credits": "0"
           },
           "COMMUNICATIVE ENGLISH": {
             "grade": "B",
@@ -9208,7 +9208,7 @@
         "subjects": {
           "MATHEMATICS-I": {
             "grade": "F",
-            "credits": "3"
+            "credits": "0"
           },
           "COMMUNICATIVE ENGLISH": {
             "grade": "D",
@@ -9275,7 +9275,7 @@
           },
           "APPLIED PHYSICS": {
             "grade": "F",
-            "credits": "3"
+            "credits": "0"
           }
         },
         "labs": {
@@ -9715,7 +9715,7 @@
           },
           "APPLIED PHYSICS": {
             "grade": "F",
-            "credits": "3"
+            "credits": "0"
           }
         },
         "labs": {
@@ -9868,7 +9868,7 @@
         "subjects": {
           "MATHEMATICS-I": {
             "grade": "F",
-            "credits": "3"
+            "credits": "0"
           },
           "COMMUNICATIVE ENGLISH": {
             "grade": "B",
@@ -9880,7 +9880,7 @@
           },
           "APPLIED PHYSICS": {
             "grade": "F",
-            "credits": "3"
+            "credits": "0"
           }
         },
         "labs": {
@@ -9923,37 +9923,37 @@
         "subjects": {
           "MATHEMATICS-I": {
             "grade": "F",
-            "credits": "3"
+            "credits": "0"
           },
           "COMMUNICATIVE ENGLISH": {
             "grade": "F",
-            "credits": "3"
+            "credits": "0"
           },
           "PROGRAMMING FOR PROBLEM SOLVING USING C": {
             "grade": "F",
-            "credits": "3"
+            "credits": "0"
           },
           "APPLIED PHYSICS": {
             "grade": "F",
-            "credits": "3"
+            "credits": "0"
           }
         },
         "labs": {
           "ENGLISH COMMUNICATION SKILLS LABORATORY": {
             "grade": "A",
-            "credits": "3"
+            "credits": "0"
           },
           "PROGRAMMING FOR PROBLEM SOLVING USING C LAB": {
             "grade": "A",
-            "credits": "3"
+            "credits": "0"
           },
           "COMPUTER ENGINEERING WORKSHOP": {
             "grade": "A",
-            "credits": "3"
+            "credits": "0"
           },
           "APPLIED PHYSICS LAB": {
             "grade": "A",
-            "credits": "3"
+            "credits": "0"
           }
         },
         "points": null,
@@ -10440,7 +10440,7 @@
           },
           "APPLIED PHYSICS": {
             "grade": "F",
-            "credits": "3"
+            "credits": "0"
           }
         },
         "labs": {
@@ -10538,7 +10538,7 @@
         "subjects": {
           "MATHEMATICS-I": {
             "grade": "F",
-            "credits": "3"
+            "credits": "0"
           },
           "COMMUNICATIVE ENGLISH": {
             "grade": "B",
@@ -10593,7 +10593,7 @@
         "subjects": {
           "MATHEMATICS-I": {
             "grade": "F",
-            "credits": "3"
+            "credits": "0"
           },
           "COMMUNICATIVE ENGLISH": {
             "grade": "A",
@@ -10648,7 +10648,7 @@
         "subjects": {
           "MATHEMATICS-I": {
             "grade": "F",
-            "credits": "3"
+            "credits": "0"
           },
           "COMMUNICATIVE ENGLISH": {
             "grade": "B",
@@ -10656,11 +10656,11 @@
           },
           "PROGRAMMING FOR PROBLEM SOLVING USING C": {
             "grade": "F",
-            "credits": "3"
+            "credits": "0"
           },
           "APPLIED PHYSICS": {
             "grade": "F",
-            "credits": "3"
+            "credits": "0"
           }
         },
         "labs": {
@@ -10719,7 +10719,7 @@
           },
           "PROGRAMMING FOR PROBLEM SOLVING USING C": {
             "grade": "F",
-            "credits": "3"
+            "credits": "0"
           },
           "APPLIED PHYSICS": {
             "grade": "D",
@@ -10766,7 +10766,7 @@
         "subjects": {
           "MATHEMATICS-I": {
             "grade": "F",
-            "credits": "3"
+            "credits": "0"
           },
           "COMMUNICATIVE ENGLISH": {
             "grade": "A",
@@ -10778,7 +10778,7 @@
           },
           "APPLIED PHYSICS": {
             "grade": "F",
-            "credits": "3"
+            "credits": "0"
           }
         },
         "labs": {
@@ -10821,7 +10821,7 @@
         "subjects": {
           "MATHEMATICS-I": {
             "grade": "F",
-            "credits": "3"
+            "credits": "0"
           },
           "COMMUNICATIVE ENGLISH": {
             "grade": "A",
@@ -10876,7 +10876,7 @@
         "subjects": {
           "MATHEMATICS-I": {
             "grade": "F",
-            "credits": "3"
+            "credits": "0"
           },
           "COMMUNICATIVE ENGLISH": {
             "grade": "C",
@@ -10884,11 +10884,11 @@
           },
           "PROGRAMMING FOR PROBLEM SOLVING USING C": {
             "grade": "F",
-            "credits": "3"
+            "credits": "0"
           },
           "APPLIED PHYSICS": {
             "grade": "F",
-            "credits": "3"
+            "credits": "0"
           }
         },
         "labs": {
@@ -10939,7 +10939,7 @@
         "subjects": {
           "MATHEMATICS-I": {
             "grade": "F",
-            "credits": "3"
+            "credits": "0"
           },
           "COMMUNICATIVE ENGLISH": {
             "grade": "C",
@@ -10947,7 +10947,7 @@
           },
           "PROGRAMMING FOR PROBLEM SOLVING USING C": {
             "grade": "F",
-            "credits": "3"
+            "credits": "0"
           },
           "APPLIED PHYSICS": {
             "grade": "E",
@@ -11055,7 +11055,7 @@
         "subjects": {
           "MATHEMATICS-I": {
             "grade": "F",
-            "credits": "3"
+            "credits": "0"
           },
           "COMMUNICATIVE ENGLISH": {
             "grade": "B",
@@ -11177,7 +11177,7 @@
           },
           "APPLIED PHYSICS": {
             "grade": "F",
-            "credits": "3"
+            "credits": "0"
           }
         },
         "labs": {
@@ -11220,7 +11220,7 @@
         "subjects": {
           "MATHEMATICS-I": {
             "grade": "F",
-            "credits": "3"
+            "credits": "0"
           },
           "COMMUNICATIVE ENGLISH": {
             "grade": "C",
@@ -11275,7 +11275,7 @@
         "subjects": {
           "MATHEMATICS-I": {
             "grade": "F",
-            "credits": "3"
+            "credits": "0"
           },
           "COMMUNICATIVE ENGLISH": {
             "grade": "B",
@@ -11338,11 +11338,11 @@
           },
           "PROGRAMMING FOR PROBLEM SOLVING USING C": {
             "grade": "F",
-            "credits": "3"
+            "credits": "0"
           },
           "APPLIED PHYSICS": {
             "grade": "F",
-            "credits": "3"
+            "credits": "0"
           }
         },
         "labs": {
@@ -11399,11 +11399,11 @@
           },
           "PROGRAMMING FOR PROBLEM SOLVING USING C": {
             "grade": "F",
-            "credits": "3"
+            "credits": "0"
           },
           "APPLIED PHYSICS": {
             "grade": "F",
-            "credits": "3"
+            "credits": "0"
           }
         },
         "labs": {
@@ -11452,7 +11452,7 @@
         "subjects": {
           "MATHEMATICS-I": {
             "grade": "F",
-            "credits": "3"
+            "credits": "0"
           },
           "COMMUNICATIVE ENGLISH": {
             "grade": "A",
@@ -11507,7 +11507,7 @@
         "subjects": {
           "MATHEMATICS-I": {
             "grade": "F",
-            "credits": "3"
+            "credits": "0"
           },
           "COMMUNICATIVE ENGLISH": {
             "grade": "A",
@@ -11625,7 +11625,7 @@
           },
           "PROGRAMMING FOR PROBLEM SOLVING USING C": {
             "grade": "F",
-            "credits": "3"
+            "credits": "0"
           },
           "APPLIED PHYSICS": {
             "grade": "D",
@@ -11672,7 +11672,7 @@
         "subjects": {
           "MATHEMATICS-I": {
             "grade": "F",
-            "credits": "3"
+            "credits": "0"
           },
           "COMMUNICATIVE ENGLISH": {
             "grade": "B",
@@ -11684,7 +11684,7 @@
           },
           "APPLIED PHYSICS": {
             "grade": "F",
-            "credits": "3"
+            "credits": "0"
           }
         },
         "labs": {
@@ -11727,7 +11727,7 @@
         "subjects": {
           "MATHEMATICS-I": {
             "grade": "F",
-            "credits": "3"
+            "credits": "0"
           },
           "COMMUNICATIVE ENGLISH": {
             "grade": "A",
@@ -11790,11 +11790,11 @@
           },
           "PROGRAMMING FOR PROBLEM SOLVING USING C": {
             "grade": "F",
-            "credits": "3"
+            "credits": "0"
           },
           "APPLIED PHYSICS": {
             "grade": "F",
-            "credits": "3"
+            "credits": "0"
           }
         },
         "labs": {
@@ -11906,11 +11906,11 @@
           },
           "PROGRAMMING FOR PROBLEM SOLVING USING C": {
             "grade": "F",
-            "credits": "3"
+            "credits": "0"
           },
           "APPLIED PHYSICS": {
             "grade": "F",
-            "credits": "3"
+            "credits": "0"
           }
         },
         "labs": {
@@ -11959,7 +11959,7 @@
         "subjects": {
           "MATHEMATICS-I": {
             "grade": "F",
-            "credits": "3"
+            "credits": "0"
           },
           "COMMUNICATIVE ENGLISH": {
             "grade": "A",
@@ -12026,7 +12026,7 @@
           },
           "APPLIED PHYSICS": {
             "grade": "F",
-            "credits": "3"
+            "credits": "0"
           }
         },
         "labs": {
@@ -12069,7 +12069,7 @@
         "subjects": {
           "MATHEMATICS-I": {
             "grade": "F",
-            "credits": "3"
+            "credits": "0"
           },
           "COMMUNICATIVE ENGLISH": {
             "grade": "B",
@@ -12124,7 +12124,7 @@
         "subjects": {
           "MATHEMATICS-I": {
             "grade": "F",
-            "credits": "3"
+            "credits": "0"
           },
           "COMMUNICATIVE ENGLISH": {
             "grade": "B",
@@ -12179,7 +12179,7 @@
         "subjects": {
           "MATHEMATICS-I": {
             "grade": "F",
-            "credits": "3"
+            "credits": "0"
           },
           "COMMUNICATIVE ENGLISH": {
             "grade": "A",
@@ -12289,7 +12289,7 @@
         "subjects": {
           "MATHEMATICS-I": {
             "grade": "F",
-            "credits": "3"
+            "credits": "0"
           },
           "COMMUNICATIVE ENGLISH": {
             "grade": "B",
@@ -12344,7 +12344,7 @@
         "subjects": {
           "MATHEMATICS-I": {
             "grade": "F",
-            "credits": "3"
+            "credits": "0"
           },
           "COMMUNICATIVE ENGLISH": {
             "grade": "B",
@@ -12399,7 +12399,7 @@
         "subjects": {
           "MATHEMATICS-I": {
             "grade": "F",
-            "credits": "3"
+            "credits": "0"
           },
           "COMMUNICATIVE ENGLISH": {
             "grade": "A",
@@ -12466,7 +12466,7 @@
           },
           "APPLIED PHYSICS": {
             "grade": "F",
-            "credits": "3"
+            "credits": "0"
           }
         },
         "labs": {
@@ -12509,7 +12509,7 @@
         "subjects": {
           "MATHEMATICS-I": {
             "grade": "F",
-            "credits": "3"
+            "credits": "0"
           },
           "COMMUNICATIVE ENGLISH": {
             "grade": "C",
@@ -12521,7 +12521,7 @@
           },
           "APPLIED PHYSICS": {
             "grade": "F",
-            "credits": "3"
+            "credits": "0"
           }
         },
         "labs": {
@@ -12572,7 +12572,7 @@
           },
           "PROGRAMMING FOR PROBLEM SOLVING USING C": {
             "grade": "F",
-            "credits": "3"
+            "credits": "0"
           },
           "APPLIED PHYSICS": {
             "grade": "D",
@@ -12619,7 +12619,7 @@
         "subjects": {
           "MATHEMATICS-I": {
             "grade": "F",
-            "credits": "3"
+            "credits": "0"
           },
           "COMMUNICATIVE ENGLISH": {
             "grade": "B",
@@ -12686,7 +12686,7 @@
           },
           "APPLIED PHYSICS": {
             "grade": "F",
-            "credits": "3"
+            "credits": "0"
           }
         },
         "labs": {
@@ -12729,7 +12729,7 @@
         "subjects": {
           "MATHEMATICS-I": {
             "grade": "F",
-            "credits": "3"
+            "credits": "0"
           },
           "COMMUNICATIVE ENGLISH": {
             "grade": "D",
@@ -12737,11 +12737,11 @@
           },
           "PROGRAMMING FOR PROBLEM SOLVING USING C": {
             "grade": "F",
-            "credits": "3"
+            "credits": "0"
           },
           "APPLIED PHYSICS": {
             "grade": "F",
-            "credits": "3"
+            "credits": "0"
           }
         },
         "labs": {
@@ -12792,7 +12792,7 @@
         "subjects": {
           "MATHEMATICS-I": {
             "grade": "F",
-            "credits": "3"
+            "credits": "0"
           },
           "COMMUNICATIVE ENGLISH": {
             "grade": "B",
@@ -12847,7 +12847,7 @@
         "subjects": {
           "MATHEMATICS-I": {
             "grade": "F",
-            "credits": "3"
+            "credits": "0"
           },
           "COMMUNICATIVE ENGLISH": {
             "grade": "B",
@@ -12855,11 +12855,11 @@
           },
           "PROGRAMMING FOR PROBLEM SOLVING USING C": {
             "grade": "F",
-            "credits": "3"
+            "credits": "0"
           },
           "APPLIED PHYSICS": {
             "grade": "F",
-            "credits": "3"
+            "credits": "0"
           }
         },
         "labs": {
@@ -12965,7 +12965,7 @@
         "subjects": {
           "MATHEMATICS-I": {
             "grade": "F",
-            "credits": "3"
+            "credits": "0"
           },
           "COMMUNICATIVE ENGLISH": {
             "grade": "D",
@@ -12973,11 +12973,11 @@
           },
           "PROGRAMMING FOR PROBLEM SOLVING USING C": {
             "grade": "F",
-            "credits": "3"
+            "credits": "0"
           },
           "APPLIED PHYSICS": {
             "grade": "F",
-            "credits": "3"
+            "credits": "0"
           }
         },
         "labs": {
@@ -13028,7 +13028,7 @@
         "subjects": {
           "MATHEMATICS-I": {
             "grade": "F",
-            "credits": "3"
+            "credits": "0"
           },
           "COMMUNICATIVE ENGLISH": {
             "grade": "B",
@@ -13083,7 +13083,7 @@
         "subjects": {
           "MATHEMATICS-I": {
             "grade": "F",
-            "credits": "3"
+            "credits": "0"
           },
           "COMMUNICATIVE ENGLISH": {
             "grade": "A",
@@ -13138,7 +13138,7 @@
         "subjects": {
           "MATHEMATICS-I": {
             "grade": "F",
-            "credits": "3"
+            "credits": "0"
           },
           "COMMUNICATIVE ENGLISH": {
             "grade": "B",
@@ -13146,11 +13146,11 @@
           },
           "PROGRAMMING FOR PROBLEM SOLVING USING C": {
             "grade": "F",
-            "credits": "3"
+            "credits": "0"
           },
           "APPLIED PHYSICS": {
             "grade": "F",
-            "credits": "3"
+            "credits": "0"
           }
         },
         "labs": {
@@ -13256,7 +13256,7 @@
         "subjects": {
           "MATHEMATICS-I": {
             "grade": "F",
-            "credits": "3"
+            "credits": "0"
           },
           "COMMUNICATIVE ENGLISH": {
             "grade": "B",
@@ -13268,7 +13268,7 @@
           },
           "APPLIED PHYSICS": {
             "grade": "F",
-            "credits": "3"
+            "credits": "0"
           }
         },
         "labs": {
@@ -13311,7 +13311,7 @@
         "subjects": {
           "MATHEMATICS-I": {
             "grade": "F",
-            "credits": "3"
+            "credits": "0"
           },
           "COMMUNICATIVE ENGLISH": {
             "grade": "B",
@@ -13323,7 +13323,7 @@
           },
           "APPLIED PHYSICS": {
             "grade": "F",
-            "credits": "3"
+            "credits": "0"
           }
         },
         "labs": {
@@ -13374,11 +13374,11 @@
           },
           "PROGRAMMING FOR PROBLEM SOLVING USING C": {
             "grade": "F",
-            "credits": "3"
+            "credits": "0"
           },
           "APPLIED PHYSICS": {
             "grade": "F",
-            "credits": "3"
+            "credits": "0"
           }
         },
         "labs": {
@@ -13427,7 +13427,7 @@
         "subjects": {
           "MATHEMATICS-I": {
             "grade": "F",
-            "credits": "3"
+            "credits": "0"
           },
           "COMMUNICATIVE ENGLISH": {
             "grade": "D",
@@ -13439,7 +13439,7 @@
           },
           "APPLIED PHYSICS": {
             "grade": "F",
-            "credits": "3"
+            "credits": "0"
           }
         },
         "labs": {
@@ -13482,7 +13482,7 @@
         "subjects": {
           "MATHEMATICS-I": {
             "grade": "F",
-            "credits": "3"
+            "credits": "0"
           },
           "COMMUNICATIVE ENGLISH": {
             "grade": "B",
@@ -13490,11 +13490,11 @@
           },
           "PROGRAMMING FOR PROBLEM SOLVING USING C": {
             "grade": "F",
-            "credits": "3"
+            "credits": "0"
           },
           "APPLIED PHYSICS": {
             "grade": "F",
-            "credits": "3"
+            "credits": "0"
           }
         },
         "labs": {
@@ -13545,7 +13545,7 @@
         "subjects": {
           "MATHEMATICS-I": {
             "grade": "F",
-            "credits": "3"
+            "credits": "0"
           },
           "COMMUNICATIVE ENGLISH": {
             "grade": "D",
@@ -13553,11 +13553,11 @@
           },
           "PROGRAMMING FOR PROBLEM SOLVING USING C": {
             "grade": "F",
-            "credits": "3"
+            "credits": "0"
           },
           "APPLIED PHYSICS": {
             "grade": "F",
-            "credits": "3"
+            "credits": "0"
           }
         },
         "labs": {
@@ -13620,7 +13620,7 @@
           },
           "APPLIED PHYSICS": {
             "grade": "F",
-            "credits": "3"
+            "credits": "0"
           }
         },
         "labs": {
@@ -13663,7 +13663,7 @@
         "subjects": {
           "MATHEMATICS-I": {
             "grade": "F",
-            "credits": "3"
+            "credits": "0"
           },
           "COMMUNICATIVE ENGLISH": {
             "grade": "C",
@@ -13671,7 +13671,7 @@
           },
           "PROGRAMMING FOR PROBLEM SOLVING USING C": {
             "grade": "F",
-            "credits": "3"
+            "credits": "0"
           },
           "APPLIED PHYSICS": {
             "grade": "D",
@@ -13724,7 +13724,7 @@
         "subjects": {
           "MATHEMATICS-I": {
             "grade": "F",
-            "credits": "3"
+            "credits": "0"
           },
           "COMMUNICATIVE ENGLISH": {
             "grade": "C",
@@ -13779,7 +13779,7 @@
         "subjects": {
           "MATHEMATICS-I": {
             "grade": "F",
-            "credits": "3"
+            "credits": "0"
           },
           "COMMUNICATIVE ENGLISH": {
             "grade": "B",
@@ -13787,7 +13787,7 @@
           },
           "PROGRAMMING FOR PROBLEM SOLVING USING C": {
             "grade": "F",
-            "credits": "3"
+            "credits": "0"
           },
           "APPLIED PHYSICS": {
             "grade": "E",
@@ -13840,7 +13840,7 @@
         "subjects": {
           "MATHEMATICS-I": {
             "grade": "F",
-            "credits": "3"
+            "credits": "0"
           },
           "COMMUNICATIVE ENGLISH": {
             "grade": "C",
@@ -13848,11 +13848,11 @@
           },
           "PROGRAMMING FOR PROBLEM SOLVING USING C": {
             "grade": "F",
-            "credits": "3"
+            "credits": "0"
           },
           "APPLIED PHYSICS": {
             "grade": "F",
-            "credits": "3"
+            "credits": "0"
           }
         },
         "labs": {
@@ -13958,7 +13958,7 @@
         "subjects": {
           "MATHEMATICS-I": {
             "grade": "F",
-            "credits": "3"
+            "credits": "0"
           },
           "COMMUNICATIVE ENGLISH": {
             "grade": "A",
@@ -13970,7 +13970,7 @@
           },
           "APPLIED PHYSICS": {
             "grade": "F",
-            "credits": "3"
+            "credits": "0"
           }
         },
         "labs": {
@@ -14025,7 +14025,7 @@
           },
           "APPLIED PHYSICS": {
             "grade": "F",
-            "credits": "3"
+            "credits": "0"
           }
         },
         "labs": {
@@ -14080,7 +14080,7 @@
           },
           "APPLIED PHYSICS": {
             "grade": "F",
-            "credits": "3"
+            "credits": "0"
           }
         },
         "labs": {
@@ -14123,7 +14123,7 @@
         "subjects": {
           "MATHEMATICS-I": {
             "grade": "F",
-            "credits": "3"
+            "credits": "0"
           },
           "COMMUNICATIVE ENGLISH": {
             "grade": "C",
@@ -14131,11 +14131,11 @@
           },
           "PROGRAMMING FOR PROBLEM SOLVING USING C": {
             "grade": "F",
-            "credits": "3"
+            "credits": "0"
           },
           "APPLIED PHYSICS": {
             "grade": "F",
-            "credits": "3"
+            "credits": "0"
           }
         },
         "labs": {
@@ -14186,7 +14186,7 @@
         "subjects": {
           "MATHEMATICS-I": {
             "grade": "F",
-            "credits": "3"
+            "credits": "0"
           },
           "COMMUNICATIVE ENGLISH": {
             "grade": "B",
@@ -14296,7 +14296,7 @@
         "subjects": {
           "MATHEMATICS-I": {
             "grade": "F",
-            "credits": "3"
+            "credits": "0"
           },
           "COMMUNICATIVE ENGLISH": {
             "grade": "A",
@@ -14351,7 +14351,7 @@
         "subjects": {
           "MATHEMATICS-I": {
             "grade": "F",
-            "credits": "3"
+            "credits": "0"
           },
           "COMMUNICATIVE ENGLISH": {
             "grade": "C",
@@ -14359,7 +14359,7 @@
           },
           "PROGRAMMING FOR PROBLEM SOLVING USING C": {
             "grade": "F",
-            "credits": "3"
+            "credits": "0"
           },
           "APPLIED PHYSICS": {
             "grade": "E",
@@ -14412,7 +14412,7 @@
         "subjects": {
           "MATHEMATICS-I": {
             "grade": "F",
-            "credits": "3"
+            "credits": "0"
           },
           "COMMUNICATIVE ENGLISH": {
             "grade": "C",
@@ -14467,7 +14467,7 @@
         "subjects": {
           "MATHEMATICS-I": {
             "grade": "F",
-            "credits": "3"
+            "credits": "0"
           },
           "COMMUNICATIVE ENGLISH": {
             "grade": "B",
@@ -14475,11 +14475,11 @@
           },
           "PROGRAMMING FOR PROBLEM SOLVING USING C": {
             "grade": "F",
-            "credits": "3"
+            "credits": "0"
           },
           "APPLIED PHYSICS": {
             "grade": "F",
-            "credits": "3"
+            "credits": "0"
           }
         },
         "labs": {
@@ -14542,7 +14542,7 @@
           },
           "APPLIED PHYSICS": {
             "grade": "F",
-            "credits": "3"
+            "credits": "0"
           }
         },
         "labs": {
@@ -14585,7 +14585,7 @@
         "subjects": {
           "MATHEMATICS-I": {
             "grade": "F",
-            "credits": "3"
+            "credits": "0"
           },
           "COMMUNICATIVE ENGLISH": {
             "grade": "C",
@@ -14593,11 +14593,11 @@
           },
           "PROGRAMMING FOR PROBLEM SOLVING USING C": {
             "grade": "F",
-            "credits": "3"
+            "credits": "0"
           },
           "APPLIED PHYSICS": {
             "grade": "F",
-            "credits": "3"
+            "credits": "0"
           }
         },
         "labs": {
@@ -14703,7 +14703,7 @@
         "subjects": {
           "MATHEMATICS-I": {
             "grade": "F",
-            "credits": "3"
+            "credits": "0"
           },
           "COMMUNICATIVE ENGLISH": {
             "grade": "B",
@@ -14758,7 +14758,7 @@
         "subjects": {
           "MATHEMATICS-I": {
             "grade": "F",
-            "credits": "3"
+            "credits": "0"
           },
           "COMMUNICATIVE ENGLISH": {
             "grade": "D",
@@ -14766,11 +14766,11 @@
           },
           "PROGRAMMING FOR PROBLEM SOLVING USING C": {
             "grade": "F",
-            "credits": "3"
+            "credits": "0"
           },
           "APPLIED PHYSICS": {
             "grade": "F",
-            "credits": "3"
+            "credits": "0"
           }
         },
         "labs": {
@@ -14821,7 +14821,7 @@
         "subjects": {
           "MATHEMATICS-I": {
             "grade": "F",
-            "credits": "3"
+            "credits": "0"
           },
           "COMMUNICATIVE ENGLISH": {
             "grade": "D",
@@ -14829,11 +14829,11 @@
           },
           "PROGRAMMING FOR PROBLEM SOLVING USING C": {
             "grade": "F",
-            "credits": "3"
+            "credits": "0"
           },
           "APPLIED PHYSICS": {
             "grade": "F",
-            "credits": "3"
+            "credits": "0"
           }
         },
         "labs": {
@@ -14884,7 +14884,7 @@
         "subjects": {
           "MATHEMATICS-I": {
             "grade": "F",
-            "credits": "3"
+            "credits": "0"
           },
           "COMMUNICATIVE ENGLISH": {
             "grade": "C",
@@ -14892,11 +14892,11 @@
           },
           "PROGRAMMING FOR PROBLEM SOLVING USING C": {
             "grade": "F",
-            "credits": "3"
+            "credits": "0"
           },
           "APPLIED PHYSICS": {
             "grade": "F",
-            "credits": "3"
+            "credits": "0"
           }
         },
         "labs": {
@@ -14947,7 +14947,7 @@
         "subjects": {
           "MATHEMATICS-I": {
             "grade": "F",
-            "credits": "3"
+            "credits": "0"
           },
           "COMMUNICATIVE ENGLISH": {
             "grade": "B",
@@ -14959,7 +14959,7 @@
           },
           "APPLIED PHYSICS": {
             "grade": "F",
-            "credits": "3"
+            "credits": "0"
           }
         },
         "labs": {
@@ -15014,7 +15014,7 @@
           },
           "APPLIED PHYSICS": {
             "grade": "F",
-            "credits": "3"
+            "credits": "0"
           }
         },
         "labs": {
@@ -15057,7 +15057,7 @@
         "subjects": {
           "MATHEMATICS-I": {
             "grade": "F",
-            "credits": "3"
+            "credits": "0"
           },
           "COMMUNICATIVE ENGLISH": {
             "grade": "C",
@@ -15065,11 +15065,11 @@
           },
           "PROGRAMMING FOR PROBLEM SOLVING USING C": {
             "grade": "F",
-            "credits": "3"
+            "credits": "0"
           },
           "APPLIED PHYSICS": {
             "grade": "F",
-            "credits": "3"
+            "credits": "0"
           }
         },
         "labs": {
@@ -15120,7 +15120,7 @@
         "subjects": {
           "MATHEMATICS-I": {
             "grade": "F",
-            "credits": "3"
+            "credits": "0"
           },
           "COMMUNICATIVE ENGLISH": {
             "grade": "C",
@@ -15128,11 +15128,11 @@
           },
           "PROGRAMMING FOR PROBLEM SOLVING USING C": {
             "grade": "F",
-            "credits": "3"
+            "credits": "0"
           },
           "APPLIED PHYSICS": {
             "grade": "F",
-            "credits": "3"
+            "credits": "0"
           }
         },
         "labs": {
@@ -15183,7 +15183,7 @@
         "subjects": {
           "MATHEMATICS-I": {
             "grade": "F",
-            "credits": "3"
+            "credits": "0"
           },
           "COMMUNICATIVE ENGLISH": {
             "grade": "A",
@@ -15191,11 +15191,11 @@
           },
           "PROGRAMMING FOR PROBLEM SOLVING USING C": {
             "grade": "F",
-            "credits": "3"
+            "credits": "0"
           },
           "APPLIED PHYSICS": {
             "grade": "F",
-            "credits": "3"
+            "credits": "0"
           }
         },
         "labs": {
@@ -15246,7 +15246,7 @@
         "subjects": {
           "MATHEMATICS-I": {
             "grade": "F",
-            "credits": "3"
+            "credits": "0"
           },
           "COMMUNICATIVE ENGLISH": {
             "grade": "B",
@@ -15254,11 +15254,11 @@
           },
           "PROGRAMMING FOR PROBLEM SOLVING USING C": {
             "grade": "F",
-            "credits": "3"
+            "credits": "0"
           },
           "APPLIED PHYSICS": {
             "grade": "F",
-            "credits": "3"
+            "credits": "0"
           }
         },
         "labs": {
@@ -15309,7 +15309,7 @@
         "subjects": {
           "MATHEMATICS-I": {
             "grade": "F",
-            "credits": "3"
+            "credits": "0"
           },
           "COMMUNICATIVE ENGLISH": {
             "grade": "D",
@@ -15364,7 +15364,7 @@
         "subjects": {
           "MATHEMATICS-I": {
             "grade": "F",
-            "credits": "3"
+            "credits": "0"
           },
           "COMMUNICATIVE ENGLISH": {
             "grade": "B",
@@ -15372,11 +15372,11 @@
           },
           "PROGRAMMING FOR PROBLEM SOLVING USING C": {
             "grade": "F",
-            "credits": "3"
+            "credits": "0"
           },
           "APPLIED PHYSICS": {
             "grade": "F",
-            "credits": "3"
+            "credits": "0"
           }
         },
         "labs": {
@@ -15427,7 +15427,7 @@
         "subjects": {
           "MATHEMATICS-I": {
             "grade": "F",
-            "credits": "3"
+            "credits": "0"
           },
           "COMMUNICATIVE ENGLISH": {
             "grade": "A",
@@ -15439,7 +15439,7 @@
           },
           "APPLIED PHYSICS": {
             "grade": "F",
-            "credits": "3"
+            "credits": "0"
           }
         },
         "labs": {
@@ -15490,7 +15490,7 @@
           },
           "PROGRAMMING FOR PROBLEM SOLVING USING C": {
             "grade": "F",
-            "credits": "3"
+            "credits": "0"
           },
           "APPLIED PHYSICS": {
             "grade": "E",
@@ -15604,7 +15604,7 @@
           },
           "APPLIED PHYSICS": {
             "grade": "F",
-            "credits": "3"
+            "credits": "0"
           }
         },
         "labs": {
@@ -15647,7 +15647,7 @@
         "subjects": {
           "MATHEMATICS-I": {
             "grade": "F",
-            "credits": "3"
+            "credits": "0"
           },
           "COMMUNICATIVE ENGLISH": {
             "grade": "A",
@@ -15714,7 +15714,7 @@
           },
           "APPLIED PHYSICS": {
             "grade": "F",
-            "credits": "3"
+            "credits": "0"
           }
         },
         "labs": {
@@ -15757,7 +15757,7 @@
         "subjects": {
           "MATHEMATICS-I": {
             "grade": "F",
-            "credits": "3"
+            "credits": "0"
           },
           "COMMUNICATIVE ENGLISH": {
             "grade": "D",
@@ -15765,7 +15765,7 @@
           },
           "PROGRAMMING FOR PROBLEM SOLVING USING C": {
             "grade": "F",
-            "credits": "3"
+            "credits": "0"
           },
           "APPLIED PHYSICS": {
             "grade": "E",
@@ -15818,7 +15818,7 @@
         "subjects": {
           "MATHEMATICS-I": {
             "grade": "F",
-            "credits": "3"
+            "credits": "0"
           },
           "COMMUNICATIVE ENGLISH": {
             "grade": "B",
@@ -15826,11 +15826,11 @@
           },
           "PROGRAMMING FOR PROBLEM SOLVING USING C": {
             "grade": "F",
-            "credits": "3"
+            "credits": "0"
           },
           "APPLIED PHYSICS": {
             "grade": "F",
-            "credits": "3"
+            "credits": "0"
           }
         },
         "labs": {
@@ -15881,7 +15881,7 @@
         "subjects": {
           "MATHEMATICS-I": {
             "grade": "F",
-            "credits": "3"
+            "credits": "0"
           },
           "COMMUNICATIVE ENGLISH": {
             "grade": "B",
@@ -15889,11 +15889,11 @@
           },
           "PROGRAMMING FOR PROBLEM SOLVING USING C": {
             "grade": "F",
-            "credits": "3"
+            "credits": "0"
           },
           "APPLIED PHYSICS": {
             "grade": "F",
-            "credits": "3"
+            "credits": "0"
           }
         },
         "labs": {
@@ -15956,7 +15956,7 @@
           },
           "APPLIED PHYSICS": {
             "grade": "F",
-            "credits": "3"
+            "credits": "0"
           }
         },
         "labs": {
@@ -16056,7 +16056,7 @@
         "subjects": {
           "MATHEMATICS-I": {
             "grade": "F",
-            "credits": "3"
+            "credits": "0"
           },
           "COMMUNICATIVE ENGLISH": {
             "grade": "C",
@@ -16111,7 +16111,7 @@
         "subjects": {
           "MATHEMATICS-I": {
             "grade": "F",
-            "credits": "3"
+            "credits": "0"
           },
           "COMMUNICATIVE ENGLISH": {
             "grade": "A",
@@ -16127,7 +16127,7 @@
           },
           "ENGINEERING DRAWING & DESIGN": {
             "grade": "F",
-            "credits": "3"
+            "credits": "0"
           }
         },
         "labs": {
@@ -16166,7 +16166,7 @@
         "subjects": {
           "MATHEMATICS-I": {
             "grade": "F",
-            "credits": "3"
+            "credits": "0"
           },
           "COMMUNICATIVE ENGLISH": {
             "grade": "A",
@@ -16178,11 +16178,11 @@
           },
           "PROGRAMMING FOR PROBLEM SOLVING USING C": {
             "grade": "F",
-            "credits": "3"
+            "credits": "0"
           },
           "ENGINEERING DRAWING & DESIGN": {
             "grade": "F",
-            "credits": "3"
+            "credits": "0"
           }
         },
         "labs": {
@@ -16229,7 +16229,7 @@
         "subjects": {
           "MATHEMATICS-I": {
             "grade": "F",
-            "credits": "3"
+            "credits": "0"
           },
           "COMMUNICATIVE ENGLISH": {
             "grade": "A",
@@ -16241,11 +16241,11 @@
           },
           "PROGRAMMING FOR PROBLEM SOLVING USING C": {
             "grade": "F",
-            "credits": "3"
+            "credits": "0"
           },
           "ENGINEERING DRAWING & DESIGN": {
             "grade": "F",
-            "credits": "3"
+            "credits": "0"
           }
         },
         "labs": {
@@ -16308,7 +16308,7 @@
           },
           "ENGINEERING DRAWING & DESIGN": {
             "grade": "F",
-            "credits": "3"
+            "credits": "0"
           }
         },
         "labs": {
@@ -16347,7 +16347,7 @@
         "subjects": {
           "MATHEMATICS-I": {
             "grade": "F",
-            "credits": "3"
+            "credits": "0"
           },
           "COMMUNICATIVE ENGLISH": {
             "grade": "E",
@@ -16359,11 +16359,11 @@
           },
           "PROGRAMMING FOR PROBLEM SOLVING USING C": {
             "grade": "F",
-            "credits": "3"
+            "credits": "0"
           },
           "ENGINEERING DRAWING & DESIGN": {
             "grade": "F",
-            "credits": "3"
+            "credits": "0"
           }
         },
         "labs": {
@@ -16410,7 +16410,7 @@
         "subjects": {
           "MATHEMATICS-I": {
             "grade": "F",
-            "credits": "3"
+            "credits": "0"
           },
           "COMMUNICATIVE ENGLISH": {
             "grade": "B",
@@ -16422,7 +16422,7 @@
           },
           "PROGRAMMING FOR PROBLEM SOLVING USING C": {
             "grade": "F",
-            "credits": "3"
+            "credits": "0"
           },
           "ENGINEERING DRAWING & DESIGN": {
             "grade": "E",
@@ -16483,7 +16483,7 @@
           },
           "PROGRAMMING FOR PROBLEM SOLVING USING C": {
             "grade": "F",
-            "credits": "3"
+            "credits": "0"
           },
           "ENGINEERING DRAWING & DESIGN": {
             "grade": "C",
@@ -16581,7 +16581,7 @@
         "subjects": {
           "MATHEMATICS-I": {
             "grade": "F",
-            "credits": "3"
+            "credits": "0"
           },
           "COMMUNICATIVE ENGLISH": {
             "grade": "B",
@@ -16648,7 +16648,7 @@
           },
           "PROGRAMMING FOR PROBLEM SOLVING USING C": {
             "grade": "F",
-            "credits": "3"
+            "credits": "0"
           },
           "ENGINEERING DRAWING & DESIGN": {
             "grade": "D",
@@ -16746,7 +16746,7 @@
         "subjects": {
           "MATHEMATICS-I": {
             "grade": "F",
-            "credits": "3"
+            "credits": "0"
           },
           "COMMUNICATIVE ENGLISH": {
             "grade": "D",
@@ -16754,15 +16754,15 @@
           },
           "MATHEMATICS-II": {
             "grade": "F",
-            "credits": "3"
+            "credits": "0"
           },
           "PROGRAMMING FOR PROBLEM SOLVING USING C": {
             "grade": "F",
-            "credits": "3"
+            "credits": "0"
           },
           "ENGINEERING DRAWING & DESIGN": {
             "grade": "F",
-            "credits": "3"
+            "credits": "0"
           }
         },
         "labs": {
@@ -16811,7 +16811,7 @@
         "subjects": {
           "MATHEMATICS-I": {
             "grade": "F",
-            "credits": "3"
+            "credits": "0"
           },
           "COMMUNICATIVE ENGLISH": {
             "grade": "B",
@@ -16866,7 +16866,7 @@
         "subjects": {
           "MATHEMATICS-I": {
             "grade": "F",
-            "credits": "3"
+            "credits": "0"
           },
           "COMMUNICATIVE ENGLISH": {
             "grade": "A",
@@ -16976,7 +16976,7 @@
         "subjects": {
           "MATHEMATICS-I": {
             "grade": "F",
-            "credits": "3"
+            "credits": "0"
           },
           "COMMUNICATIVE ENGLISH": {
             "grade": "E",
@@ -16992,7 +16992,7 @@
           },
           "ENGINEERING DRAWING & DESIGN": {
             "grade": "F",
-            "credits": "3"
+            "credits": "0"
           }
         },
         "labs": {
@@ -17047,7 +17047,7 @@
           },
           "ENGINEERING DRAWING & DESIGN": {
             "grade": "F",
-            "credits": "3"
+            "credits": "0"
           }
         },
         "labs": {
@@ -17086,7 +17086,7 @@
         "subjects": {
           "MATHEMATICS-I": {
             "grade": "F",
-            "credits": "3"
+            "credits": "0"
           },
           "COMMUNICATIVE ENGLISH": {
             "grade": "A",
@@ -17141,7 +17141,7 @@
         "subjects": {
           "MATHEMATICS-I": {
             "grade": "F",
-            "credits": "3"
+            "credits": "0"
           },
           "COMMUNICATIVE ENGLISH": {
             "grade": "E",
@@ -17153,11 +17153,11 @@
           },
           "PROGRAMMING FOR PROBLEM SOLVING USING C": {
             "grade": "F",
-            "credits": "3"
+            "credits": "0"
           },
           "ENGINEERING DRAWING & DESIGN": {
             "grade": "F",
-            "credits": "3"
+            "credits": "0"
           }
         },
         "labs": {
@@ -17271,7 +17271,7 @@
           },
           "PROGRAMMING FOR PROBLEM SOLVING USING C": {
             "grade": "F",
-            "credits": "3"
+            "credits": "0"
           },
           "ENGINEERING DRAWING & DESIGN": {
             "grade": "D",
@@ -17314,7 +17314,7 @@
         "subjects": {
           "MATHEMATICS-I": {
             "grade": "F",
-            "credits": "3"
+            "credits": "0"
           },
           "COMMUNICATIVE ENGLISH": {
             "grade": "B",
@@ -17330,7 +17330,7 @@
           },
           "ENGINEERING DRAWING & DESIGN": {
             "grade": "F",
-            "credits": "3"
+            "credits": "0"
           }
         },
         "labs": {
@@ -17369,7 +17369,7 @@
         "subjects": {
           "MATHEMATICS-I": {
             "grade": "F",
-            "credits": "3"
+            "credits": "0"
           },
           "COMMUNICATIVE ENGLISH": {
             "grade": "B",
@@ -17479,7 +17479,7 @@
         "subjects": {
           "MATHEMATICS-I": {
             "grade": "F",
-            "credits": "3"
+            "credits": "0"
           },
           "COMMUNICATIVE ENGLISH": {
             "grade": "C",
@@ -17599,7 +17599,7 @@
           },
           "PROGRAMMING FOR PROBLEM SOLVING USING C": {
             "grade": "F",
-            "credits": "3"
+            "credits": "0"
           },
           "APPLIED CHEMISTRY": {
             "grade": "C",
@@ -17654,7 +17654,7 @@
           },
           "PROGRAMMING FOR PROBLEM SOLVING USING C": {
             "grade": "F",
-            "credits": "3"
+            "credits": "0"
           },
           "APPLIED CHEMISTRY": {
             "grade": "C",
@@ -17701,7 +17701,7 @@
         "subjects": {
           "MATHEMATICS-I": {
             "grade": "F",
-            "credits": "3"
+            "credits": "0"
           },
           "COMMUNICATIVE ENGLISH": {
             "grade": "A",
@@ -17921,7 +17921,7 @@
         "subjects": {
           "MATHEMATICS-I": {
             "grade": "F",
-            "credits": "3"
+            "credits": "0"
           },
           "COMMUNICATIVE ENGLISH": {
             "grade": "A",
@@ -17976,7 +17976,7 @@
         "subjects": {
           "MATHEMATICS-I": {
             "grade": "F",
-            "credits": "3"
+            "credits": "0"
           },
           "COMMUNICATIVE ENGLISH": {
             "grade": "C",
@@ -18086,7 +18086,7 @@
         "subjects": {
           "MATHEMATICS-I": {
             "grade": "F",
-            "credits": "3"
+            "credits": "0"
           },
           "COMMUNICATIVE ENGLISH": {
             "grade": "C",
@@ -18094,7 +18094,7 @@
           },
           "PROGRAMMING FOR PROBLEM SOLVING USING C": {
             "grade": "F",
-            "credits": "3"
+            "credits": "0"
           },
           "APPLIED CHEMISTRY": {
             "grade": "E",
@@ -18367,7 +18367,7 @@
         "subjects": {
           "MATHEMATICS-I": {
             "grade": "F",
-            "credits": "3"
+            "credits": "0"
           },
           "COMMUNICATIVE ENGLISH": {
             "grade": "A",
@@ -18422,7 +18422,7 @@
         "subjects": {
           "MATHEMATICS-I": {
             "grade": "F",
-            "credits": "3"
+            "credits": "0"
           },
           "COMMUNICATIVE ENGLISH": {
             "grade": "B",
@@ -18430,7 +18430,7 @@
           },
           "PROGRAMMING FOR PROBLEM SOLVING USING C": {
             "grade": "F",
-            "credits": "3"
+            "credits": "0"
           },
           "APPLIED CHEMISTRY": {
             "grade": "D",
@@ -18491,7 +18491,7 @@
           },
           "PROGRAMMING FOR PROBLEM SOLVING USING C": {
             "grade": "F",
-            "credits": "3"
+            "credits": "0"
           },
           "APPLIED CHEMISTRY": {
             "grade": "A",
@@ -18546,7 +18546,7 @@
           },
           "PROGRAMMING FOR PROBLEM SOLVING USING C": {
             "grade": "F",
-            "credits": "3"
+            "credits": "0"
           },
           "APPLIED CHEMISTRY": {
             "grade": "D",
@@ -18593,7 +18593,7 @@
         "subjects": {
           "MATHEMATICS-I": {
             "grade": "F",
-            "credits": "3"
+            "credits": "0"
           },
           "COMMUNICATIVE ENGLISH": {
             "grade": "B",
@@ -18605,7 +18605,7 @@
           },
           "APPLIED CHEMISTRY": {
             "grade": "F",
-            "credits": "3"
+            "credits": "0"
           }
         },
         "labs": {
@@ -18648,7 +18648,7 @@
         "subjects": {
           "MATHEMATICS-I": {
             "grade": "F",
-            "credits": "3"
+            "credits": "0"
           },
           "COMMUNICATIVE ENGLISH": {
             "grade": "A",
@@ -18656,7 +18656,7 @@
           },
           "PROGRAMMING FOR PROBLEM SOLVING USING C": {
             "grade": "F",
-            "credits": "3"
+            "credits": "0"
           },
           "APPLIED CHEMISTRY": {
             "grade": "E",
@@ -18709,7 +18709,7 @@
         "subjects": {
           "MATHEMATICS-I": {
             "grade": "F",
-            "credits": "3"
+            "credits": "0"
           },
           "COMMUNICATIVE ENGLISH": {
             "grade": "A",
@@ -18819,7 +18819,7 @@
         "subjects": {
           "MATHEMATICS-I": {
             "grade": "F",
-            "credits": "3"
+            "credits": "0"
           },
           "COMMUNICATIVE ENGLISH": {
             "grade": "B",
@@ -18827,7 +18827,7 @@
           },
           "PROGRAMMING FOR PROBLEM SOLVING USING C": {
             "grade": "F",
-            "credits": "3"
+            "credits": "0"
           },
           "APPLIED CHEMISTRY": {
             "grade": "D",
@@ -18880,7 +18880,7 @@
         "subjects": {
           "MATHEMATICS-I": {
             "grade": "F",
-            "credits": "3"
+            "credits": "0"
           },
           "COMMUNICATIVE ENGLISH": {
             "grade": "A",
@@ -18888,7 +18888,7 @@
           },
           "PROGRAMMING FOR PROBLEM SOLVING USING C": {
             "grade": "F",
-            "credits": "3"
+            "credits": "0"
           },
           "APPLIED CHEMISTRY": {
             "grade": "C",
@@ -18996,7 +18996,7 @@
         "subjects": {
           "MATHEMATICS-I": {
             "grade": "F",
-            "credits": "3"
+            "credits": "0"
           },
           "COMMUNICATIVE ENGLISH": {
             "grade": "B",
@@ -19051,7 +19051,7 @@
         "subjects": {
           "MATHEMATICS-I": {
             "grade": "F",
-            "credits": "3"
+            "credits": "0"
           },
           "COMMUNICATIVE ENGLISH": {
             "grade": "A",
@@ -19059,7 +19059,7 @@
           },
           "PROGRAMMING FOR PROBLEM SOLVING USING C": {
             "grade": "F",
-            "credits": "3"
+            "credits": "0"
           },
           "APPLIED CHEMISTRY": {
             "grade": "D",
@@ -19277,7 +19277,7 @@
         "subjects": {
           "MATHEMATICS-I": {
             "grade": "F",
-            "credits": "3"
+            "credits": "0"
           },
           "COMMUNICATIVE ENGLISH": {
             "grade": "A",
@@ -19285,7 +19285,7 @@
           },
           "PROGRAMMING FOR PROBLEM SOLVING USING C": {
             "grade": "F",
-            "credits": "3"
+            "credits": "0"
           },
           "APPLIED CHEMISTRY": {
             "grade": "E",
@@ -19503,7 +19503,7 @@
         "subjects": {
           "MATHEMATICS-I": {
             "grade": "F",
-            "credits": "3"
+            "credits": "0"
           },
           "COMMUNICATIVE ENGLISH": {
             "grade": "B",
@@ -19515,7 +19515,7 @@
           },
           "APPLIED CHEMISTRY": {
             "grade": "F",
-            "credits": "3"
+            "credits": "0"
           }
         },
         "labs": {
@@ -19723,7 +19723,7 @@
         "subjects": {
           "MATHEMATICS-I": {
             "grade": "F",
-            "credits": "3"
+            "credits": "0"
           },
           "COMMUNICATIVE ENGLISH": {
             "grade": "A",
@@ -19778,7 +19778,7 @@
         "subjects": {
           "MATHEMATICS-I": {
             "grade": "F",
-            "credits": "3"
+            "credits": "0"
           },
           "COMMUNICATIVE ENGLISH": {
             "grade": "D",
@@ -19786,7 +19786,7 @@
           },
           "PROGRAMMING FOR PROBLEM SOLVING USING C": {
             "grade": "F",
-            "credits": "3"
+            "credits": "0"
           },
           "APPLIED CHEMISTRY": {
             "grade": "E",
@@ -19847,7 +19847,7 @@
           },
           "PROGRAMMING FOR PROBLEM SOLVING USING C": {
             "grade": "F",
-            "credits": "3"
+            "credits": "0"
           },
           "APPLIED CHEMISTRY": {
             "grade": "D",
@@ -20067,7 +20067,7 @@
           },
           "PROGRAMMING FOR PROBLEM SOLVING USING C": {
             "grade": "F",
-            "credits": "3"
+            "credits": "0"
           },
           "APPLIED CHEMISTRY": {
             "grade": "E",
@@ -20114,7 +20114,7 @@
         "subjects": {
           "MATHEMATICS-I": {
             "grade": "F",
-            "credits": "3"
+            "credits": "0"
           },
           "COMMUNICATIVE ENGLISH": {
             "grade": "C",
@@ -20122,7 +20122,7 @@
           },
           "PROGRAMMING FOR PROBLEM SOLVING USING C": {
             "grade": "F",
-            "credits": "3"
+            "credits": "0"
           },
           "APPLIED CHEMISTRY": {
             "grade": "D",
@@ -20187,7 +20187,7 @@
           },
           "APPLIED CHEMISTRY": {
             "grade": "F",
-            "credits": "3"
+            "credits": "0"
           }
         },
         "labs": {
@@ -20230,7 +20230,7 @@
         "subjects": {
           "MATHEMATICS-I": {
             "grade": "F",
-            "credits": "3"
+            "credits": "0"
           },
           "COMMUNICATIVE ENGLISH": {
             "grade": "B",
@@ -20238,7 +20238,7 @@
           },
           "PROGRAMMING FOR PROBLEM SOLVING USING C": {
             "grade": "F",
-            "credits": "3"
+            "credits": "0"
           },
           "APPLIED CHEMISTRY": {
             "grade": "E",
@@ -20684,7 +20684,7 @@
           },
           "PROGRAMMING FOR PROBLEM SOLVING USING C": {
             "grade": "F",
-            "credits": "3"
+            "credits": "0"
           },
           "APPLIED CHEMISTRY": {
             "grade": "D",
@@ -20731,7 +20731,7 @@
         "subjects": {
           "MATHEMATICS-I": {
             "grade": "F",
-            "credits": "3"
+            "credits": "0"
           },
           "COMMUNICATIVE ENGLISH": {
             "grade": "A",
@@ -20841,7 +20841,7 @@
         "subjects": {
           "MATHEMATICS-I": {
             "grade": "F",
-            "credits": "3"
+            "credits": "0"
           },
           "COMMUNICATIVE ENGLISH": {
             "grade": "A",
@@ -20896,7 +20896,7 @@
         "subjects": {
           "MATHEMATICS-I": {
             "grade": "F",
-            "credits": "3"
+            "credits": "0"
           },
           "COMMUNICATIVE ENGLISH": {
             "grade": "B",
@@ -20904,7 +20904,7 @@
           },
           "PROGRAMMING FOR PROBLEM SOLVING USING C": {
             "grade": "F",
-            "credits": "3"
+            "credits": "0"
           },
           "APPLIED CHEMISTRY": {
             "grade": "C",
@@ -21067,7 +21067,7 @@
         "subjects": {
           "MATHEMATICS-I": {
             "grade": "F",
-            "credits": "3"
+            "credits": "0"
           },
           "COMMUNICATIVE ENGLISH": {
             "grade": "B",
@@ -21075,11 +21075,11 @@
           },
           "PROGRAMMING FOR PROBLEM SOLVING USING C": {
             "grade": "F",
-            "credits": "3"
+            "credits": "0"
           },
           "APPLIED CHEMISTRY": {
             "grade": "F",
-            "credits": "3"
+            "credits": "0"
           }
         },
         "labs": {
@@ -21295,7 +21295,7 @@
         "subjects": {
           "MATHEMATICS-I": {
             "grade": "F",
-            "credits": "3"
+            "credits": "0"
           },
           "COMMUNICATIVE ENGLISH": {
             "grade": "B",
@@ -21303,7 +21303,7 @@
           },
           "PROGRAMMING FOR PROBLEM SOLVING USING C": {
             "grade": "F",
-            "credits": "3"
+            "credits": "0"
           },
           "APPLIED CHEMISTRY": {
             "grade": "E",
@@ -21356,7 +21356,7 @@
         "subjects": {
           "MATHEMATICS-I": {
             "grade": "F",
-            "credits": "3"
+            "credits": "0"
           },
           "COMMUNICATIVE ENGLISH": {
             "grade": "D",
@@ -21368,7 +21368,7 @@
           },
           "APPLIED CHEMISTRY": {
             "grade": "F",
-            "credits": "3"
+            "credits": "0"
           }
         },
         "labs": {
@@ -21521,7 +21521,7 @@
         "subjects": {
           "MATHEMATICS-I": {
             "grade": "F",
-            "credits": "3"
+            "credits": "0"
           },
           "COMMUNICATIVE ENGLISH": {
             "grade": "A",
@@ -21576,7 +21576,7 @@
         "subjects": {
           "MATHEMATICS-I": {
             "grade": "F",
-            "credits": "3"
+            "credits": "0"
           },
           "COMMUNICATIVE ENGLISH": {
             "grade": "D",
@@ -21584,7 +21584,7 @@
           },
           "PROGRAMMING FOR PROBLEM SOLVING USING C": {
             "grade": "F",
-            "credits": "3"
+            "credits": "0"
           },
           "APPLIED CHEMISTRY": {
             "grade": "D",
@@ -21637,7 +21637,7 @@
         "subjects": {
           "MATHEMATICS-I": {
             "grade": "F",
-            "credits": "3"
+            "credits": "0"
           },
           "COMMUNICATIVE ENGLISH": {
             "grade": "C",
@@ -21645,11 +21645,11 @@
           },
           "PROGRAMMING FOR PROBLEM SOLVING USING C": {
             "grade": "F",
-            "credits": "3"
+            "credits": "0"
           },
           "APPLIED CHEMISTRY": {
             "grade": "F",
-            "credits": "3"
+            "credits": "0"
           }
         },
         "labs": {
@@ -21708,11 +21708,11 @@
           },
           "PROGRAMMING FOR PROBLEM SOLVING USING C": {
             "grade": "F",
-            "credits": "3"
+            "credits": "0"
           },
           "APPLIED CHEMISTRY": {
             "grade": "F",
-            "credits": "3"
+            "credits": "0"
           }
         },
         "labs": {
@@ -21761,7 +21761,7 @@
         "subjects": {
           "MATHEMATICS-I": {
             "grade": "F",
-            "credits": "3"
+            "credits": "0"
           },
           "COMMUNICATIVE ENGLISH": {
             "grade": "C",
@@ -21769,11 +21769,11 @@
           },
           "PROGRAMMING FOR PROBLEM SOLVING USING C": {
             "grade": "F",
-            "credits": "3"
+            "credits": "0"
           },
           "APPLIED CHEMISTRY": {
             "grade": "F",
-            "credits": "3"
+            "credits": "0"
           }
         },
         "labs": {
@@ -21824,7 +21824,7 @@
         "subjects": {
           "MATHEMATICS-I": {
             "grade": "F",
-            "credits": "3"
+            "credits": "0"
           },
           "COMMUNICATIVE ENGLISH": {
             "grade": "C",
@@ -21832,11 +21832,11 @@
           },
           "PROGRAMMING FOR PROBLEM SOLVING USING C": {
             "grade": "F",
-            "credits": "3"
+            "credits": "0"
           },
           "APPLIED CHEMISTRY": {
             "grade": "F",
-            "credits": "3"
+            "credits": "0"
           }
         },
         "labs": {
@@ -21887,19 +21887,19 @@
         "subjects": {
           "MATHEMATICS-I": {
             "grade": "F",
-            "credits": "3"
+            "credits": "0"
           },
           "COMMUNICATIVE ENGLISH": {
             "grade": "F",
-            "credits": "3"
+            "credits": "0"
           },
           "PROGRAMMING FOR PROBLEM SOLVING USING C": {
             "grade": "F",
-            "credits": "3"
+            "credits": "0"
           },
           "APPLIED CHEMISTRY": {
             "grade": "F",
-            "credits": "3"
+            "credits": "0"
           }
         },
         "labs": {
@@ -22007,7 +22007,7 @@
         "subjects": {
           "MATHEMATICS-I": {
             "grade": "F",
-            "credits": "3"
+            "credits": "0"
           },
           "COMMUNICATIVE ENGLISH": {
             "grade": "A",
@@ -22015,7 +22015,7 @@
           },
           "PROGRAMMING FOR PROBLEM SOLVING USING C": {
             "grade": "F",
-            "credits": "3"
+            "credits": "0"
           },
           "APPLIED CHEMISTRY": {
             "grade": "D",
@@ -22068,7 +22068,7 @@
         "subjects": {
           "MATHEMATICS-I": {
             "grade": "F",
-            "credits": "3"
+            "credits": "0"
           },
           "COMMUNICATIVE ENGLISH": {
             "grade": "C",
@@ -22076,11 +22076,11 @@
           },
           "PROGRAMMING FOR PROBLEM SOLVING USING C": {
             "grade": "F",
-            "credits": "3"
+            "credits": "0"
           },
           "APPLIED CHEMISTRY": {
             "grade": "F",
-            "credits": "3"
+            "credits": "0"
           }
         },
         "labs": {
@@ -22131,7 +22131,7 @@
         "subjects": {
           "MATHEMATICS-I": {
             "grade": "F",
-            "credits": "3"
+            "credits": "0"
           },
           "COMMUNICATIVE ENGLISH": {
             "grade": "D",
@@ -22143,7 +22143,7 @@
           },
           "APPLIED CHEMISTRY": {
             "grade": "F",
-            "credits": "3"
+            "credits": "0"
           }
         },
         "labs": {
@@ -22194,7 +22194,7 @@
           },
           "PROGRAMMING FOR PROBLEM SOLVING USING C": {
             "grade": "F",
-            "credits": "3"
+            "credits": "0"
           },
           "APPLIED CHEMISTRY": {
             "grade": "C",
@@ -22241,7 +22241,7 @@
         "subjects": {
           "MATHEMATICS-I": {
             "grade": "F",
-            "credits": "3"
+            "credits": "0"
           },
           "COMMUNICATIVE ENGLISH": {
             "grade": "B",
@@ -22296,7 +22296,7 @@
         "subjects": {
           "MATHEMATICS-I": {
             "grade": "F",
-            "credits": "3"
+            "credits": "0"
           },
           "COMMUNICATIVE ENGLISH": {
             "grade": "B",
@@ -22304,7 +22304,7 @@
           },
           "PROGRAMMING FOR PROBLEM SOLVING USING C": {
             "grade": "F",
-            "credits": "3"
+            "credits": "0"
           },
           "APPLIED CHEMISTRY": {
             "grade": "B",
@@ -22357,7 +22357,7 @@
         "subjects": {
           "MATHEMATICS-I": {
             "grade": "F",
-            "credits": "3"
+            "credits": "0"
           },
           "COMMUNICATIVE ENGLISH": {
             "grade": "C",
@@ -22365,7 +22365,7 @@
           },
           "PROGRAMMING FOR PROBLEM SOLVING USING C": {
             "grade": "F",
-            "credits": "3"
+            "credits": "0"
           },
           "APPLIED CHEMISTRY": {
             "grade": "E",

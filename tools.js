@@ -32,4 +32,4 @@ class D {
   }
 }
 
-module.exports = new D(21, 1, 1);
+module.exports = new D(22, 1, 1);

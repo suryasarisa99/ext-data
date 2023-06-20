@@ -17,13 +17,14 @@ let mongoose = require("mongoose");
 const { studentSchema } = require("./model/student");
 let li = [];
 getPoints = { "A+": 10, A: 9, B: 8, C: 7, D: 6, E: 5, F: 0, ABSENT: 0, AB: 0 };
-let branches = ["cse", "civil", "eee", "ece", "csm", "csd"];
+// let branches = ["cse", "civil", "eee", "ece", "csm", "csd"];
+let branches = ["cses", "civils", "eees", "eces", "csms", "csds"];
 
 connect("Student").then(async (res) => {
   console.log(res);
   let data = await fromJson(d.cmpFile);
   await addAll(data);
-  // await getAll(db.sy);
+  // await getAll("22");
   console.log("Done --get-all");
 });
 
@@ -39,7 +40,7 @@ async function main() {
 async function updateGrades(file) {
   let data = await fromJson(file);
   // let branches = ["22cse", "22civil", "22eee", "22ece", "22csd", "22csm"];
-  // console.log(data);
+  console.log(data);
   console.log(branches);
   for (let branch of branches)
     for (let std of data[d.startYear + branch]) {
@@ -102,7 +103,7 @@ async function ranks(ass) {
 async function analys() {
   let data = await fromJson(d.cmpFile);
   let analysis = {};
-  let branches = ["cse", "civil", "eee", "ece", "csm", "csd"];
+  // let branches = ["cse", "civil", "eee", "ece", "csm", "csd"];
   for (let branch of branches) {
     analysis[d.sy + branch] = data[d.sy + branch].map((std) => {
       return {
@@ -155,8 +156,8 @@ async function mergeData(file1, file2) {
 }
 
 // mergeData(d.dbFile, d.extFile);
-// updateGrades(d.mergedFile);
-// analys();
+// updateGrades(d.dbFile);
+analys();
 // 1. extract data
 // 2. Merge Respected Data ( before getLatest Data from Db)
 // 3. updateGrades
